@@ -1,6 +1,6 @@
 FROM mongo:latest
 
-ADD ./data ./data
+ADD ./data .
 
 COPY ./etc ./etc
 

@@ -142,6 +142,16 @@ class Packet_handler():
                 print(self.write_q.qsize(), " items in write queue")
                 print("latest item: ", self.write_q.get())
 
+    def open_bazaar(self):
+        packets = []
+        #Click on NPC
+        packets.append(self.encoder("npc_req", 2, 9264))
+        #Click on Basar oeffnen
+        packets.append(self.encoder("n_run", 60, 0, 2, 9264))
+        for p in packets:
+            self.SS.send_packet(p)
+            time.sleep(0.1)
+
 
 if __name__ == "__main__":
         Handler = Packet_handler()

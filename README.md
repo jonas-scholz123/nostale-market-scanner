@@ -24,3 +24,5 @@ p_args[6] = 0: OrderFilter
 p_args[7] = 4: Unknown
 
 p_args[8] = [396, 555, 2047, 3005, 1, 2195]: matched item IDs
+
+For a full list of packets: https://github.com/NosCoreIO/NosCore.Packets

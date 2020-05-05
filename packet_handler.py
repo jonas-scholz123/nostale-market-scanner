@@ -46,7 +46,12 @@ class Packet_handler():
     def run(self):
         while not (self.SS.connected and self.RS.connected):
             time.sleep(1)
-            print("waiting for active connection")
+
+            if not self.SS.connected:
+                print("waiting for send server connection")
+            if not self.RS.connected:
+                print("waiting for read server connection")
+
         self.open_bazaar()
 
     def wait_for_response(self, exp_command, timeout = 5): #timeout  in seconds
@@ -98,6 +103,20 @@ class Packet_handler():
                 self.DB.make_entry(r_command, r_args)
             else:
                 print("No response was received. Moving on to next packet.")
+
+    def parse_basar_search(self, search_args):
+        '''search_args = list of packet arguments returned by search_bazaar package.
+                         Each packet is one bazaar entry'''
+
+        entries = args[1:]
+
+        entry_df = pd.DataFrame([e.split("|") for e in entries])
+        entry_df.columns = ["basarID", "sellerID", "sellerName", "itemID", "quantity",
+                            "unknown3", "price", "expiryTime", "unknown4", "unknown5",
+                            "unknown6", "unknown7", "unknown8", "unknown9", "unknown10"]
+        return entry_df
+
+
 
     def get_search_packet(self, db, item_name):
         """ Searches db by item name and returns bazaar search packet"""

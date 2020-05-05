@@ -44,14 +44,6 @@ class Packet_handler():
         return " ".join([p_command] + p_args_str)
 
     def run(self):
-#        while self.active:
-#            time.sleep(0.1) # TODO: REMOVE FOR PRODUCTION
-#            if not self.read_q.empty():
-#                print(self.read_q.qsize(), " items in read queue")
-#                print("latest item: ", self.read_q.get())
-#            if not self.write_q.empty():
-#                print(self.write_q.qsize(), " items in write queue")
-#                print("latest item: ", self.write_q.get())
         while not (self.SS.connected and self.RS.connected):
             time.sleep(1)
             print("waiting for active connection")

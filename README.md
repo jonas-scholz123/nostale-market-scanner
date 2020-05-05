@@ -1,11 +1,11 @@
 # nostale-market-scanner
 Market scanner tool that checks prices for items and maintains a database of price developments.
 
-#Example Packet:
+# Example Packet:
 
-c_blist  0 0 0 0 0 0 0 4 396 555 2047 3005 1 2195
+## c_blist  0 0 0 0 0 0 0 4 396 555 2047 3005 1 2195
 
-p_command = c_blist
+p_command = c_blist: Search Bazaar
 
 p_args[0] = 0: PacketIndex
 

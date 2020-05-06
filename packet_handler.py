@@ -3,6 +3,7 @@ import sys
 import win32pipe, win32file, pywintypes
 import threading
 import queue
+import pymongo
 
 from send_server import Send_server
 from read_server import Read_server
@@ -122,6 +123,18 @@ class Packet_handler():
         """ Searches db by item name and returns bazaar search packet"""
         return search_packet
 
+class DB_handler():
+
+    def __init__(self):
+        self.localhost_adress = "mongodb://localhost:27017/" # TODO: Check
+        self.db_client = pymongo.MongoClient(self.localhost_adress)
+
+        self.db = self.db_client["db"] # TODO: CHECK
+        self.basarframe = self.db["basarframe"]
+
+    def insert_entry(self, df):
+        records = self.basarframe.insert_many(df.to_dict('records'))
+        return
 
 if __name__ == "__main__":
         Handler = Packet_handler()

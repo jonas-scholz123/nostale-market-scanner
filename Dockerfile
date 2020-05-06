@@ -1,8 +1,8 @@
 FROM mongo:latest
 
-ADD ./data .
+ADD /data .
 
-COPY ./etc ./etc
+COPY /etc /etc
 
 EXPOSE 27017
 

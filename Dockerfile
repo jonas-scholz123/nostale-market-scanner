@@ -1,6 +1,6 @@
 FROM mongo:latest
 
-RUN ll
+RUN ls
 
 ADD /data .
 

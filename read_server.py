@@ -64,4 +64,3 @@ class Read_server(threading.Thread):
                 packet = self.read_packet()
                 if not self.should_ignore(packet):
                     self.read_q.put(packet)
-                    print("passing packet ", packet, " on to handler")

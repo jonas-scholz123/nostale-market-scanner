@@ -2,9 +2,9 @@ FROM mongo:latest
 
 RUN ls
 
-ADD ../../data .
+ADD ./github/workspace/data /data
 
-COPY ../../etc /etc
+COPY ./github/workspace/etc/mongod.conf /etc
 
 EXPOSE 27017
 

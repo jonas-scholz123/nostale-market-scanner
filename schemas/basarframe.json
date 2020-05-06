@@ -1,0 +1,11 @@
+{
+  "basarframe": {
+    "basarID": { "bsonType":  "objectId"},
+    "sellerID": { "bsonType":  "string"},
+    "sellerName": { "bsonType":  "string"},
+    "itemID": { "bsonType":  "string"},
+    "quantity": { "bsonType":  "int"},
+    "price": { "bsonType":  "int"},
+    "date": { "bsonType":  "date"}
+  }
+}

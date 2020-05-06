@@ -38,8 +38,8 @@ class Packet_handler():
 
         return
 
-    def get_scannables(self, fpath = "nostale_packet_IDs.csv"):
-        packetIDs = pd.read_csv("nostale_packet_IDs.csv")
+    def get_scannables(self, fpath = "../nostale_packet_IDs.csv"):
+        packetIDs = pd.read_csv(fpath)
         scannables = packetIDs[packetIDs["toScan"] == 1].copy()
         self.scannables = scannables.drop("toScan", axis = 1)
         return

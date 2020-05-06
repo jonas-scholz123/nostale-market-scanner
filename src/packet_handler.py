@@ -5,11 +5,13 @@ import threading
 import queue
 import pymongo
 import pandas as pd
+import psutil
 from pprint import pprint
 
 from send_server import Send_server
 from read_server import Read_server
 from db_handler import DB_handler
+from injector import Injector
 
 class Packet_handler():
 
@@ -19,6 +21,12 @@ class Packet_handler():
         self.buf_size = 10 # buf size for queue
         self.read_q = queue.Queue(self.buf_size)
         self.write_q = queue.Queue(self.buf_size)
+
+        #needed for dll injection
+        self.paths_dll = [r"C:\Users\jonas\Desktop\nostale-packet-sender-master\nostale-packet-sender-master\build\nostale_packet_sender.dll",
+                    r"C:\Users\jonas\Desktop\nostale-packet-sender-master\nostale-packet-publisher-master\build\nostale_packet_publisher.dll"]
+        self.pid = self.get_pid("NostaleClientX.exe")
+        self.inject_dlls()
 
         # read csv to find which items to scan:
         self.get_scannables()
@@ -37,6 +45,31 @@ class Packet_handler():
 
 
         return
+
+    def get_pid(self, process_name):
+        for proc in psutil.process_iter():
+            try:
+               if proc.name() == process_name:
+                   self.pid = proc.pid
+                   return proc.pid
+            except (psutil.AccessDenied):
+               pass
+
+        print("Can not find Nostale, terminating.")
+
+    def inject_dlls(self):
+        injector = Injector()
+
+        # Load the process from a given pid
+        injector.load_from_pid(self.pid)
+
+        # Inject the DLL
+        for path_dll in self.paths_dll:
+            injector.inject_dll(path_dll)
+
+        # Unload to close the process handle.
+        injector.unload()
+
 
     def get_scannables(self, fpath = "../nostale_packet_IDs.csv"):
         packetIDs = pd.read_csv(fpath)

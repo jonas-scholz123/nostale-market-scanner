@@ -1,8 +1,10 @@
 FROM mongo:latest
 
-ADD ./data .
+RUN ls
 
-COPY ./etc ./etc
+ADD ./github/workspace/data /data
+
+COPY ./github/workspace/etc/mongod.conf /etc
 
 EXPOSE 27017
 

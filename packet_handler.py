@@ -4,9 +4,12 @@ import win32pipe, win32file, pywintypes
 import threading
 import queue
 import pymongo
+import pandas as pd
+from pprint import pprint
 
 from send_server import Send_server
 from read_server import Read_server
+from db_handler import DB_handler
 
 class Packet_handler():
 
@@ -17,6 +20,12 @@ class Packet_handler():
         self.read_q = queue.Queue(self.buf_size)
         self.write_q = queue.Queue(self.buf_size)
 
+        # read csv to find which items to scan:
+        self.get_scannables()
+
+        # init database handler
+        self.DB = DB_handler()
+
         #start Read Pipe
         self.RS = Read_server(self.read_q)
 
@@ -26,6 +35,13 @@ class Packet_handler():
         self.RS.start()
         self.SS.start()
 
+
+        return
+
+    def get_scannables(self, fpath = "nostale_packet_IDs.csv"):
+        packetIDs = pd.read_csv("nostale_packet_IDs.csv")
+        scannables = packetIDs[packetIDs["toScan"] == 1].copy()
+        self.scannables = scannables.drop("toScan", axis = 1)
         return
 
     def parser(self, packet):
@@ -35,7 +51,6 @@ class Packet_handler():
         elif packet.startswith("recv"):
             split_packet = packet.split(" ")
             p_command = split_packet[1]
-            print("understood command" , p_command)
             p_args    = split_packet[2:]
             return p_command, p_args
 
@@ -53,9 +68,22 @@ class Packet_handler():
             if not self.RS.connected:
                 print("waiting for read server connection")
 
-        self.open_bazaar()
+        self.market_scanner()
 
-    def wait_for_response(self, exp_command, timeout = 5): #timeout  in seconds
+    def market_scanner(self):
+        self.open_bazaar()
+        print("basar opened")
+        time.sleep(3)
+
+        while True:
+            for item_name, itemID, packet in self.scannables.values:
+                self.search_bazaar(packet, item_name)
+                time.sleep(1.5)
+            time.sleep(60)
+
+        return
+
+    def wait_for_response(self, exp_command, timeout = 10): #timeout  in seconds
 
         print("waiting for response with command ", exp_command)
 
@@ -69,10 +97,11 @@ class Packet_handler():
                 if r_command == exp_command: # if the return packet command matches the expected command, response is received
                     print("response received")
                     received = True
+                    return received, r_command, r_args
             else:
                 time.sleep(refresh_time)
                 t_counter += 1
-        return received, r_command, r_args
+        return received, 0, 0
 
     def open_bazaar(self):
         packets = []
@@ -92,29 +121,35 @@ class Packet_handler():
                 return False
         return True
 
-    def search_bazaar(self):
+    def search_bazaar(self, packet, item_name):
         # loop through db and send nostale_packet_IDs
-        # TODO: Jan help me set this up
-        packets = []
 
-        for p in packets:
-            self.SS.send_packet(p)
-            received, r_command, r_args = self.wait_for_response("rc_blist")
-            if received:
-                self.DB.make_entry(r_command, r_args)
-            else:
-                print("No response was received. Moving on to next packet.")
+
+        self.SS.send_packet(packet)
+        received, r_command, r_args = self.wait_for_response("rc_blist")
+        if received:
+            entry_df = self.parse_basar_search(r_args)
+            entry_df.insert(1, "itemName", [item_name for i in range(len(entry_df.index))])
+            self.DB.insert_entry(entry_df)
+        else:
+            print("No response was received. Moving on to next packet.")
 
     def parse_basar_search(self, search_args):
         '''search_args = list of packet arguments returned by search_bazaar package.
                          Each packet is one bazaar entry'''
 
-        entries = args[1:]
-
+        entries = search_args[1:]
         entry_df = pd.DataFrame([e.split("|") for e in entries])
-        entry_df.columns = ["basarID", "sellerID", "sellerName", "itemID", "quantity",
+        entry_df.columns = ["basarID", "sellerID", "sellerName", "itemID", "quantity", #_id = basarID
                             "unknown3", "price", "expiryTime", "unknown4", "unknown5",
                             "unknown6", "unknown7", "unknown8", "unknown9", "unknown10"]
+
+
+        to_drop = [entry for entry in entry_df.columns.tolist() if entry.startswith("unknown")]
+
+        entry_df.drop(labels = to_drop, axis = 1, inplace = True)
+        entry_df.dropna(inplace = True)
+
         return entry_df
 
 
@@ -123,19 +158,8 @@ class Packet_handler():
         """ Searches db by item name and returns bazaar search packet"""
         return search_packet
 
-class DB_handler():
 
-    def __init__(self):
-        self.localhost_adress = "mongodb://localhost:27017/" # TODO: Check
-        self.db_client = pymongo.MongoClient(self.localhost_adress)
-
-        self.db = self.db_client["db"] # TODO: CHECK
-        self.basarframe = self.db["basarframe"]
-
-    def insert_entry(self, df):
-        records = self.basarframe.insert_many(df.to_dict('records'))
-        return
 
 if __name__ == "__main__":
-        Handler = Packet_handler()
-        Handler.run()
+    Handler = Packet_handler()
+    Handler.run()

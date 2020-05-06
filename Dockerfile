@@ -1,5 +1,7 @@
 FROM mongo:latest
 
+RUN ll
+
 ADD /data .
 
 COPY /etc /etc

@@ -2,9 +2,9 @@ FROM mongo:latest
 
 RUN ls
 
-ADD /data .
+ADD ../../data .
 
-COPY /etc /etc
+COPY ../../etc /etc
 
 EXPOSE 27017
 

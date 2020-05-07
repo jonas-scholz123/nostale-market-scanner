@@ -1,0 +1,3958 @@
+itemID,itemName,toScan
+1,Holzstock,0
+2,Holzknüppel,0
+3,Holzschwert,0
+4,Holzhammer,0
+5,Schwerer Holzhammer,0
+6,Holzschwert des Lehrlings,0
+7,Schwert des Abenteurers,0
+8,Holzschleuder,0
+9,Schwere Holzschleuder,0
+10,Holzschleuder des Lehrlings,0
+11,Schleuder des Abenteurers,0
+12,Kleidung,0
+13,Trainingsuniform,0
+14,Abenteurerkleidung,0
+15,Trainingsrüstung,0
+16,Mantelset des Reisenden,0
+17,Warmes Mantelset,0
+18,Anfängerschwert,0
+19,Kurzschwert,0
+20,Schwert des Leidens,0
+21,Kurzes Schwert,0
+22,Bronzenes Schwert,0
+23,Säbel,0
+24,Breitschwert des Geistes,0
+25,Falchion,0
+26,Goldener Säbel,0
+29,Breitschwert,0
+28,Langschwert der Macht,0
+30,Skyabona,0
+31,Claymore,0
+32,Anfängerbogen,0
+33,Kleiner Bogen,0
+34,Bogen der Geschwindigkeit,0
+35,Bambusbogen,0
+36,Magischer Bogen,0
+37,Eichenbogen,0
+38,Bogen des Windes,0
+39,Hornbogen,0
+40,Lederbogen,0
+41,Jagdbogen,0
+42,Bogen des Mutes,0
+43,Langbogen,0
+44,Bronzebogen,0
+45,Bogen des Geistes,0
+46,Anfängerzauberstab,0
+47,Roter Perlenzauberstab,0
+48,Zauberstab des Geistes,0
+49,Rubinzauberstab,0
+50,Magischer Zauberstab,0
+51,Blauer Perlenzauberstab,0
+52,Zauberstab des Lichts,0
+53,Zauberrute mit Opal,0
+54,Manaherstellender Zauberstab,0
+55,Korallenbesetzter Zauberstab,0
+56,Zauberstab der Ehre,0
+57,Kristallzauberstab,0
+58,Zauberstab der Intelligenz,0
+59,Zauberstab des Schattens,0
+60,Lederhandschuhe,0
+61,Haltbare Handschuhe,0
+62,Abenteurerschuhe,0
+63,Stöckelschuhe,0
+64,Lederschuhe,0
+65,Rollschuhe,0
+66,Schwert des Meisters,0
+67,Schleuder des Meisters,0
+68,Anfängerarmbrust,0
+69,Armbrust aus Eichenholz,0
+70,Feenarmbrust,0
+71,Dünne Handschuhe,0
+72,Gummihandschuhe,0
+73,Stählerne Armbrust,0
+74,Meisterliche Armbrust,0
+75,Armbrust der Schatten,0
+76,Buchenholzarmbrust,0
+77,Armbrust des Mutes,0
+78,Anfängerdolch,0
+79,Dolch,0
+80,Dolch der Qual,0
+81,Edler Dolch,0
+82,Meisterhafter Dolch,0
+83,Messingdolch,0
+84,Rubindolch,0
+85,Dolch des Geistes,0
+86,Anfängerzauberwaffe,0
+87,Kleine Zauberwaffe,0
+88,Magische Zauberwaffe,0
+89,Goldene Zauberwaffe,0
+90,Meisterhafte Zauberwaffe,0
+91,Messingzauberwaffe,0
+92,Edelmütige Zauberwaffe,0
+93,Zauberwaffe des Schattens,0
+94,Rüstung für angehende Schwertkämpfer,0
+95,Gepolsterte Rüstung,0
+96,Steppstoffrüstung,0
+97,Lederrüstung,0
+98,Rüstung der Ausdauer,0
+99,Bolzen-Lederrüstung,0
+100,Verstärkte Lederrüstung,0
+101,Schuppenrüstung,0
+102,Rüstung der Moral,0
+103,Plattenrüstung,0
+104,Goldene Nietenrüstung,0
+105,Brigantine,0
+106,Rüstung des Mutes,0
+107,Tunika für angehende Bogenschützen,0
+108,Lammledertunika,0
+109,Velourstunika,0
+110,Ziegenledertunika,0
+111,Tunika des Meidens,0
+112,Kalbsfelltunika,0
+113,Wildledertunika,0
+114,Rindsledertunika,0
+115,Tunika des Adlerauges,0
+116,Pekaritunika,0
+117,Nubuktunika,0
+118,Toskanatunika,0
+119,Geistertunika,0
+120,Gewand für angehende Magier,0
+121,Baumwollgewand,0
+122,Magisches Baumwollgewand,0
+123,Leinengewand,0
+124,Robe der Wiederherstellung,0
+125,Tweedrobe,0
+126,Verbessertes Leinengewand,0
+127,Musselinrobe,0
+128,Robe der Elemente,0
+129,Seidengewand,0
+130,Karierte Robe,0
+131,Robe mit Fischgrätenmuster,0
+132,Gewand der Finsternis,0
+133,Mantel der alten Abenteurer,0
+134,Kovoltmaske (Crew),0
+135,Gladius,0
+136,Wallonisches Schwert,0
+137,Wikingersäbel,0
+138,Entermesser,0
+139,Katzbalger,0
+140,Ritterschwert,0
+141,Totschläger,0
+142,Bogen des Lebens,0
+143,Flammenbogen,0
+144,Synthetischer Bogen,0
+145,Doppelbogen,0
+146,Wilder Bogen,0
+147,Großer Bogen,0
+148,Belagerungsbogen,0
+149,Zauberstab des Lebens,0
+150,Flammenzauberstab,0
+151,Eisige Zauberrute,0
+152,Loons Zauberrute,0
+153,Zauberstab,0
+154,Heiliger Zauberstab,0
+155,Zauberstab der Seele,0
+156,Kampfarmbrust,0
+157,Belagerungsarmbrust,0
+158,Highlanderdolch,0
+159,Poignard-Dolch,0
+160,Normale Zauberwaffe,0
+161,Bronzene Zauberwaffe,0
+162,Sicherheitsrüstung,0
+163,Harte Lederrüstung,0
+164,Rüstung des Siegers,0
+165,Rüstung des Beschützers,0
+166,Ritterrüstung,0
+167,Steinrüstung,0
+168,Blitztunika,0
+169,Naturtunika,0
+170,Hailedertunika,0
+171,Atemtunika,0
+172,Windtunika,0
+173,Dryadentunika,0
+174,Anfängergewand,0
+175,Weiche Robe,0
+176,Gewand der Klarheit,0
+177,Gemusterte Robe,0
+178,Zaubergewand,0
+179,Gewand der Quelle,0
+8001,Amulett des Angriffslevels,0
+8002,Amulett des Verteidigungslevels,0
+8003,Amulett des Angriff- und Verteidigungslevels,0
+183,Amulett der Angriffskraft,0
+184,Amulett der Verteidigung,0
+185,Meister Hatus' Geschenkbox,0
+186,Schicker Männerhut (30 Tage),0
+187,Schicker Männeranzug (30 Tage),0
+188,Schicker Männeranzug (7 Tage),0
+189,Schicker Männeranzug (unbegrenzt),0
+190,Schicker Männerhut (7 Tage),0
+191,Schicker Männerhut (unbegrenzt),0
+192,Samurai Buschi,0
+193,Starlight-Schuluniform (7 Tage),0
+194,Starlight-Schuluniform (30 Tage),0
+195,Starlight-Schuluniform (unbegrenzt),0
+196,Starlight-Haarband (7 Tage),0
+197,Starlight-Haarband (30 Tage),0
+198,Starlight-Haarband (unbegrenzt),0
+199,Hatus' Schattenlanze,0
+200,Haarreif,0
+201,Weicher Hut,0
+202,Blätter zur Tarnung,0
+203,Mandra-Ohrenschützer,0
+204,Flusspferdhut,0
+229,Trendige Brille,0
+206,Kovoltmaske,0
+215,Geweihhut,0
+216,Pümpelhut,0
+217,Haarschmuck,0
+218,Fühler,0
+219,Stirnband des Orakels,0
+220,Funny Fish-Hut,0
+221,Scheitelkäppchen,0
+222,Wasserbüffelhorn,0
+238,Rechteckige Brille,0
+224,Zwinkernde Maske,0
+225,Schlägermaske,0
+247,Monokel,0
+227,X-Maske,0
+228,Bart und Makeup,0
+248,Amulett des Blockierens sämtlicher Angriffe,0
+249,Amulett des Feuerelements,0
+250,Amulett des Wasserelements,0
+251,Amulett des Lichtelements,0
+252,Amulett des Schattenelements,0
+253,Amulett zur Steigerung der dunklen Energie,0
+254,Hüpfendes Chicky,0
+255,Tanzendes Chicky,0
+256,Grimmiges Chicky,0
+257,Amulett des Wettschutzes (Waffe),0
+258,Amulett des Wettschutzes (Ausrüstung),0
+259,Amulett für den Aufstieg des seltenen Levels,0
+260,Amulett für die Verstärkung einer Waffe mit fixiertem Level,0
+261,Amulett der Rüstungsverstärkung,0
+262,Elvins Schwert,0
+263,Glorreicher Säbel,0
+264,Abgebrochenes Elementarschwert,0
+265,Roter Bogen,0
+266,Bogen des Friedens,0
+267,Majestätischer Bogen,0
+268,Legendärer Zauberstab,0
+269,Zauberrute des Geistes,0
+270,Majestätischer Zauberstab,0
+271,Blaues Gewand des Weisen,0
+272,Testrobe,0
+8004,Solaris,0
+8005,Sellaim,0
+8006,Woondine,0
+8007,Eperial,0
+8008,Turik,0
+8009,Große Sellaim,0
+8010,Große Woondine,0
+8011,Große Eperial,0
+8012,Große Turik,0
+282,Amulett des Segens,0
+283,Amulett des Schutzes,0
+284,Amulett der Verstärkung,0
+285,Haustierperle,0
+286,Partnerperle,0
+287,Spezialistenkartenhalter,0
+288,Amulett der NosMall-Eröffnung,0
+289,Scrammer,0
+290,Kris,0
+291,Winslet-Armbrust,0
+292,Balenty-Armbrust,0
+293,Plaz-Zauberwaffe,0
+294,Zauberwaffe des Lichts,0
+295,Wächterblick,0
+296,Lichttunika,0
+297,Tapferer Verteidiger,0
+298,Großartiger Verteidiger,0
+299,Flamberge,0
+300,Bogen der Macht,0
+301,Kais Zauberstab,0
+302,Raidbox,0
+303,Edle Oriharconhalskette,0
+304,Antike Oriharconhalskette,0
+305,Edler Oriharconring,0
+306,Antiker Oriharconring,0
+307,Edler Oriharconarmreif,0
+308,Antiker Oriharconarmreif,0
+309,Antike Kristallhalskette,0
+310,Antiker Kristallring,0
+311,Antiker Kristallarmreif,0
+312,Antike Diamanthalskette,0
+313,Antiker Diamantring,0
+314,Antiker Diamantarmreif,0
+315,Flammenhandschuhe,0
+316,Sturmhandschuhe,0
+317,Gotteshandschuhe,0
+318,Todeshandschuhe,0
+319,Feuerschuhe,0
+320,Wellenschuhe,0
+321,Schuhe des Leuchtens,0
+322,Schattenschuhe,0
+323,Radals roter Ring,0
+324,Radals blauer Ring,0
+325,Unlösliche Handschuhe,0
+326,Wächterschwert,0
+327,Gewöhnliche Halskette,0
+328,Seltener Dolch,0
+329,Seltenes Schwert,0
+330,Seltener Zauberstab,0
+331,Halsband eines Höllenhundes,0
+332,Amulett des Phantoms,0
+333,Versiegelte Jajamaru-Spezialistenkarte,0
+334,Versiegelte Perle mit Sakura,0
+335,Sakura,0
+336,N.O.S.-Eventtruhe,0
+8013,Katzenhut,0
+8014,Eselhut,0
+8015,Cowboyhut,0
+8016,Affenhut,0
+8017,Antilopenhut,0
+8018,Trichterwindenhut,0
+8019,Pinguinhut,0
+8020,Alter Zylinder,0
+8021,Ohrenhaarreif,0
+8022,Blumentopfhut,0
+347,Rote Maske,0
+8023,Grasslinfee,0
+349,Zorn des Plexson,0
+350,Schiavona,0
+351,Helden-Scrammer,0
+352,Heldenarmbrust,0
+353,Bogen der Elemente,0
+354,Bogen der Zerstörung,0
+355,Heldenhafte Zauberwaffe,0
+356,Seraphen-Zauberrute,0
+357,Teracen-Zauberstab,0
+358,Neue Rüstung (Magisch),0
+359,Neues Rüstung (Distanz),0
+360,Neue Rüstung (Physisch),0
+8024,Grimmige Maske A,0
+8025,Grimmige Maske B,0
+8026,Grimmige Maske C,0
+3115,NotUse,0
+8027,Stille Maske A,0
+8028,Stille Maske B,0
+8029,Stille Maske C,0
+8030,Augenbinde des Abgrunds A,0
+8031,Augenbinde des Abgrunds B,0
+8032,Augenbinde des Abgrunds C,0
+376,Glänzende Kampfhandschuhe,0
+377,Glänzende Kettenhandschuhe,0
+378,Glänzende schnelle Handschuhe,0
+379,Glänzende Handschuhe der Resistenz,0
+380,Glänzende Sturmhandschuhe,0
+381,Glänzende Flammenhandschuhe,0
+382,Glänzende Gotteshandschuhe,0
+383,Glänzende Todeshandschuhe,0
+384,Glänzende Schutzstiefel,0
+385,Glänzende schwere Metallstiefel,0
+386,Glänzende Windstiefel,0
+387,Glänzende Stahlstiefel,0
+388,Glänzende Wellenschuhe,0
+389,Glänzende Feuerschuhe,0
+390,Glänzende Schuhe des Leuchtens,0
+391,Glänzende Schattenschuhe,0
+392,Schatztruhe (Stufe 1),0
+393,Schatztruhe (Stufe 2),0
+394,Schatztruhe (Stufe 3),0
+395,Schatztruhe (Stufe 4),0
+396,Schatztruhe (Stufe 5),0
+8033,Braunes Buschi,0
+8034,Gladiator Buschi,0
+8035,Kammerjäger Buschi,0
+400,Loopuster,0
+401,Zerbrochenes Schwert,0
+402,Bergarce,0
+403,Seraphion,0
+404,Caiperu,0
+405,Ecaracci,0
+406,Lord Mukrajus Zauberstab,0
+407,Aurelius' Stab,0
+408,Renobir,0
+409,Cailander,0
+410,Suphirudin,0
+411,Ridyarce,0
+412,Roob'raphs Handschuhe,0
+413,Handschuhe des Vollstreckers,0
+414,Nebelpolsterschuhe,0
+415,Kuru'kelronstiefel,0
+416,Diareasons Halskette,0
+417,Rudiselruns Halskette,0
+418,Kedenoss' Halskette,0
+419,Diareasons Ring,0
+420,Rudiselruns Ring,0
+421,Kedenoss' Ring,0
+422,Diareasons Armreif,0
+423,Rudiselruns Armreif,0
+424,Kedenoss' Armreif,0
+8036,Azuris,0
+8037,Ritterhelm,0
+8038,Rittermaske,0
+8039,Perücke,0
+8336,Stachelperücke,0
+430,Braunes Buschi (Japan),0
+431,Kammerjäger Buschi (Japan),0
+432,Grimmige Maske A (Japan),0
+433,Grimmige Maske B (Japan),0
+434,Grimmige Maske C (Japan),0
+435,Augenbinde des Abgrunds A (Japan),0
+436,Augenbinde des Abgrunds B (Japan),0
+437,Augenbinde des Abgrunds C (Japan),0
+438,Stille Maske A (Japan),0
+439,Stille Maske B (Japan),0
+440,Stille Maske C (Japan),0
+8041,Bunte Perücke,0
+8042,Seltene Stachelperücke,0
+443,Braune Perücke,0
+8043,Santa Buschi,0
+445,Schneemann,0
+8044,Pandahut (7 Tage),0
+8045,Krankes Buschi,0
+448,Neujahrsglücksschwein,0
+449,Glückliche Ratte,0
+8046,Kragenbärenkostüm (7 Tage),0
+8047,Eisbärenkostüm (7 Tage),0
+8048,Pandakostüm (7 Tage),0
+8049,Teddybärenkostüm (7 Tage),0
+8050,Kragenbärenhut (7 Tage),0
+8051,Eisbärenhut (7 Tage),0
+8052,Teddybärenhut (7 Tage),0
+8053,Rattenhut (unbegrenzt),0
+458,Hiphop-Outfit (7 Tage),0
+459,Noirblack Sportoutfit (7 Tage),0
+460,Sunny-Sportoutfit (7 Tage),0
+461,Coralpink Sportoutfit (7 Tage),0
+462,Flammen-Sportoutfit (7 Tage),0
+463,Bluesky Sportoutfit (7 Tage),0
+464,Fashion-Sportoutfit (7 Tage),0
+465,Hotpink Sportoutfit (7 Tage),0
+466,Jeansoutfit (7 Tage),0
+467,Grüne Schuluniform (7 Tage),0
+468,Militäroutfit (7 Tage),0
+469,Gelbe Schuluniform (7 Tage),0
+470,Försteroutfit (7 Tage),0
+471,Lila Schuluniform (7 Tage),0
+472,Feueroutfit (7 Tage),0
+474,Heavy Metal-Outfit (7 Tage),0
+476,Entdeckeroutfit (7 Tage),0
+8054,Orangenhut (unbegrenzt),0
+8055,Schicker Blumentopfhut (unbegrenzt),0
+8056,Nussschalenhut (unbegrenzt),0
+481,Blauer Gründerhut (unbegrenzt),0
+482,Grüner Gründerhut (unbegrenzt),0
+483,Roter Gründerhut (unbegrenzt),0
+8057,Rattenhut (7 Tage),0
+8058,Rattenhut (30 Tage),0
+8059,Orangenhut (7 Tage),0
+8060,Orangenhut (30 Tage),0
+8061,Schicker Blumentopfhut (7 Tage),0
+8062,Schicker Blumentopfhut (30 Tage),0
+8063,Nussschalenhut (7 Tage),0
+8064,Nussschalenhut (30 Tage),0
+492,Blauer Gründerhut (7 Tage),0
+493,Blauer Gründerhut (30 Tage),0
+494,Grüner Gründerhut (7 Tage),0
+495,Grüner Gründerhut (30 Tage),0
+496,Roter Gründerhut (7 Tage),0
+497,Roter Gründerhut (30 Tage),0
+498,Amulett des Segens (2-mal benutzbar),0
+499,Amulett des Schutzes (2-mal benutzbar),0
+500,Einfache goldene Halskette,0
+501,Veredelte goldene Halskette,0
+502,Silberring,0
+503,Modischer Armreif,0
+504,Antike Manohalskette,0
+505,Antiker Manoring,0
+506,Antiker Manoarmreif,0
+507,Edle Manohalskette,0
+508,Edler Manoring,0
+509,Edler Manoarmreif,0
+510,Luxuriöser Manoarmreif,0
+511,Katzenaugenhalskette,0
+512,Katzenaugenring,0
+513,Katzenaugenarmreif,0
+514,Edle Katzenaugenhalskette,0
+515,Edler Katzenaugenring,0
+516,Edler Katzenaugenarmreif,0
+517,Luxuriöse Katzenaugenhalskette,0
+518,Luxuriöser Katzenaugenarmreif,0
+519,Kristallhalskette,0
+520,Kristallring,0
+521,Kristallarmreif,0
+522,Edle Kristallhalskette,0
+523,Edler Kristallring,0
+524,Edler Kristallarmreif,0
+525,Luxuriöser Kristallring,0
+526,Luxuriöser Kristallarmreif,0
+527,Diamantenhalskette,0
+528,Diamantring,0
+529,Diamantenarmreif,0
+530,Edle Diamanthalskette,0
+531,Edler Diamantring,0
+532,Edler Diamantarmreif,0
+533,Luxuriöse Diamanthalskette,0
+534,Luxuriöser Diamantenring,0
+535,Luxuriöser Diamantenarmreif,0
+8065,Amulett der Stärke,0
+8066,Amulett der Entschlossenheit,0
+8067,Eierfee,0
+539,Kleiner Dander,0
+540,Seedle,0
+541,Pii,0
+542,Schwacher Feuervampie,0
+8278,Walker,0
+544,Müdes rosa Jelly,0
+545,Vampie,0
+8277,Boing,0
+547,Ayam (7 Tage),0
+548,Ayam (30 Tage),0
+549,Ayam (unbegrenzt),0
+550,Kaiserinnenkrone (7 Tage),0
+551,Kaiserinnenkrone (30 Tage),0
+552,Kaiserinnenkrone (unbegrenzt),0
+553,Blütenhaarnadel (7 Tage),0
+554,Blütenhaarnadel (30 Tage),0
+555,Blütenhaarnadel (unbegrenzt),0
+556,Hogeon (7 Tage),0
+557,Hogeon (30 Tage),0
+558,Hogeon (unbegrenzt),0
+559,Asiatischer Hut (7 Tage),0
+560,Asiatischer Hut (30 Tage),0
+561,Asiatischer Hut (unbegrenzt),0
+562,Ebosi (7 Tage),0
+563,Ebosi (30 Tage),0
+564,Ebosi (unbegrenzt),0
+567,Vollständige Muschel (Waffe),0
+570,Besondere Muschel (Waffe),0
+573,PvP-Muschel (Waffe),0
+576,Perfekte Muschel (Waffe),0
+579,Vollständige Muschel (Rüstung),0
+582,Besondere Muschel (Rüstung),0
+585,PvP-Muschel (Rüstung),0
+588,Perfekte Muschel (Rüstung),0
+598,Unvollständige Muschel (Waffe),0
+664,Unvollständige Muschel (Rüstung),0
+8272,Kragenbärenkostüm (30 Tage),0
+8068,Eisbärenkostüm (30 Tage),0
+8069,Pandakostüm (30 Tage),0
+8070,Teddybärenkostüm (30 Tage),0
+604,Hiphop-Outfit (30 Tage),0
+605,Noirblack Sportoutfit (30 Tage),0
+606,Sunny-Sportoutfit (30 Tage),0
+607,Coralpink Sportoutfit (30 Tage),0
+608,Flammen-Sportoutfit (30 Tage),0
+609,Bluesky Sportoutfit (30 Tage),0
+610,Fashion-Sportoutfit (30 Tage),0
+611,Hotpink Sportoutfit (30 Tage),0
+612,Jeansoutfit (30 Tage),0
+613,Grüne Schuluniform (30 Tage),0
+614,Militäroutfit (30 Tage),0
+615,Gelbe Schuluniform (30 Tage),0
+616,Försteroutfit (30 Tage),0
+617,Lila Schuluniform (30 Tage),0
+618,Feueroutfit (30 Tage),0
+620,Heavy Metal-Outfit (30 Tage),0
+622,Entdeckeroutfit (30 Tage),0
+8071,Kragenbärenkostüm (unbegrenzt),0
+8072,Eisbärenkostüm (unbegrenzt),0
+8073,Pandakostüm (unbegrenzt),0
+8074,Teddybärenkostüm (unbegrenzt),0
+628,Hiphop-Outfit (unbegrenzt),0
+629,Noirblack Sportoutfit (unbegrenzt),0
+630,Sunny-Sportoutfit (unbegrenzt),0
+631,Coralpink Sportoutfit (unbegrenzt),0
+632,Flammen-Sportoutfit (unbegrenzt),0
+633,Bluesky Sportoutfit (unbegrenzt),0
+634,Fashion-Sportoutfit (unbegrenzt),0
+635,Hotpink Sportoutfit (unbegrenzt),0
+636,Jeansoutfit (unbegrenzt),0
+637,Grüne Schuluniform (unbegrenzt),0
+638,Militäroutfit (unbegrenzt),0
+639,Gelbe Schuluniform (unbegrenzt),0
+640,Försteroutfit (unbegrenzt),0
+641,Lila Schuluniform (unbegrenzt),0
+642,Feueroutfit (unbegrenzt),0
+644,Heavy Metal-Outfit (unbegrenzt),0
+646,Entdeckeroutfit (unbegrenzt),0
+647,Lässige Kleidung für Frauen 6 (unbegrenzt),0
+8075,Pandahut (30 Tage),0
+8076,Kragenbärenhut (30 Tage),0
+8077,Eisbärenhut (30 Tage),0
+8078,Teddybärenhut (30 Tage),0
+8079,Pandahut (unbegrenzt),0
+8080,Kragenbärenhut (unbegrenzt),0
+8081,Eisbärenhut (unbegrenzt),0
+8082,Teddybärenhut (unbegrenzt),0
+665,Frühlingshanbok (7 Tage),0
+666,Frühlingshanbok (30 Tage),0
+667,Frühlingshanbok (unbegrenzt),0
+668,Regenbogenhanbok (7 Tage),0
+669,Regenbogenhanbok (30 Tage),0
+670,Regenbogenhanbok (unbegrenzt),0
+671,Sommerhanbok (7 Tage),0
+672,Sommerhanbok (30 Tage),0
+673,Sommerhanbok (unbegrenzt),0
+674,Kung-Fu-Chipao (7 Tage),0
+675,Kung-Fu-Chipao (30 Tage),0
+676,Kung-Fu-Chipao (unbegrenzt),0
+677,Kaiserchipao (7 Tage),0
+678,Kaiserchipao (30 Tage),0
+679,Kaiserchipao (unbegrenzt),0
+680,Drachenchipao (7 Tage),0
+681,Drachenchipao (30 Tage),0
+682,Drachenchipao (unbegrenzt),0
+683,Mondlichtkimono (7 Tage),0
+684,Mondlichtkimono (30 Tage),0
+685,Mondlichtkimono (unbegrenzt),0
+686,Sonnenlichtkimono (7 Tage),0
+687,Sonnenlichtkimono (30 Tage),0
+688,Sonnenlichtkimono (unbegrenzt),0
+689,Tatamikimono (7 Tage),0
+690,Tatamikimono (30 Tage),0
+691,Tatamikimono (unbegrenzt),0
+692,Feuerrosenkostüm (7 Tage),0
+693,Feuerrosenkostüm (30 Tage),0
+694,Feuerrosenkostüm (unbegrenzt),0
+695,Pfefferminzkostüm (7 Tage),0
+696,Pfefferminzkostüm (30 Tage),0
+697,Pfefferminzkostüm (unbegrenzt),0
+698,Schokoladenkostüm (7 Tage),0
+699,Schokoladenkostüm (30 Tage),0
+700,Leichte Handschuhe,0
+701,Seidenhandschuhe,0
+702,Magische Handschuhe,0
+703,Helle Handschuhe,0
+704,Schnelle Handschuhe,0
+705,Kampfhandschuhe,0
+706,Kettenhandschuhe,0
+707,Blitzhandschuhe,0
+708,Leichte Stiefel,0
+709,Schnelle Schuhe,0
+710,Kettenstiefel,0
+711,Lederstiefel,0
+712,Stahlstiefel,0
+713,Schutzstiefel,0
+714,Windstiefel,0
+715,Schwere Metallstiefel,0
+716,Topfhandschuhe,0
+717,Glänzende Handschuhe,0
+718,Handschuhe des Windes,0
+719,Handschuhe der Resistenz,0
+720,Handschuhe des Schattens,0
+721,Schwarze Schuhe,0
+722,Wasserschuhe,0
+723,Punkstiefel,0
+724,Flammenstiefel,0
+725,Stiefel der tiefen See,0
+726,Schokoladenkostüm (unbegrenzt),0
+727,Azaleenhanbok (7 Tage),0
+728,Azaleenhanbok (30 Tage),0
+729,Azaleenhanbok (unbegrenzt),0
+730,Krokushanbok (7 Tage),0
+731,Krokushanbok (30 Tage),0
+732,Krokushanbok (unbegrenzt),0
+733,Rosenhanbok (7 Tage),0
+734,Rosenhanbok (30 Tage),0
+735,Rosenhanbok (unbegrenzt),0
+736,Lavendelchipao (7 Tage),0
+737,Lavendelchipao (30 Tage),0
+738,Lavendelchipao (unbegrenzt),0
+739,Phoenixchipao (7 Tage),0
+740,Phoenixchipao (30 Tage),0
+741,Phoenixchipao (unbegrenzt),0
+742,Schwarzer Chipao (7 Tage),0
+743,Schwarzer Chipao (30 Tage),0
+744,Schwarzer Chipao (unbegrenzt),0
+745,Kirschblütenkimono (7 Tage),0
+746,Kirschblütenkimono (30 Tage),0
+747,Kirschblütenkimono (unbegrenzt),0
+748,Lilienkimono (7 Tage),0
+749,Lilienkimono (30 Tage),0
+750,Lilienkimono (unbegrenzt),0
+751,Kunoichikimono (7 Tage),0
+752,Kunoichikimono (30 Tage),0
+753,Kunoichikimono (unbegrenzt),0
+754,Schneller Säbel,0
+755,Zweihänder,0
+756,Bogen des Waldes,0
+757,Darkangelus-Bogen,0
+758,Schädelzauberrute,0
+759,Zauberstab des Erzmagiers,0
+760,Elfenarmbrust,0
+761,Ballista,0
+762,Elfendolch,0
+763,Kris des Schattens,0
+764,Zauberwaffe des Geistes,0
+765,Sternenzauberwaffe,0
+766,Leibwächter,0
+767,Schwerer Verteidiger,0
+768,Jägertunika,0
+769,Brisentunika,0
+770,Dunkle Robe,0
+771,Robe der Weisheit,0
+772,Mitternachtsstiefel,0
+773,Seelenschuhe,0
+774,Handschuhe der Dämmerung,0
+775,Feuerhandschuhe,0
+776,Vollmondhalskette,0
+777,Amethysthalskette,0
+778,Smaragdarmreif,0
+779,Vollmondarmreif,0
+780,Aquamarinring,0
+781,Vollmondring,0
+782,Dalmatinerkostüm (7 Tage),0
+783,Dalmatinerkostüm (30 Tage),0
+784,Dalmatinerkostüm (unbegrenzt),0
+785,Rottweilerkostüm (7 Tage),0
+786,Rottweilerkostüm (30 Tage),0
+787,Rottweilerkostüm (unbegrenzt),0
+788,"Katzenkostüm ""Siam"" (7 Tage)",0
+789,"Katzenkostüm ""Siam"" (30 Tage)",0
+790,"Katzenkostüm ""Siam"" (unbegrenzt)",0
+791,"Katzenkostüm ""Russisch Blau"" (7 Tage)",0
+792,"Katzenkostüm ""Russisch Blau"" (30 Tage)",0
+793,"Katzenkostüm ""Russisch Blau"" (unbegrenzt)",0
+794,Verspieltes Häschenkostüm (7 Tage),0
+795,Verspieltes Häschenkostüm (30 Tage),0
+796,Verspieltes Häschenkostüm (unbegrenzt),0
+797,Bezauberndes Häschenkostüm (7 Tage),0
+798,Bezauberndes Häschenkostüm (30 Tage),0
+799,Bezauberndes Häschenkostüm (unbegrenzt),0
+800,Feuerfee,0
+801,Wasserfee,0
+802,Lichtfee,0
+803,Schattenfee,0
+804,Helles Löwenkostüm (7 Tage),0
+805,Helles Löwenkostüm (30 Tage),0
+806,Helles Löwenkostüm (unbegrenzt),0
+807,Dunkles Löwenkostüm (7 Tage),0
+808,Dunkles Löwenkostüm (30 Tage),0
+809,Dunkles Löwenkostüm (unbegrenzt),0
+810,Bulldoggenkostüm (7 Tage),0
+811,Bulldoggenkostüm (30 Tage),0
+812,Bulldoggenkostüm (unbegrenzt),0
+813,Bernhardinerkostüm (7 Tage),0
+814,Bernhardinerkostüm (30 Tage),0
+815,Bernhardinerkostüm (unbegrenzt),0
+816,"Katzenkostüm ""Birmakater"" (7 Tage)",0
+817,"Katzenkostüm ""Birmakater"" (30 Tage)",0
+818,"Katzenkostüm ""Birmakater"" (unbegrenzt)",0
+819,"Katzenkostüm ""Koratkater"" (7 Tage)",0
+820,"Katzenkostüm ""Koratkater"" (30 Tage)",0
+821,"Katzenkostüm ""Koratkater"" (unbegrenzt)",0
+822,Märzhasenkostüm (7 Tage),0
+823,Märzhasenkostüm (30 Tage),0
+824,Märzhasenkostüm (unbegrenzt),0
+825,Weißes Hasenkostüm (7 Tage),0
+826,Weißes Hasenkostüm (30 Tage),0
+827,Weißes Hasenkostüm (unbegrenzt),0
+828,Goldenes Löwenkostüm (7 Tage),0
+829,Goldenes Löwenkostüm (30 Tage),0
+830,Goldenes Löwenkostüm (unbegrenzt),0
+831,Schwarzes Löwenkostüm (7 Tage),0
+832,Schwarzes Löwenkostüm (30 Tage),0
+833,Schwarzes Löwenkostüm (unbegrenzt),0
+834,Dalmatinerhut (7 Tage),0
+835,Dalmatinerhut (30 Tage),0
+836,Dalmatinerhut (unbegrenzt),0
+837,Rottweilerhut (7 Tage),0
+838,Rottweilerhut (30 Tage),0
+839,Rottweilerhut (unbegrenzt),0
+840,"Katzenhut ""Siam"" (7 tage)",0
+841,"Katzenhut ""Siam"" (30 Tage)",0
+842,"Katzenhut ""Siam"" (unbegrenzt)",0
+843,"Katzenhut ""Russisch Blau"" (7 Tage)",0
+844,"Katzenhut ""Russisch Blau"" (30 Tage)",0
+845,"Katzenhut ""Russisch Blau"" (unbegrenzt)",0
+846,Verspielte Häschenohren (7 Tage),0
+847,Verspielte Häschenohren (30 Tage),0
+848,Verspielte Häschenohren (unbegrenzt),0
+849,Bezaubernde Häschenohren (7 Tage),0
+850,Bezaubernde Häschenohren (30 Tage),0
+851,Bezaubernde Häschenohren (unbegrenzt),0
+852,Heller Löwenhut (7 Tage),0
+853,Heller Löwenhut (30 Tage),0
+854,Heller Löwenhut (unbegrenzt),0
+855,Dunkler Löwenhut (7 Tage),0
+856,Dunkler Löwenhut (30 Tage),0
+857,Dunkler Löwenhut (unbegrenzt),0
+858,Bulldoggenhut (7 Tage),0
+859,Bulldoggenhut (30 Tage),0
+860,Bulldoggenhut (unbegrenzt),0
+861,Bernhardinerhut (7 Tage),0
+862,Bernhardinerhut (30 Tage),0
+863,Bernhardinerhut (unbegrenzt),0
+864,"Katzenhut ""Birmakater"" (7 Tage)",0
+865,"Katzenhut ""Birmakater"" (30 Tage)",0
+866,"Katzenhut ""Birmakater"" (unbegrenzt)",0
+867,"Katzenhut ""Koratkater"" (7 Tage)",0
+868,"Katzenhut ""Koratkater"" (30 Tage)",0
+869,"Katzenhut ""Koratkater"" (unbegrenzt)",0
+870,Märzhasenhut (7 Tage),0
+871,Märzhasenhut (30 Tage),0
+872,Märzhasenhut (unbegrenzt),0
+873,Weißer Hasenhut (7 Tage),0
+874,Weißer Hasenhut (30 Tage),0
+875,Weißer Hasenhut (unbegrenzt),0
+876,Goldener Löwenhut (7 Tage),0
+877,Goldener Löwenhut (30 Tage),0
+878,Goldener Löwenhut (unbegrenzt),0
+879,Schwarzer Löwenhut (7 Tage),0
+880,Schwarzer Löwenhut (30 Tage),0
+881,Schwarzer Löwenhut (unbegrenzt),0
+882,Meister Morcos' Truhe,0
+883,Lord Mukrajus Truhe,0
+884,Feuerfee (30%),0
+885,Wasserfee (30%),0
+886,Lichtfee (30%),0
+887,Schattenfee (30%),0
+8083,Aqua Buschi,0
+889,Feenkostüm (7 Tage),0
+890,Feenkostüm (30 Tage),0
+891,Feenkostüm (unbegrenzt),0
+892,Dämonenkostüm (7 Tage),0
+893,Dämonenkostüm (30 Tage),0
+894,Dämonenkostüm (unbegrenzt),0
+895,Feenhaarreif (7 Tage),0
+896,Feenhaarreif (30 Tage),0
+897,Feenhaarreif (unbegrenzt),0
+898,Dämonenhut (7 Tage),0
+899,Dämonenhut (30 Tage),0
+900,Pijama-Spezialistenkarte,0
+901,Krieger-Spezialistenkarte,0
+902,Ninja-Spezialistenkarte,0
+903,Jäger-Spezialistenkarte,0
+904,Schurken-Spezialistenkarte,0
+905,Feuermagier-Spezialistenkarte,0
+906,Spezialistenkarte des Heiligen Magiers,0
+907,Huhn-Spezialistenkarte,0
+908,Jajamaru-Spezialistenkarte,0
+909,Kreuzritter-Spezialistenkarte,0
+910,Berserker-Spezialistenkarte,0
+911,Zerstörer-Spezialistenkarte,0
+912,Wildhüter-Spezialistenkarte,0
+913,Eismagier-Spezialistenkarte,0
+914,Schattenmagier-Spezialistenkarte,0
+915,Dämonenhut (unbegrenzt),0
+916,Feenhaarreif (1 Tag),0
+917,Dämonenhut (1 Tag),0
+918,Feenkostüm (1 Tag),0
+919,Dämonenkostüm (1 Tag),0
+920,Rote Zauberfee,0
+921,Ewige Flammenhandschuhe,0
+922,Ewige Sturmhandschuhe,0
+923,Ewige Gotteshandschuhe,0
+924,Ewige Todeshandschuhe,0
+925,Hawaii-Kostüm für Männer (7 Tage),0
+926,Hawaii-Kostüm für Männer (30 Tage),0
+927,Hawaii-Kostüm für Männer (unbegrenzt),0
+928,Hawaii-Kostüm für Frauen (7 Tage),0
+8084,Pegasus,0
+8085,Süßer Hase,0
+931,Hawaii-Kostüm für Frauen (30 Tage),0
+932,Hawaii-Kostüm für Frauen (unbegrenzt),0
+933,Hawaii-Kopfschmuck für Männer (7 Tage),0
+934,Hawaii-Kopfschmuck für Männer (30 Tage),0
+935,Hawaii-Kopfschmuck für Männer (unbegrenzt),0
+936,Hawaii-Kopfschmuck für Frauen (7 Tage),0
+937,Hawaii-Kopfschmuck für Frauen (30 Tage),0
+938,Hawaii-Kopfschmuck für Frauen (unbegrenzt),0
+940,Hatus' Abgrundbogen,0
+941,Hatus' Höllenstab,0
+942,Lady Calvinas' Geschenkbox,0
+8086,Boxer Buschi,0
+944,Calvinas' Meeressturmschwert,0
+945,Calvinas' Flutwellenbogen,0
+946,Calvinas' Wasserblumen-Zauberstab,0
+947,Calvinas' Blaudornarmbrust,0
+948,Calvinas' Blauzahndolch,0
+949,Calvinas' Blauhornzauberwaffe,0
+8087,Kürbis Buschi,0
+951,Blauer Marineanzug (1 Tag),0
+952,Blauer Marineanzug (7 Tage),0
+953,Blauer Marineanzug (30 Tage),0
+954,Blauer Marineanzug (unbegrenzt),0
+955,Blauer Matrosenanzug (1 Tag),0
+956,Blauer Matrosenanzug (7 Tage),0
+957,Blauer Matrosenanzug (30 Tage),0
+958,Blauer Matrosenanzug (unbegrenzt),0
+959,Blaue Marinemütze (1 Tag),0
+960,Blaue Marinemütze (7 Tage),0
+961,Blaue Marinemütze (30 Tage),0
+962,Blaue Marinemütze (unbegrenzt),0
+963,Blaue Matrosenmütze (1 Tag),0
+964,Blaue Matrosenmütze (7 Tage),0
+965,Blaue Matrosenmütze (30 Tage),0
+966,Blaue Matrosenmütze (unbegrenzt),0
+8109,Tarotkarte (Tod),0
+8114,Tarotkarte (Sonne),0
+8088,Klassisches Buschi-Kostüm (unbegrenzt),0
+8089,Klassischer Buschi-Hut (unbegrenzt),0
+8090,Weihnachtsmütze (1 Tag),0
+8091,Weihnachtsmütze (7 Tage),0
+8092,Weihnachtsmütze (30 Tage),0
+8093,Weihnachtskostüm (1Tag),0
+8094,Weihnachtskostüm (7 Tage),0
+8095,Weihnachtskostüm (30 Tage),0
+979,Super Santa Buschi,0
+8096,Stier Buschi,0
+8097,Hochzeitskleidung (3 Tage),0
+8098,Hochzeitskleidung (7 Tage),0
+8099,Hochzeitskleidung (30 Tage),0
+8100,Hochzeitskleidung (unbegrenzt),0
+8101,Hochzeitskopfschmuck (3 Tage),0
+8102,Hochzeitskopfschmuck (7 Tage),0
+8103,Hochzeitskopfschmuck (30 Tage),0
+8104,Hochzeitskopfschmuck (unbegrenzt),0
+989,Berios' Kristallrobe,0
+990,Schwert für Partner,0
+991,Bogen für Partner,0
+992,Zauberstab für Partner,0
+993,Berios' Kristalltunika,0
+994,Berios' Kristallrüstung,0
+995,Rüstung für Partner (Magie),0
+996,Rüstung für Partner (Fernkampf),0
+997,Rüstung für Partner (Nahkampf),0
+999,Baron Berios' Schatztruhe,0
+1000,Zughebel (unbenutzt),0
+1001,Alte Truhe,0
+9001,Kleiner Heiltrank,0
+9002,Mittlerer Heiltrank,0
+9003,Großer Heiltrank,0
+9004,Kleiner Manatrank,0
+9005,Mittlerer Manatrank,0
+9006,Großer Manatrank,0
+9007,Kleiner Erholungstrank,0
+9008,Mittlerer Erholungstrank,0
+9009,Großer Erholungstrank,0
+9042,Riesiger Erholungstrank,0
+1012,Saat der Macht,0
+1013,Gillionstein,0
+1014,Cellapuder,0
+1015,Seelenstein,0
+1016,Vollkommener Seelenstein,0
+1017,Cellon (Level 1),0
+1018,Cellon (Level 2),0
+1019,Cellon (Level 3),0
+1020,Cellon (Level 4),0
+1021,Cellon (Level 5),0
+1022,Cellon (Level 6),0
+1023,Cellon (Level 7),0
+1024,Cellon (Level 8),0
+1025,Cellon (Level 9),0
+1026,Cellon (Level 10),0
+1027,Donnerflusssand,0
+1028,Neumondkristall,0
+1029,Halbmondkristall,0
+9131,Vollmondkristall,0
+1031,Rotes Kristallfragment,0
+1032,Blaues Kristallfragment,0
+1033,Weißes Kristallfragment,0
+1034,Schwarzes Kristallfragment,0
+1035,Werkzeug für Abenteurer,0
+1036,Seelensteinveredler,0
+1037,Cellonveredler,0
+1038,Kristallveredler,0
+1039,Werkzeug für Schwertkämpfer,0
+1040,Werkzeug für Bogenschützen,0
+1041,Werkzeug für Magier,0
+1042,Normale Truhe,0
+1043,Luxuriöse Truhe,0
+1044,Geheime Truhe,0
+1045,Zughebel (benutzt),0
+1046,Gold,0
+1047,Werkzeug für Accessoires,0
+1048,Geheimnisvolle Kristallkugel (unbenutzt),0
+1049,Geheimnisvolle Kristallkugel (benutzt),0
+1050,Bonustruhe,0
+1051,Knopf (unbenutzt),0
+1052,Knopf (benutzt),0
+1053,Holzhebel (unbenutzt),0
+1054,Holzhebel (benutzt),0
+1055,Teufelsskulptur (unbenutzt),0
+1056,Teufelsskulptur (benutzt),0
+1057,Versiegelter Schlüssel,0
+1058,Dukes Forschungsmaterialien,0
+1059,Artefakt,0
+1060,Verstärkt den Angriff.,0
+1061,Verstärkt die Verteidigung.,0
+1062,Verstärkt die Nahangriffsverteidigung.,0
+1063,Verstärkt die Fernangriffsverteidigung.,0
+1064,Verstärkt die Magieverteidigung.,0
+1065,Manatruhe,0
+1066,Starke Energie,0
+1067,Erholungstruhe,0
+1068,Zufälliger Effekt,0
+1069,NosMates Wiedergeburt,0
+1070,Beschleunigen,0
+1071,Mächtiges Schild,0
+1072,"Werkzeug für Edelsteine, Cellon und Kristalle",0
+1073,Werkzeug für Rohmaterialien,0
+1074,Heilkapsel,0
+1075,Miniland-Klick,0
+1078,SpP-Trank,0
+2145,Picknickkorb,0
+2146,Barbecue,0
+1083,Werkzeug für Handschuhe und Schuhe,0
+9010,Kleiner Wegweiser,0
+9011,Großer Wegweiser,0
+1086,Wilde Klangblume,0
+1087,Klangblume,0
+1088,Goldbelohnung,0
+1089,EXP-Belohnung,0
+1090,Joberfahrungsbelohnung,0
+1091,Rufbelohnung,0
+1092,Timespacestück (Gruppe),0
+1093,Timespacestück (Individuum),0
+1094,Timespacestück (Raid),0
+1095,Timespacestück (Jagd),0
+1096,Timespacestück (Labor),0
+1097,Bonuspunkte,0
+1132,Geheimnisvolle Box,0
+1099,Hühnergefieder,0
+1100,Blauer Cuby,0
+1101,Verlassener Schädel,0
+1102,Spinnentruppen - Teil 2,0
+9012,Anzug für Bob,0
+1104,Ketten der Vergangenheit - Teil 2,0
+1105,Ketten der Vergangenheit - Teil 3,0
+2336,Kuchen,0
+2184,N (Event),0
+2185,O (Event),0
+2186,S (Event),0
+1110,! (Event),0
+1111,Dukes Forschungsergebnisse,0
+1112,Neuer Gegenstand,0
+1113,Lilie der Reinheit,0
+1114,Spezialistenkarte des Aufladens,0
+1115,Medaille von Erenia,0
+1116,Medaille des Abenteurers,0
+9013,Vorstellung,0
+9014,Kleiner Spezialtrank,0
+9015,Mittlerer Spezialtrank,0
+9016,Großer Spezialtrank,0
+1121,Timespacestück (Labor - Finale),0
+9017,Cylloan Quellwasser,0
+1123,Quest zur NosMall-Eröffnung,0
+1124,Ballon-Dekoration,0
+1125,Goldglocke,0
+1126,Silberglocke,0
+1127,Siegel der Cuby Mutter,0
+1128,Ginseng-Siegel,0
+1129,Dark Castra-Siegel,0
+1130,Siegel der schwarzen Riesenspinne,0
+1131,Siegel des Riesenslade,0
+5423,Eventtruhe,0
+5422,Eventcoupon,0
+1135,Auslöseknopf,0
+1136,Auslöseknopf (benutzt),0
+1138,Teleporthebel,0
+1140,Teleportknochen,0
+9018,Anzug für Tom,0
+9019,Anzug für Kliff,0
+1143,Expertenorden,0
+1144,Bronzeglocke,0
+2104,Geweih,0
+1146,Timespacestein des ersten verborgenen Partners,0
+1147,Timespacestein des zweiten verborgenen Partners,0
+1148,Timespacestein des dritten verborgenen Partners,0
+1149,Medaille der Freundschaft,0
+1150,Raidsiegel des Schattens von Zenas,0
+1151,Schwarze Tafel,0
+1152,Zigarettenschachtel von Captain Lance,0
+1153,Duftendes Gras,0
+1154,Glitzerndes Wasser,0
+1155,Mandrablüte,0
+1156,Fährtenduft,0
+1157,Schnüfflernetz,0
+2203,Magischer Puder,0
+1159,Glühendes Herz des Feuerslades,0
+1160,Roter Rubin,0
+1161,Kleiner roter Rubin,0
+1162,Frucht des Blütenbaums,0
+1163,Maulwurfschnurrbart,0
+1164,Magische Maske,0
+1165,Magische Hose,0
+1166,Magischer Mantel,0
+1167,Magische Waffe,0
+1168,Schatztruhe,0
+1169,Skulptur des Wirbels,0
+1170,Schwarze Kürbisflasche,0
+1171,Schwarzer Hundeknochen,0
+1172,Schwarzer Puder,0
+1173,Saugtrichter,0
+1174,Kenkoperle,0
+1175,Seelenamulett,0
+1176,Ast der Reinheit,0
+1177,Heiliger Ast,0
+1178,Weizen,0
+1179,Eisen,0
+1180,Schnüffler,0
+1182,Blocktaste,0
+1183,Blocktaste (benutzt),0
+1184,Tor 1,0
+1185,Tor 2,0
+1186,Tor 3,0
+1187,Medaille von Mimi,0
+1188,Band,0
+1189,Geschenkverpackung,0
+1190,Valentinsgeschenk,0
+1191,Bernstein des Lichts,0
+1192,Bernstein des Schattens,0
+1193,Bernstein des Wassers,0
+1194,Bernstein des Feuers,0
+1195,Siegel des Huhnkönigs,0
+1199,Fruchtsaft,0
+1200,Klebriger Lehm,0
+1201,Shinebone-Statue,0
+1202,Ziegelstein,0
+1203,Rasen,0
+1204,Spaten,0
+1205,Schatzkarte,0
+1206,Hundemaske,0
+1207,Glänzende Kopfbedeckung,0
+1208,Spitzhacke,0
+1832,Glänzender Stein,0
+1210,Handspiegel,0
+1211,Trank der Erlösung,0
+1212,Roter Stoff,0
+1213,Zahn eines Biests,0
+1214,Wertvolle Vase,0
+1215,Stück eines Briefes,0
+1216,Schwarzer Diamantschlüssel,0
+1217,Hammer des Schmerzes,0
+1218,Ausrüstungsschutzrolle,0
+9130,Schriftrolle der Freisetzung,0
+1220,Riesiger Hammer,0
+1221,Essenz des Geistes,0
+1843,Feenstaub,0
+1263,Seelenkristall,0
+1224,Sakuras Haarnadel,0
+1225,Hutförmiger Stein,0
+1226,Namaju-Raidsiegel,0
+1227,Anmeldung zur Regenbogenschlacht,0
+1228,Beschädigter Schlüssel,0
+1229,Schwarzer Diamant,0
+1230,Hähnchenkeule,0
+1231,Bambus,0
+1232,Duftende Tasche,0
+1233,Reis,0
+1234,Grasslin-Siegel,0
+1235,Bauplan (Stufe 1),0
+1236,Bauplan (Stufe 2),0
+1237,Stiefelkombination Typ A,0
+1238,Stiefelkombination Typ B,0
+1239,Handschuhkombination Typ A,0
+1240,Handschuhkombination Typ B,0
+1241,Rezept für Verbrauchsgüter,0
+1242,Göttlicher Heiltrank,0
+1243,Göttlicher Manatrank,0
+9129,Göttlicher Erholungstrank,0
+1245,Basis SpP-Wiederherstellungstrank,0
+9020,Angriffstrank,0
+9021,Verteidigungstrank,0
+9022,Energietrank,0
+9023,Erfahrungstrank,0
+1250,Altairs Herz,0
+1251,Wegas Träne,0
+1252,Feder,0
+1253,Chilsug-Geschenk,0
+1254,Eisiges Herz,0
+1255,Gänseblümchen,0
+1256,Schwertlilie,0
+1257,Glöckchen,0
+1258,Fevers Hautschuppe,0
+2265,Mottenstaub,0
+1260,Geisterstaub,0
+1261,Kaugummi,0
+1262,Rumblerhorn,0
+1264,Goldenes Ahornblatt,0
+1265,Goldenes Staubblatt,0
+1266,Bart der Maulwurfsmutter,0
+1267,Trübes Wasser,0
+1268,Waschbärvogelschwanz,0
+1269,Haltbarkeitscoupon,0
+1270,Belohnungscoupon,0
+1271,Produktionscoupon,0
+1272,Abenteurerrucksack (10 Tage),0
+9024,Abenteurerrucksack (30 Tage),0
+9025,Abenteurerrucksack (60 Tage),0
+9026,Partnerrucksack (10 Tage),0
+9027,Partnerrucksack (30 Tage),0
+9028,Partnerrucksack (60 Tage),0
+1278,Haustierkorb (10 Tage),0
+9029,Haustierkorb (30 Tage),0
+9030,Haustierkorb (60 Tage),0
+5942,Segen von Erenia,0
+9043,Segen des Schutzengels,0
+9041,Ancelloan Segen,0
+1910,Geheimnisvolle Box A,0
+1911,Geheimnisvolle Box B,0
+1912,Geheimnisvolle Box C,0
+1292,Verunreinigtes Wasser,0
+1293,Verschmutztes Wasser,0
+1294,Reines Wasser,0
+1295,Leber eines Höllenhundes,0
+9074,Feenverstärker,0
+1298,Geschenkschachtel,0
+1299,Grüner Mondkuchen,0
+1300,Roter Mondkuchen,0
+1301,Weißer Mondkuchen,0
+1302,Rebeccas Juwelengürtel,0
+1303,Blutiger Stein,0
+1304,Pienas Tagebuch,0
+1305,Zerrissene Seite,0
+1306,Halskette des Glückssteins,0
+1307,Heilige Wasserflasche,0
+1308,Justins Portrait,0
+1309,Kleiner Safe,0
+1310,Dreieckiger Schlüssel,0
+1311,Ruddys Taschentuch,0
+1312,Amirs Rüstungspergament,0
+1313,Amirs Waffenpergament A,0
+1314,Amirs Waffenpergament B,0
+1315,Amirs Waffenspezifikationen,0
+1316,Amirs Waffenspezifikations-Buchumschlag,0
+1317,Timespacestück (Basilisk),0
+1318,Timespacestück (Höllenritter),0
+1319,Timespacestück (Treekun),0
+1320,Timespacestück (Chrysos),0
+1321,Spezielles Bleichmittel,0
+1322,Spezielles Bleichrezept,0
+1323,Stroh,0
+1324,Bohnenschote,0
+1325,Flint,0
+1326,Das elementare Buch des Abenteuers,0
+1327,Timespace: Gefrorenes Herz,0
+1328,Timespace: Zerstörer,0
+1329,Timespace: Beschützers des Lichts,0
+1330,Timespace: Archtheridon,0
+1331,Besondere Wasserflasche,0
+9031,Airwaves Cassis,0
+9032,Airwaves Eukalyptus,0
+9033,Airwaves Strawberry,0
+9034,Airwaves Menthol,0
+9035,Airwaves Lemon,0
+9036,Airwaves Orange,0
+9037,Airwaves-Dragees,0
+9038,Airwaves Cherry,0
+1340,Violettes Erinnerungsfragment,0
+1341,Grünes Erinnerungsfragment,0
+1342,Rotes Erinnerungsfragment,0
+1343,Weißes Erinnerungsfragment,0
+1344,Whitneys Abhandlung,0
+1345,Nathalies Haarreif,0
+1346,Piepes Halskette,0
+1347,Hölzerne Wolfspuppe,0
+1348,Seinas Ring,0
+1349,Dämonenkristall,0
+1350,Unfertiger Speer des Priesters,0
+1351,Speer des Priesters,0
+1352,Unbekanntes Erz,0
+1353,Feder des Engels,0
+1354,Enkidumähne,0
+1355,Blatt von Seli-Lusha,0
+1356,Fevers Faden,0
+1357,Timespace: Unendlicher Hass,0
+1358,Timespace: Einsiedler,0
+1359,Timespace: Schwarze Flamme,0
+1360,Timespace: Echekaruel Mysticaron,0
+1361,Bauplan für einen unfertigen Speer des Priesters,0
+9075,Segen des Seelensteins,0
+1363,Niedrige SP-Schutzrolle,0
+1364,Hohe SP-Schutzrolle,0
+9039,Seelenbelebungsstein,0
+9040,Punkteinitialisierungstrank,0
+1367,Weihnachtssocke,0
+1368,Sternschnuppe,0
+1369,Weihnachtsglöckchen,0
+1370,Winterevent-Geschenkbox,0
+1371,Schneemann-Raidsiegel,0
+1372,Rätselhaftes Boxset,0
+1373,Geschenkbox,0
+1374,Geschenkumschlag,0
+1375,Holz für ein kleines Lagerfeuer,0
+1376,Holz für ein großes Lagerfeuer,0
+1377,Mimi Mentors Brief,0
+1378,Annis Brief,0
+1379,Annis Empfehlungsschreiben,0
+1381,Y (Event),0
+1382,E (Event),0
+1383,A (Event),0
+1384,R (Event),0
+1386,Latheores Ei,0
+1387,Leikas Empfehlungsschreiben,0
+1388,Logbuch,0
+1389,Erster Aufklärungsbericht,0
+1390,Erster Hinweis,0
+1391,Zweiter Hinweis,0
+1392,Dritter Hinweis,0
+1393,Alte Tafel,0
+1394,Zerrissener Aufklärungsbericht,0
+1395,Aufklärungsbericht der Bitoren-Tundra,0
+1734,Zweiter Aufklärungsbericht,0
+1397,Mukrajus Magiebuch,0
+1398,Berichtbündel,0
+1399,Magische Truhe,0
+1400,Schlüssel des Glücks,0
+1401,Legendäre Schatztruhe,0
+1402,Mysteriöse Schatztruhe,0
+1403,Antike Schatztruhe,0
+1404,Hochwertige Schatztruhe,0
+1405,Schöne Schatztruhe,0
+1406,Rotes Osterei (Event),0
+1407,Blaues Osterei,0
+1408,Weißes Osterei,0
+1409,Gelbes Osterei (Event),0
+1410,Hühnerseele,0
+1411,Geburtstagsgeschenk,0
+1412,Fusionsgeschenk,0
+1413,Magische Schatztruhe mit Schuluniformen für Frauen,0
+1414,Magische Schatztruhe mit Sportoutfits für Frauen,0
+1415,Magische Schatztruhe mit Uniformen für Männer,0
+1416,Magische Schatztruhe mit Outfits für Männer,0
+1417,Magische Schatztruhe mit coolen Outfits für Männer,0
+1418,Magische Schatztruhe mit Sportoutfits für Männer,0
+1419,Zweiter Schlüssel des Glücks,0
+1420,Zweite legendäre Schatztruhe,0
+1421,Zweite mysteriöse Schatztruhe,0
+1422,Zweite antike Schatztruhe,0
+1423,Zweite hochwertige Schatztruhe,0
+1424,Zweite schöne Schatztruhe,0
+1425,Mysteriöse weiße Schatztruhe A,0
+1426,Mysteriöse weiße Schatztruhe B,0
+1427,Punkteinitialisierungstrank (Event),0
+1428,Parfüm,0
+1429,Regenbogenperle,0
+1430,Magischer Radiergummi,0
+1431,Dritter Schlüssel des Glücks,0
+1432,Dritte legendäre Schatztruhe,0
+1433,Dritte mysteriöse Schatztruhe,0
+1434,Dritte antike Schatztruhe,0
+1435,Dritte hochwertige Schatztruhe,0
+1436,Dritte schöne Schatztruhe,0
+1437,Eismaschine,0
+1438,Glacernon-Box,0
+1439,Magische Truhe des Hanboks,0
+1440,Magische Truhe des Kaisers,0
+1441,Magische Yin-Yang-Truhe,0
+1442,Magische Truhe der schönen traditionellen Kleidung,0
+1443,Magische Truhe des Chipaos,0
+1444,Magische Truhe des Kimonos,0
+1445,Magische Truhe der Blume,0
+1446,Basisflagge der Engel,0
+1447,Basisflagge der Dämonen,0
+1448,Taschen-Paket (30 Tage),0
+1449,Taschen-Paket (10 Tage),0
+1450,Segen-Paket (10 Stück),0
+1451,Segen-Paket (5 Stück),0
+1452,Ancelloan Segen (Event),0
+1453,Geschenktruhe A (Akt 4),0
+1454,Geschenktruhe B (Akt 4),0
+1455,PvP-Angriffskapsel,0
+1456,PvP-Verteidigungskapsel,0
+1457,PvP-Resistenzkapsel,0
+1458,Horn der Familienbeschwörung,0
+1459,Bausatz für das Heiligtum der Engel,0
+1460,Bausatz für den Altar der Dämonen,0
+1461,Vierter Schlüssel des Glücks,0
+1462,Vierte legendäre Schatztruhe,0
+1463,Vierte mysteriöse Schatztruhe,0
+1464,Vierte antike Schatztruhe,0
+1465,Vierte hochwertige Schatztruhe,0
+1466,Vierte schöne Schatztruhe,0
+1467,Schatztruhe des Sommerhanboks,0
+1468,Schatztruhe des Frühlingshanboks,0
+1469,Schatztruhe des Kaiserchipaos,0
+1470,Schatztruhe des Kung-Fu-Chipaos,0
+1471,Schatztruhe des Sonnenlichtkimonos,0
+1472,Schatztruhe des Mondlichtkimonos,0
+1473,Schatztruhe des Azaleenhanboks,0
+1474,Schatztruhe des Krokushanboks,0
+1475,Schatztruhe des Phoenixchipaos,0
+1476,Schatztruhe des Lavendelchipaos,0
+1477,Schatztruhe des Kirschblütenkimonos,0
+1478,Schatztruhe des Kunoichikimonos,0
+1479,Truhe mit Gewinnerkostüm,0
+1480,Schatztruhe der Fee,0
+1481,Schatztruhe des Dämons,0
+1482,Schatztruhe mit traditionellen Hüten für Männer,0
+1483,Schatztruhe mit traditionellen Hüten für Frauen,0
+1484,Truhe mit traditionellen Kostümen für Frauen A,0
+1485,Truhe mit traditionellen Kostümen für Frauen B,0
+1486,Truhe mit traditionellen Kostümen für Frauen C,0
+1487,Truhe mit traditionellen Kostümen für Männer A,0
+1488,Truhe mit traditionellen Kostümen für Männer B,0
+1489,Truhe mit traditionellen Kostümen für Männer C,0
+1490,Truhe mit Bärenkostüm,0
+1491,Truhe mit Schuluniformen für Frauen,0
+1492,Truhe mit Sportbekleidung für Frauen,0
+1493,Truhe mit Outfits für Männer,0
+1494,Truhe mit Kleidung für Abenteurer,0
+1495,Truhe mit coolen Outfits für Männer,0
+1496,Truhe mit Sportbekleidung für Männer,0
+1497,Truhe der Spezialistenverbesserung,0
+1498,Riesiger Erholungstrank (Event),0
+1499,Segen des Schutzengels (Event),0
+1500,Fünfter Schlüssel des Glücks,0
+1501,Fünfte legendäre Schatztruhe,0
+1502,Fünfte mysteriöse Schatztruhe,0
+1503,Fünfte antike Schatztruhe,0
+1504,Fünfte hochwertige Schatztruhe,0
+1505,Fünfte schöne Schatztruhe,0
+1506,Eventschatztruhe B,0
+1507,Geschenktruhe des Nationalfeiertags (Event),0
+1508,Belohnungsbox,0
+1509,Truhe des Hasen,0
+1510,Truhe des Häschens,0
+1511,Truhe der Hündin,0
+1512,Truhe des Hundes,0
+1513,Truhe der Katze,0
+1514,Truhe des Katers,0
+1515,Truhe der Löwin,0
+1516,Truhe des Löwen,0
+1517,Kostümbox des Dalmatiners,0
+1518,Kostümbox des Rottweilers,0
+1519,Kostümbox der Siamkatze,0
+1520,Kostümbox der Russisch Blau-Katze,0
+1521,Kostümbox des dunklen Löwen,0
+1522,Kostümbox des hellen Löwen,0
+1523,Kostümbox der Bulldogge,0
+1524,Kostümbox des Bernhardiners,0
+1525,Kostümbox des Birmakaters,0
+1526,Kostümbox des Koratkaters,0
+1527,Kostümbox des schwarzen Löwen,0
+1528,Kostümbox des goldenen Löwen,0
+1529,Kostümbox des Märzhasen,0
+1530,Kostümbox des weißen Hasen,0
+1531,Kostümbox des bezaubernden Häschens,0
+1532,Kostümbox des verspielten Häschens,0
+1533,Sechster Schlüssel des Glücks,0
+1534,Sechste legendäre Schatztruhe,0
+1535,Sechste mysteriöse Schatztruhe,0
+1536,Sechste antike Schatztruhe,0
+1537,Sechste hochwertige Schatztruhe,0
+1538,Sechste schöne Schatztruhe,0
+1539,Malcolms Halloweenbox,0
+1540,Evas Halloweenbox,0
+1541,Sorayas Halloweenbox,0
+1542,Modebox für Männer A (Hut),0
+1543,Modebox für Männer A (Kostüm),0
+1544,Modebox für Männer E (Hut),0
+1545,Modebox für Männer E (Kostüm),0
+1546,Modebox für Frauen A (Hut),0
+1547,Modebox für Frauen A (Kostüm),0
+1548,Modebox für Frauen E (Hut),0
+1549,Modebox für Frauen E (Kostüm),0
+1550,Modebox für Männer C (Hut),0
+1551,Modebox für Männer C (Kostüm),0
+1554,Modebox für Männer D (Hut),0
+1553,Modebox für Männer D (Kostüm),0
+1555,Modebox für Männer G (Kostüm),0
+1556,Modebox für Frauen C (Hut),0
+1557,Modebox für Frauen C (Kostüm),0
+1558,Modebox für Frauen D (Hut),0
+1559,Modebox für Frauen D (Kostüm),0
+1560,Modebox für Frauen G (Hut),0
+1561,Modebox für Frauen G (Kostüm),0
+1562,Raidpaket A,0
+1563,Raidpaket B,0
+1564,Raidpaket C,0
+1565,Survival-Set,0
+1566,Herbst-Paket,0
+1567,Mysteriöses Boxset,0
+1568,Friseur-Set,0
+1569,Mysteriöse Schatztruhe D,0
+1570,Siebter Schlüssel des Glücks,0
+1571,Siebte legendäre Schatztruhe,0
+1572,Siebte mysteriöse Schatztruhe,0
+1573,Siebte antike Schatztruhe,0
+1574,Siebte hochwertige Schatztruhe,0
+1575,Siebte schöne Schatztruhe,0
+1576,Rentiergeweih,0
+1577,Kleine Geschenkbox vom Weihnachtsmann,0
+1578,Große Geschenkbox vom Weihnachtsmann,0
+1579,Besondere Geschenkbox vom Weihnachtsmann,0
+1580,Weihnachtscoupon,0
+1581,Weihnachtsspielzeug,0
+1582,Neujahrsspielzeug,0
+1583,Glückstruhe,0
+1584,Familien-Eventtruhe A,0
+9044,Feuerwerk,0
+1586,Weihnachtsglückstruhe,0
+1587,Super Santa Buschi-Geschenktruhe,0
+1588,Neujahrs-Geschenktruhe (Kostüm),0
+1589,Neujahrs-Geschenktruhe (Hut),0
+1590,Super Santa Buschi-Schatztruhe,0
+1591,Weihnachtsgeschenkbox A,0
+1592,Weihnachtsgeschenkbox B,0
+1611,Goldenes H,0
+1612,Goldenes A,0
+1613,Goldenes P,0
+1614,Goldenes Y,0
+1615,N,0
+1616,E,0
+1617,W,0
+1618,Y,0
+1619,A,0
+1620,R,0
+1621,Goldene Neujahrsbox,0
+1623,Neujahrsbox,0
+1624,Ei der Engel für Einzelspieler,0
+1625,Ei der Dämonen für Einzelspieler,0
+1626,Ei der Engel für Familien,0
+1627,Ei der Dämonen für Familien,0
+1921,NosMall-Box,0
+9045,Engelsflügel,0
+9046,Dämonenflügel,0
+1728,Angebissene Kaktusfeige,0
+10051,Kaktusfeige,0
+1737,Sack mit Kaktusfeigen,0
+1731,Brief für Assistent Hamid,0
+1732,Neils Schreiben,0
+1733,Aufklärungsbericht,0
+1735,Hochwertiger Patrouillenbericht (Hamid),0
+1736,Hochwertiger Patrouillenbericht (Leuchtturmwärter Chilton),0
+1739,Befehlsliste,0
+1740,Räuberbandenschlüssel des Schlüsselmeisters,0
+1741,Räuberbandenschlüssel des Wärters,0
+1742,Minderwertige Handelsware,0
+1743,Durchschnittliche Handelsware,0
+1744,Hochwertige Handelsware,0
+1745,Minderwertige Handelsgüter,0
+1746,Durchschnittliche Handelsgüter,0
+1747,Hochwertige Handelsgüter,0
+1748,Handelswaren aus dem Osten,0
+1749,Handelswaren aus dem Westen,0
+1750,Zerbrochener Handelsartikel,0
+1751,Flagge der Akamurhändler,0
+1752,Handelswaren (Erster Fund),0
+1753,Handelswaren (Zweiter Fund),0
+1754,Handelswaren (Dritter Fund),0
+1755,Handelswaren (Vierter Fund),0
+1756,Handelswaren (Fünfter Fund),0
+1757,Handelswaren (Sechster Fund),0
+1758,Wüstenräuber-Maske,0
+1759,Wüstenräuber-Emblem,0
+1760,Kommandant Kerus Siegel,0
+1761,Zweiter Auftragsbericht,0
+1762,Schlüssel des Wärters,0
+1763,Kerus eiliger Bericht,0
+1764,Eiliger Bericht der Patrouille B,0
+2390,Medizinflasche,0
+1766,Oberer Teil des Reliktes vom Astertempel,0
+1767,Unterer Teil des Reliktes vom Astertempel,0
+1768,Mittlerer Teil des Reliktes vom Astertempel,0
+1769,Erster Räuberschlüssel,0
+1770,Zweiter Räuberschlüssel,0
+2347,Zerbrochenes Reliktstück,0
+1772,Geisteressenz,0
+1773,Räucherstäbchen,0
+1776,Boxer Buschi-Box,0
+1778,Grenigas-Reliktstück A,0
+1779,Grenigas-Reliktstück B,0
+1780,Grenigas-Reliktstück C,0
+1781,Grenigas-Reliktstück D,0
+1782,Zerrissenes Schriftstück,0
+1783,Bericht über den Tempelplatz A,0
+1784,Bericht über den Tempelplatz B,0
+1785,Fragment der Schrifttafel,0
+1786,Bericht des Tempelplatzes,0
+1787,Erste Schrifttafel,0
+1788,Zweite Schrifttafel,0
+1789,Dritte Schrifttafel,0
+1790,Zerbrochene Schrifttafel,0
+1792,Zerbrochene Schrifttafel (Bücherei),0
+1793,Zerbrochene Schrifttafel (Untergrundhöhle),0
+1794,Zerbrochene Schrifttafel (Gebetshalle),0
+1795,Zerbrochene Schrifttafel (heiliger Zentrumsplatz),0
+1796,Rucksack des Schatzsuchers,0
+1798,Sandessenz,0
+1799,Windessenz,0
+1800,Bekämpfe starke Feuervampies.,0
+1801,Vernichtung von 108 Monstern,0
+1802,Monsterjagd,0
+1803,Kampf zwischen NosVille und Kenkos,0
+1804,Dämonenaustreibung,0
+1805,Geheimnisvolle Kristallkugel,0
+1806,Tod dem Spinnenkönig,0
+1807,Sammeln von Artefakten,0
+1808,Rettung der Wache,0
+1809,Durchbrechen der feindlichen Linien,0
+1810,Labyrinthfalle,0
+1811,Befehligen der NosVille-Wachen,0
+1812,Infiltration der Kenkotruppe,0
+1813,Hornimp-Beseitigung,0
+1814,Teufelsskulptur,0
+1815,Monstersafari,0
+1816,Labyrinthhöhle,0
+1817,Raum der Ewigkeit,0
+1818,Spinnentruppen - Teil 1,0
+1819,Rum,0
+1820,Vergessene Spezies,0
+1821,Nicht verwenden,0
+1822,Bau der Wölfe,0
+1823,Höhle des Spinnenkönigs,0
+1824,Bau der Wolfslöwen,0
+1825,Jagdrevier der Schatten,0
+1826,Beschädigtes Magiefeld,0
+1827,Ketten der Vergangenheit - Teil 1,0
+1828,Erkundung des Labors 1,0
+1829,Erkundung des Labors 2,0
+1830,Erkundung des Labors 3,0
+1831,Monumententor,0
+1833,Timespace des Basilisken,0
+1834,Timespace des Höllenritters (A),0
+1835,Timespace des Höllenritters (B),0
+1836,Timespace des Höllenritters (C),0
+1837,Timespace des Treekun (A),0
+1838,Timespace des Treekun (B),0
+1839,Timespace des Treekun (C),0
+1840,Timespace des Chrysos (A),0
+1841,Timespace des Chrysos (B),0
+1842,Timespace des Chrysos (C),0
+1844,Teilstück vom Brief an den Wüstenräuberanführer,0
+1845,Ecke vom Brief an den Wüstenräuberanführer,0
+1846,Ledertasche einer Fee,0
+1847,Feenstaub der Erde,0
+1848,Feenstaub des Windes,0
+1849,Feenstaub des Sandes,0
+1850,Erste verdächtige Tasche,0
+1851,Zweite verdächtige Tasche,0
+1852,Dritte verdächtige Tasche,0
+1853,Vierte verdächtige Tasche,0
+2391,Feenessenz des Sandes,0
+2392,Feenessenz des Windes,0
+9047,Abenteurerrucksack (10 Tage/Event),0
+1860,Neils Befehlsliste,0
+1861,Melkis Befehlsliste,0
+1862,Kerus Befehlsliste,0
+1863,Gartons Befehlsliste,0
+1864,Shorans Befehlsliste,0
+1865,Shays Befehlsliste,0
+1866,Gestohlene Ware (Kerus Lager),0
+1867,Gestohlene Ware (Gartons Lager),0
+1868,Gestohlene Ware (Wüstenräuberlager),0
+1869,Gestohlene Ware (Räuberinnenhof),0
+1870,Merkwürdige Truhe,0
+1871,Delmons Wecker,0
+1872,Goldmünze der Räuberbande,0
+1873,Silbermünze der Räuberbande,0
+1874,Kupfermünze der Räuberbande,0
+1875,Schlüssel der Räuberbande,0
+1876,Ibrahims Goldschlüssel,0
+1877,Ibrahims Tasche,0
+1878,Unbekanntes Relikt,0
+1879,Mysteriöses Relikt,0
+9048,Frischer Apfelsaft,0
+9049,Kräftiger Erdbeerwein,0
+1884,Premium-Medaille (10 Tage),0
+1885,Premium-Medaille (30 Tage),0
+1886,Partnerrucksack (10 Tage/Event),0
+1887,Blaupausen der Räuberbande,0
+9050,Frischer Erdbeersaft,0
+9051,Frischer Traubensaft,0
+9052,Kräftiger Traubenwein,0
+9053,Kräftiger Apfelwein,0
+1892,Raidsiegel der Räuberbande,0
+1894,Versiegelte Tarotkarte (Narr),0
+1895,Versiegelte Tarotkarte (Magier),0
+1896,Versiegelte Tarotkarte (Liebe),0
+1897,Versiegelte Tarotkarte (Einsiedler),0
+1972,Versiegelte Tarotkarte (Tod),0
+1899,Versiegelte Tarotkarte (Dämon),0
+1900,Versiegelte Tarotkarte (Turm),0
+1901,Versiegelte Tarotkarte (Stern),0
+1902,Versiegelte Tarotkarte (Mond),0
+1973,Versiegelte Tarotkarte (Sonne),0
+1904,Tarotkartenspiel,0
+9054,Magischer Roller,0
+9055,Magischer Teppich,0
+1913,Halloween-Kostümrolle,0
+1914,Buch der Halloween-Verwandlung,0
+1915,Halloween-Kostümrolle (Event),0
+1916,Jack O'Lanterns Raidsiegel,0
+1917,Beutel mit Süßigkeiten (Event),0
+1918,Halloweenwegweiser,0
+1919,Halloween-Gruseltruhe,0
+9056,Haustierkorb (10 Tage/Event),0
+1926,Truhe des magischen Rollers,0
+1927,Truhe des magischen Teppichs,0
+9057,Versiegeltes Gefäß,0
+1946,Versiegeltes Gefäß (Event),0
+1947,Schriftrolle des Eiskostüms,0
+1948,Schriftrolle des Eiskostüms (Event),0
+1949,Versiegelte Schatztruhe,0
+1950,Kleines Weihnachtsgeschenk,0
+1951,Großes Weihnachtsgeschenk,0
+1952,Goldene Neujahrstruhe,0
+9058,Magischer weißer Tiger,0
+1966,Truhe des magischen weißen Tigers,0
+1981,Amors Pfeil,0
+1982,Trennungsbrief,0
+9059,Einfaches Feuerwerk,0
+9060,Doppeltes Feuerwerk,0
+9061,Feuerwerksfontäne (Blau),0
+9062,Feuerwerksfontäne (Gelb),0
+9063,Herzfeuerwerk (Blau),0
+9064,Herzfeuerwerk (Rot),0
+1996,Sport-Box,0
+2000,Fuchsschwanz,0
+2001,Hamsterdorn,0
+2002,Wolle,0
+2003,Mandragora,0
+2004,Dandersamen,0
+2005,Seedleflügel,0
+2006,Kleine Bohnen,0
+2007,Roter Cuby,0
+2008,Imphorn,0
+2009,Vampiekugel,0
+2010,Grünes Glasstück,0
+2011,Rotes Glasstück,0
+2012,Erz,0
+2013,Alte Spitzhacke,0
+2014,Zerbrochenes Horn,0
+10001,Speck und Ei,0
+10002,Schinken und Ei Sandwich,0
+10003,Gebratener Hering,0
+10004,Lunchpaket,0
+10005,Schweinebraten und Saft,0
+10006,Pizza und Limonade,0
+10007,Brot und Bier,0
+2022,Gesundes Mittagessen,0
+2023,Erdnüsse,0
+2024,Kekse,0
+2025,Trockenfleisch,0
+10008,Schokoriegel,0
+10009,Gebratenes Huhn,0
+2028,Schlachttrank,0
+2029,Leere Flasche,0
+2030,Leeres Amulett,0
+2031,Magische Perle,0
+2032,Luinias Blatt,0
+2033,Mysteriöser Käfer,0
+2034,Schlechtes Metall,0
+2035,Normales Metall,0
+2036,Hochwertiges Metall,0
+2037,Seltenes Metall,0
+2038,Schlechtes Holz,0
+2039,Normales Holz,0
+2040,Hochwertiges Holz,0
+2041,Seltenes Holz,0
+2042,Schlechter Stoff,0
+2043,Normaler Stoff,0
+2044,Hochwertiger Stoff,0
+2045,Seltener Stoff,0
+2046,Schlechtes Leder,0
+2047,Normales Leder,0
+2048,Hochwertiges Leder,0
+2049,Seltenes Leder,0
+2059,Gelbe Haarfarbe,0
+2051,Blaue Haarfarbe,0
+2052,Lila Haarfarbe,0
+2053,Orangene Haarfarbe,0
+2054,Braune Haarfarbe,0
+2055,Grüne Haarfarbe,0
+2056,Dunkelbraune Haarfarbe,0
+2057,Graue Haarfarbe,0
+2058,Rote Haarfarbe,0
+2060,Haarfarbe (11),0
+2061,Haarfarbe (12),0
+2062,Haarfarbe (13),0
+2063,Haarfarbe (14),0
+2064,Haarfarbe (15),0
+2065,Haarfarbe (16),0
+2066,Haarfarbe (17),0
+2067,Haarfarbe (18),0
+2068,Haarfarbe (19),0
+2069,Haarfarbe (20),0
+10010,Amulett der Heimkehr,0
+10011,Amulett der Rückkehr,0
+10012,Glocke der Heimat,0
+2073,Wolfsfell,0
+2074,Schweinekotelett,0
+2075,Schildkrötenpanzer,0
+2076,Bienenwachs,0
+10013,Haustierfutter,0
+10014,Gutes Haustierfutter,0
+2079,NosMate-Trainer,0
+2080,Spinnweben,0
+2081,Schleudergeschoss,0
+2082,Armbrustbolzen,0
+2083,Kurzbogenpfeile,0
+2084,Langbogenpfeile,0
+2085,Heilpflanze,0
+2086,Giftpflanze,0
+2087,Verband,0
+10015,Kiste der Freilassung,0
+10016,NosMate-Schutzengel,0
+2090,Gelee Royal,0
+2091,Spinnennetz,0
+2092,Auge des Spinnenkönigs,0
+2093,Käferpanzer,0
+2094,Perle der Finsternis,0
+2095,Beschädigter Besenstiel,0
+2096,Neujahrs-Glücksbringer,0
+2097,Zaubertrank,0
+2098,Kraut,0
+2099,Rote Früchte,0
+2100,Blaues Kraut,0
+2101,Mysteriöse Tinte,0
+2102,Zuckerrübe,0
+2103,Ginseng,0
+2105,Rechteckiger Stein,0
+2106,Mysteriöse Saat,0
+2107,Kleiner Blumentopf,0
+2108,Glasperle,0
+2109,Pflänzling,0
+2110,Großer Blumentopf,0
+2111,Saatbeet,0
+2112,Gesegnete Erde,0
+2113,Sprössling,0
+2114,Getreide,0
+2115,Gemüse,0
+2116,Obst,0
+2117,Fleisch,0
+2118,Meeresfrüchte,0
+2119,Zucker,0
+2120,Salz,0
+2121,Pfeffer,0
+2122,Estragon,0
+2123,Pflanzenöl,0
+2124,Käse und Eier,0
+2125,Gewürzmischung,0
+2126,Luinia des Schutzes,0
+2127,Luinia der Wiederherstellung,0
+2128,Starker Verband,0
+10017,Starker NosMate-Trainer,0
+2130,Hairstyle-Trank,0
+10018,Taco,0
+10019,Kartoffelpüree,0
+10020,Nudeln,0
+10021,Sandwichrolle,0
+2135,Käsestangen,0
+2136,Pommes Frites,0
+10034,Obstkuchen,0
+2138,Pudding,0
+2139,Sushi,0
+2140,Speck,0
+2141,Vitamine,0
+2142,Müsli,0
+2143,Schokotaler,0
+2147,Süßkartoffeln,0
+2148,Knoblauchbrot,0
+2149,Makis,0
+2150,Kartoffelbrei,0
+2151,Kartoffelsalat,0
+2152,Obstsalat,0
+2153,Geflügelsalat,0
+2154,Krabbensalat,0
+2155,Wünschelrute,0
+10022,Heilige Kristallkugel der Würde,0
+10023,Namensschild für Haustiere,0
+10024,Edles Haustierfutter,0
+10049,Medizin für Partner,0
+10048,Flügel der Freundschaft,0
+10025,Superhaargel,0
+10026,Superhaarwachs,0
+2163,Rosarote Haarfarbe,0
+2164,Hellgrüne Haarfarbe,0
+2165,Weiße Haarfarbe,0
+2166,Hellblaue Haarfarbe,0
+2167,Schwarze Haarfarbe,0
+10027,Trank der Würde,0
+2169,NosMall-Kuchen,0
+2170,Teamstein,0
+2171,Taschentuch der Trennung,0
+2172,Slades Kralle,0
+10028,Lautsprecher,0
+10029,Sprechblase,0
+2287,Heiße Schokolade,0
+2176,Nudelsuppe,0
+2177,Roter Glibber,0
+2178,Zombie-Schutz,0
+2179,Blauer Glibber,0
+2180,Grüner Glibber,0
+2181,Magisches Ei,0
+2182,Schokolade,0
+10030,Spezielles Haustierfutter,0
+2188,Abendrot-Teleport,0
+2189,Baustein,0
+2190,Saat des Lebens,0
+2191,Hühnerei,0
+2192,Karpfen,0
+2193,Oriharcon,0
+2194,Seltenes Blatt,0
+2195,Wurm,1
+2196,Makrele,1
+2197,Hammer,0
+2198,Axt,0
+2199,Mithrillerz,0
+2200,Nadel,0
+2201,Diamant,0
+2202,Zweig des Urwaldes,0
+2204,Wal,0
+2205,Mysteriöser Stein,0
+2206,Apfel,0
+2207,Goldene Feder,0
+2208,Garnspule,0
+2209,Feuerstein,0
+2210,Wasserstein,0
+2211,Lichtstein,0
+2212,Schattenstein,0
+2213,Legendäres Metall,0
+2214,Legendäres Holz,0
+2215,Legendärer Stoff,0
+2216,Legendäres Leder,0
+2217,Halit,0
+2218,Blaues Fell,0
+2219,Verdorbene Frucht,0
+2220,Goldene Frucht,0
+2221,Lokomotive,0
+2222,Verschmutzte Rinde,0
+2223,Goldene Rinde,0
+2224,Verfluchte Wurzel,0
+2225,Riesige Mutter,0
+2226,Verschmutzter Pfeil,0
+2227,Yakhufeisen,0
+2228,Maulwurfsgrillen-Bein,0
+2229,Goldener Pilz,0
+2230,Riesige Schraube,0
+2231,Schwertspitze,0
+2232,Backenzahn,0
+2233,Goldmoos,0
+2234,Maulwurfschwanz,0
+2235,Kristallperle,0
+2236,Todesperle,0
+2237,Lavendelperle,0
+2238,Blutperle,0
+2239,Kürbisperle,0
+2240,Goldperle,0
+2241,Krabbenschere,0
+2242,Leuchtende Antenne,0
+2243,Zahnrad,0
+2244,Verfaulte Rinde,0
+2245,Verschmutzte Wurzel,0
+2246,Rattenschwanz,0
+2247,Glühende Antenne,0
+2248,Laubblatt,0
+2249,Kristall der Flammen,0
+2250,Kristall der Wellen,0
+2251,Kristall des Windes,0
+2252,Verlorener Schädel,0
+2253,Yakgeweih,0
+2254,Schwarzes Panzerstück,0
+2255,Schwarzes Pulver,0
+2256,Roter Ast,0
+2257,Dreckklumpen,0
+2258,Glitzernder Sand,0
+2259,Scharfe Tatze,0
+2260,Wunschkristall,0
+2261,Schwarzer Edelstein,0
+2262,Verschmutzter Stamm,0
+2263,Basiliskenherz,0
+2264,Hautfetzen,0
+2266,Holzgeistkristall,0
+2267,Goldenes Blatt,0
+2268,Tannensaft,0
+2269,Gehärtetes Herz,0
+2270,Eidechsenhaut,0
+2271,Braunes Fell,0
+2272,Harter Panzer,0
+2273,Riesige Zellmasse,0
+2274,Leuchtender Beutel,0
+2275,Sandstein,0
+2276,Blutegelzahn,0
+2277,Geronnenes Blut,0
+2278,Grünes Gel,0
+2279,Verunreinigter Saft,0
+10031,Farbbombe,0
+2314,Kürbis,0
+2282,Engelsfeder,0
+2283,Glänzende grüne Seele,0
+2284,Glänzende rote Seele,0
+2285,Glänzende blaue Seele,0
+10032,Käsesandwich,0
+10033,Spareribs,0
+10035,Obstomelett,0
+10036,Hamburger,0
+10037,Steak,0
+2294,Süßer Sirup,0
+2295,Gewürze,0
+2296,Wasser,0
+2297,Heilige Kristallkugel des Rufs,0
+10038,Gekochtes Ei,0
+10039,Muffin,0
+10040,Pizzastück,0
+10041,Eiszapfen mit Sirup,0
+10042,Eis am Stiel,0
+2303,Eistüte,0
+10043,Kaffee und Donut,0
+10044,Baguette,0
+10045,Eisbecher,0
+2307,Eiswürfel,0
+2308,Milch,0
+10046,Fruchteis,0
+10047,Schokoladeneis,0
+2311,Basis-Teleporter,0
+2312,Flügel der Freundschaft (Event),0
+2313,Medizin für Partner (Event),0
+2315,Leckeres Roggenbrot,0
+2320,Raidurkunde,0
+2321,Haustiertrainer der Piraten (Event),0
+2322,Gelbes Kürbisbonbon (Event),0
+2323,Grusel-Haustiertrainer (Event),0
+2324,Schwarzes Kürbisbonbon (Event),0
+2325,Sonderbares Haustierfutter,0
+2326,Schokokuchen,0
+2327,Frische Sahnetorte,0
+2328,Rudolfs Haustiertrainer,0
+10050,Partner-Schutzengel,0
+2330,Winziger Goldbrocken,0
+2331,Kleiner Goldbrocken,0
+2332,Großer Goldbrocken,0
+2333,Riesiger Goldbrocken,0
+2334,Verdorbenes Ei (Event),0
+2335,Geläutertes Ei (Event),0
+2337,Reiskuchen-Suppe,0
+2338,Glücksbringer,0
+2339,Feuerkristall,0
+2340,Stück Osterkuchen (Event),0
+2348,Glänzender violetter Edelstein,0
+2349,Glänzender himmelblauer Edelstein,0
+10052,Brennendes Hähnchen,0
+2352,Heißes Leder,0
+2353,Heißer Stoff,0
+2354,Heißes Holz,0
+2355,Heißes Silbergarn,0
+2356,Heißes Goldgarn,0
+2357,Göttlicher Magiekristall,0
+2358,Dunkler Magiekristall,0
+2359,Göttlicher Kristall,0
+2360,Dunkler Kristall,0
+2361,Regenbogenmünze,0
+2362,Regenbogen-Smiley,0
+2363,Süßer Apfel,0
+2364,Kliffbeere,0
+2365,Süßer Apfelsaft,0
+2366,Sekrass-Erz,0
+2367,Purpurner Kürbisstein,0
+2368,Orangener Kürbisstein,0
+2369,Grünblauer Kürbisstein,0
+2370,Fragment der Akamurmaske,0
+2371,Fragment der Wüstenräubermaske,0
+2372,Akamurplakette,0
+10053,Trockenes Roggenbrot,0
+10054,Oasenwasser,0
+10055,Heißer Lammspieß,0
+10056,Erfrischendes Grundwasser,0
+10057,Heißer Kakao,0
+10058,Kalter Kakao,0
+2379,Lammfleisch,0
+2380,Grundwasser,0
+2381,Truhe mit riesigen Erdbeeren,0
+2382,Truhe mit reifen Trauben,0
+2383,Truhe mit roten Äpfeln,0
+2384,Amulett der Heimkehr (Wüste),0
+2385,Sack mit vergifteten Kaktusfeigen,0
+2386,Räucherstäbchen des Priesters,0
+2387,Räucherstäbchen des Mönchs,0
+2388,Räucherstäbchen des Klerikers,0
+2389,Räucherstäbchen des Schatzsuchers,0
+2393,Feenessenz der Erde,0
+2394,Heißer Metallklumpen,0
+2395,Blauer Edelstein,0
+2396,Grüner Edelstein,0
+2397,Gelber Edelstein,0
+2398,Frisches Moos,0
+2399,Goldenes Neujahrs-Möhrchen (Event),0
+2400,Frischer Möhrchen-Saft (Event),0
+2401,Leckerer Möhrchen-Snack (Event),0
+2402,Eingelegtes Moos,0
+2403,Moosbrei,0
+2404,Evolutionsfrucht (Event),0
+2405,Schokohase (Event),0
+2406,Golemkern,0
+2407,Andenken des Dämons,0
+2408,Magisches Knochenpulver,0
+2409,Andenken der größten Helden der Orks,0
+2410,Jadestein,0
+2411,Loa-Runenpulver,0
+2412,Fragment des Geisterkönigs,0
+2413,Hornfragment des Bestienkönigs,0
+2414,Satyros-Flügel,0
+2415,Magischer Schattenpfeil,0
+2416,Morizios-Obsidian,0
+2417,Schwarzer Titansplitter,0
+10059,Geheimnisvolle Haarfarbe,0
+2419,NosMate-Beschwörungsbuch,0
+2420,Rufhorn,0
+10060,Sonderbares Partnerfutter,0
+2422,Leckere Wassermelone,0
+2423,Bohnenreiskuchen,0
+2424,Kur,0
+2425,Ginsengblatt,0
+2426,Möhrchen,0
+2427,Zenas' Ei,0
+2428,Glorreiche Farbenfrohe Eichel,0
+2429,Erenias Ei,0
+2430,Schwarzer Titanbarren,0
+2431,Fernons Ei,0
+2432,Belials geborstenes magisches Schwert,0
+2433,Heiliges Wasser der Bruderschaft,0
+2434,Zwielichtessenz,0
+2435,Essenz des Abgrunds,0
+2436,Essenz von Sellaim,0
+2437,Essenz von Woondine,0
+2438,Essenz von Eperial,0
+2439,Essenz von Turik,0
+2440,Essenz von Elkaim,0
+2441,Essenz von Ladine,0
+2442,Essenz von Rumial,0
+2443,Essenz von Varik,0
+2444,Essenz des Feenkönigs,0
+2445,Frostkristall,0
+2446,Fragment des Fernonbaums,0
+2447,Zwischensiegel,0
+2448,Kühlwasser,0
+2449,Reines Mithril,0
+2450,Adamantium,0
+2451,Ertel,0
+2452,Fernons Energie,0
+2453,Essenz von Fernon,0
+2454,Blutiger Verband,0
+2455,Unbequeme Kleidung,0
+2456,Tiefsitzender Groll,0
+2457,Glänzende Wünschelrute,0
+2458,Antike Wünschelrute,0
+2459,Morizios-Tierleder,0
+2460,Geisterwaldzweig,0
+2461,Ork-Feuerwerk,0
+2462,Belials Runenstein,0
+2463,Eulenbär-Fleisch,0
+2464,Eulenbär-Mähne,0
+2465,Pikanya-Fleisch,0
+2466,Pikanya-Feder,0
+2467,Morizios-Sprudel,0
+2468,Buch des Bären-Loa,0
+2469,Buch des Adler-Loa,0
+2470,Buch des Schlangen-Loa,0
+2471,Buch des Löwen-Loa,0
+2472,Eulenbär-Steak,0
+2473,Pikanya-Nuggets,0
+2474,Fernons magischer Kristall,0
+2475,Magischer Göttinnenkristall,0
+2476,Buch des Geisterkönigs,0
+2500,Grenigas' Waffen-Produktionsschriftrolle,0
+2501,Grenigas' Zweitwaffen-Produktionsschriftrolle,0
+2502,Grenigas' Rüstungs-Produktionsschriftrolle,0
+2503,Erdelement,0
+2504,Quellwasser,0
+2505,Erdkristall,0
+2506,Glutrotes Metallstück,0
+2507,Tafel der antiken Zivilisation,0
+2508,Kertos' Muster,0
+2509,Katols Muster,0
+2510,Muster des Gral,0
+2511,Drachenhaut,0
+2512,Drachenblut,0
+2513,Drachenherz,0
+2514,Kleiner Rubin der Vollendung,0
+2515,Kleiner Saphir der Vollendung,0
+2516,Kleiner Obsidian der Vollendung,0
+2517,Kleiner Topas der Vollendung,0
+2518,Rubin der Vollendung,0
+2519,Saphir der Vollendung,0
+2520,Obsidian der Vollendung,0
+2521,Topas der Vollendung,0
+2522,Dracos Kralle,0
+2523,Glacerus' Mähne,0
+2524,Bohnenmehlkuchen,0
+2525,Schraube (Event),0
+2526,Mutter (Event),0
+2527,Speedbooster-Verstärkung,0
+2531,Magischer Würfel (Event),0
+2532,Zerbrochener Schlüssel (Ausgang der Katakombe),0
+10061,Freche Tönung,0
+10062,"Haarwachs ""Rockabilly""",0
+10063,"Haarwachs ""Geflochtener Igelschnitt""",0
+10064,"Haarwachs ""Geflochtener Zopf""",0
+10065,"Haarwachs ""Kurzer Pony""",0
+10066,EC-Karte der Cuarry-Bank,0
+2600,Schleimbatzen,0
+2601,Vertraute Maske,0
+2602,Zerbrochener Schlüssel,0
+2603,Drachenatem,0
+2604,Reine Essenz des Feuers,0
+2605,Fafnirs Energie,0
+2606,Fafnirs Horn,0
+2607,Fafnirs Herz,0
+2608,Fafnirs Backenzahn,0
+2609,Fafnirs Schuppe,0
+2610,Antiker Münzenbeutel,0
+2611,Fafnirs Jagdhorn,0
+2797,Glänzende Pergamentrolle,0
+2798,Pergamentrolle,0
+2799,Mithrilmedaille,0
+2800,Goldmedaille,0
+2801,Silbermedaille,0
+2802,Teamarena-Snack,0
+2803,Element der Balance,0
+2804,Essenz der Balance,0
+2805,Kristall der Balance,0
+2806,Reliquie des Urstammes,0
+2807,Intakte Reliquie des Urstammes,0
+2808,Mal des Zeloten,0
+2809,Horn von Bacoom,0
+2810,Schwanz von Bacoom,0
+2811,Beschädigtes Oreichalkos,0
+2812,Intaktes Oreichalkos,0
+2813,Schwebestein,0
+2814,Seide,0
+2815,Seele der Unschuld,0
+2816,Unbekanntes Metallstück,0
+2817,Unbekanntes Heiligtum,0
+2818,Silbergarn,0
+2819,Goldgarn,0
+2820,[Einfach] PvP-Schadenserhöhung,0
+2821,[Mittel] PvP-Schadenserhöhung,0
+2822,[Fortgeschritten] PvP-Schadenserhöhung,0
+2823,[Hervorragend] PvP-Schadenserhöhung,0
+2824,[Einfach] PvP-Verteidigungserhöhung,0
+2825,[Mittel] PvP-Verteidigungserhöhung,0
+2826,[Fortgeschritten] PvP-Verteidigungserhöhung,0
+2827,[Hervorragend] PvP-Verteidigungserhöhung,0
+2828,Memorial des vergessenen Helden D (1),0
+2829,Memorial des vergessenen Helden S (1),0
+2830,Memorial des vergessenen Helden J (1),0
+2831,Memorial des vergessenen Helden M (1),0
+2832,Memorial des unbekannten Helden (1),0
+2833,Abwehrstrategie von Lord Cuarrys Rittern (1),0
+2834,Angriffsstrategie von Lord Cuarrys Rittern (1),0
+2835,Feenfreundschaft (1),0
+2836,Aurelius Roshus Urgeschichte (1),0
+2837,Memorial der Akamurhändler (1),0
+2838,Sonderbar,0
+2839,Memorial des vergessenen Helden D (2),0
+2840,Memorial des vergessenen Helden S (2),0
+2841,Memorial des vergessenen Helden J (2),0
+2842,Memorial des vergessenen Helden M (2),0
+2843,Memorial des unbekannten Helden (2),0
+2844,Abwehrstrategie von Lord Cuarrys Rittern (2),0
+2845,Angriffsstrategie von Lord Cuarrys Rittern (2),0
+2900,Zerbrochener Diamant,0
+2901,Intakter Diamant,0
+3132,Wohnhaus,0
+3133,Bauernhaus,0
+3134,Reisezelt,0
+3136,Landhaus,0
+3004,Kleines Warenhaus,0
+3137,Mittleres Warenhaus,0
+3138,Eiserne Terassenlampe,0
+3139,Bronzene Terassenlampe,0
+3140,Bonsai in runder Schale,0
+3141,Bonsai in rechteckiger Schale,0
+3142,Bonsai in lotusförmiger Schale,0
+3143,Tomatenpflanze,0
+3144,Gelbe Tomatenpflanze,0
+3145,Tomatenpflanze im Terrakottatopf,0
+3146,Gelbe Tomatenpflanze im Terrakottatopf,0
+3147,Weißes Regal,0
+3148,Rosarotes Regal,0
+3149,Wollie-Marmorskulptur,0
+3150,Wollie-Goldskulptur,0
+3151,Orange Blumen in weißer Wanne,0
+3152,Bunte Blumen in brauner Wanne,0
+3153,Orange Blumen in brauner Wanne,0
+3154,Bunte Blumen in weißer Wanne,0
+3155,Dryaden-Bronzeskulptur,0
+3156,Grüne Dryadenskulptur,0
+3157,Moderne Bronzelaterne,0
+3158,Moderne Eisenlaterne,0
+3159,Weißer Sonnenschirm,0
+3160,Gestreifter Sonnenschirm,0
+3161,Rosafarbener Sonnenschirm,0
+3162,Sternchen-Sonnenschirm,0
+3163,Dunkelgrüner Busch,0
+3164,Busch mit gelben Früchten,0
+3165,Hellgrüner Busch,0
+3166,Busch mit roten Früchten,0
+3167,Weiße Lilie in blauem Topf,0
+3168,Weiße Lilie in braunem Topf,0
+3169,Weiße Lilie in grünem Topf,0
+3170,Gelbe Lilie in blauem Topf,0
+3171,Gelbe Lilie in braunem Topf,0
+3172,Gelbe Lilie in grünem Topf,0
+3173,Rote Lilie in blauem Topf,0
+3174,Rote Lilie in braunem Topf,0
+3175,Rote Lilie in grünem Topf,0
+3176,Lila Hyazinthe in blauem Topf,0
+3177,Lila Hyazinthe in braunem Topf,0
+3178,Lila Hyazinthe in grünem Topf,0
+3179,Rosa Hyazinthe in blauem Topf,0
+3180,Rosa Hyazinthe in braunem Topf,0
+3181,Rosa Hyazinthe in grünem Topf,0
+3182,Hellrosa Hyazinthe in blauem Topf,0
+3183,Hellrosa Hyazinthe in braunem Topf,0
+3184,Hellrosa Hyazinthe in grünem Topf,0
+3185,Elefantenskulptur,0
+3186,Hamsterskulptur,0
+3187,Einfaches Picknickset,0
+3188,Buschiskulptur,0
+3189,Romantischer Teich,0
+3190,Blumenbeet mit roten Rosen,0
+3191,Blumenbeet mit weißen Rosen,0
+3192,Kleines Zelt,0
+3193,Rosa Teppich,0
+3194,Grüner Teppich,0
+3195,Dekorationsstein aus Granit,0
+3196,Dekorationsstein aus Quarz,0
+3197,Heller Dekorationsfelsen,0
+3198,Dunkler Dekorationsfelsen,0
+3199,Antiker Teetisch,0
+3200,Luxuriöser Teetisch,0
+3201,Festtisch aus Mahagoni,0
+3202,Festtisch aus Kiefernholz,0
+3203,Abendtisch aus Marmor,0
+3204,Abendtisch aus Kirschholz,0
+3205,Rosagedeckter Partytisch,0
+3206,Orangegedeckter Partytisch,0
+3207,Dunkelgrüner Baum,0
+3208,Baum mit roten Früchten,0
+3209,Baum mit gelben Früchten,0
+3210,Hellgrüner Baum,0
+3211,Kastanientopf mit Veilchen,0
+3212,Kastanientopf mit Sommerblumen,0
+3213,Kastanientopf mit rosa Blumen,0
+3214,Eichentopf mit Veilchen,0
+3215,Eichentopf mit Sommerblumen,0
+3216,Eichentopf mit rosa Blumen,0
+3217,Herz aus roten Rosen,0
+3218,Herz aus weißen Rosen,0
+3219,Blaues Luxuspicknickset,0
+3220,Rotes Luxuspicknickset,0
+3221,Fuchs-Goldskulptur,0
+3222,Fuchs-Marmorskulptur,0
+3223,Großes Warenhaus,0
+3224,Strandhaus,0
+3104,Winziges Warenhaus,0
+3106,Gartenhäuschen,0
+3225,Antike Eisenlaterne,0
+3226,Antike Bronzelaterne,0
+3227,Baum mit orangen Früchten,0
+3228,Baum mit rosa Früchten,0
+3229,Riesiges Warenhaus (30 Tage),0
+3230,Weihnachtsbaum,0
+3231,Weihnachtsdekoration,0
+3232,Riesiges Warenhaus (unbegrenzt),0
+3117,Einfacher Steinbruch,0
+3118,Einfaches Sägewerk,0
+3119,Einfacher Schießstand,0
+3120,Einfacher Fischteich,0
+3121,Mittelmäßiger Steinbruch,0
+3122,Mittelmäßiges Sägewerk,0
+3123,Mittelmäßiger Schießstand,0
+3124,Mittelmäßiger Fischteich,0
+3125,Guter Steinbruch,0
+3126,Gutes Sägewerk,0
+3127,Guter Schießstand,0
+3128,Guter Fischteich,0
+3129,Airwaves,0
+3130,Schreibmaschine,0
+3131,Memory,0
+3233,Kleiner Regenbogenkristall,0
+3234,Mittlerer Regenbogenkristall,0
+3235,Großer Regenbogenkristall,0
+3800,Frühlings-Melodie,0
+3801,Sommer-Melodie,0
+3802,Herbst-Melodie,0
+3803,Winter-Melodie,0
+4000,Langschwert der Wüstenräuber,0
+4001,Schneideschwert des großen Anführers,0
+4002,Bogen der Wüstenräuber,0
+4003,Keilbogen des großen Anführers,0
+4004,Gehstock der Wüstenräuber,0
+4005,Zauberstab des großen Anführers,0
+4006,Armbrust des Wüstenvagabunden,0
+4007,Armbrust des großen Anführers,0
+4008,Dolch des Wüstenskorpions,0
+4009,Messer des großen Anführers,0
+4010,Zauberwaffe der Wüstenmagier,0
+4011,Zauberwaffe des großen Anführers,0
+4012,Goldrüstung der Räuberbande,0
+4013,Schwere Rüstung des Kommandanten,0
+4014,Glänzende Rüstung der Räuberbande,0
+4015,Goldtunika der Räuberbande,0
+4016,Lederrüstung des Kommandanten,0
+4017,Glänzende Lederrüstung der Räuberbande,0
+4018,Goldrobe der Räuberbande,0
+4019,Robe des Kommandanten,0
+4020,Glänzende Robe der Räuberbande,0
+4021,Hut des Räubermeisters,0
+4022,Turban des Kommandanten,0
+4023,Turban des großen Anführers,0
+4024,Schutzhelm des Sandgeistes,0
+4025,Schutzhelm des Windgeistes,0
+4026,Schutzhelm der Wüstenräuber,0
+4027,Schutzhelm der Händler,0
+4028,Stirnband der Räuberneulinge,0
+4029,Maske des Räubermeisters,0
+4030,Maske der Händler,0
+4031,Maske der Räuber,0
+4032,Erste-Hilfe-Maske,0
+4033,Maske des Inspektors,0
+4034,Maske der Elite,0
+4035,Maske des Kommandanten,0
+4036,Silberne Handschuhe der Räuberbande,0
+4037,Glänzende Handschuhe der Räuberbande,0
+4038,Handschuhe des Seeblicks,0
+4039,Schwarze Steinlederhandschuhe,0
+4040,Handschuhe des Räubermeisters,0
+4041,Silberne Schuhe der Räuberbande,0
+4042,Glänzende Schuhe der Räuberbande,0
+4043,Stiefel des Seeblicks,0
+4044,Schwarze Steinlederstiefel,0
+4045,Schuhe des Räubermeisters,0
+8105,Tarotkarte (Narr),0
+8106,Tarotkarte (Magier),0
+8107,Tarotkarte (Liebe),0
+8108,Tarotkarte (Einsiedler),0
+8110,Tarotkarte (Dämon),0
+8111,Tarotkarte (Turm),0
+8112,Tarotkarte (Stern),0
+8113,Tarotkarte (Mond),0
+4056,Talisman des Blitzes,0
+4057,Talisman der Welle,0
+4058,Talisman der Wolke,0
+4059,Talisman des Windes,0
+4060,Talisman des Feuers,0
+4061,Fußball Buschi,0
+4062,Schiri Buschi,0
+8115,Rusty Robby,0
+8195,Aqua Buschi-Hut (unbegrenzt),0
+8198,Aqua Buschi-Kostüm (unbegrenzt),0
+4066,Super Kürbis Buschi,0
+8116,Santa Buschi-Kostüm (1 Tag),0
+8117,Santa Buschi-Mütze (1 Tag),0
+8118,Santa Buschi-Kostüm (7 Tage),0
+8119,Santa Buschi-Mütze (7 Tage),0
+8120,Santa Buschi-Kostüm (30 Tage),0
+8121,Santa Buschi-Mütze (30 Tage),0
+8122,Santa Buschi-Kostüm (unbegrenzt),0
+8123,Santa Buschi-Mütze (unbegrenzt),0
+4075,Weihnachtskostüm (unbegrenzt),0
+4076,Weihnachtsmütze (unbegrenzt),0
+8124,Spezialeinheit Buschi,0
+4081,Glitzerndes Ei der Huhnkönigin (Event),0
+4082,Ei der Huhnkönigin (Event),0
+4083,Raidbox (Event),0
+8125,Ei des Chick Norris,0
+8126,Schwarzes Buschi,0
+8127,Blaues Buschi,0
+8128,Grünes Buschi,0
+8129,Rotes Buschi,0
+8130,Pinkfarbenes Buschi,0
+8131,Türkisfarbenes Buschi,0
+8132,Gelbes Buschi,0
+4099,Piraten-Spezialistenkarte,0
+4100,Piraten-Spezialistenkarte (Event),0
+4189,Piraten Buschi (Wasser),0
+4102,Mini Jackpen,0
+4190,Piraten Buschi (Feuer),0
+4191,Piraten Buschi (Licht),0
+4192,Piraten Buschi (Schatten),0
+4106,Reittierperle,0
+8133,Schwarzes Buschi-Kostüm (unbegrenzt),0
+8134,Blaues Buschi-Kostüm (unbegrenzt),0
+8135,Grünes Buschi-Kostüm (unbegrenzt),0
+8136,Rotes Buschi-Kostüm (unbegrenzt),0
+8137,Pinkfarbenes Buschi-Kostüm (unbegrenzt),0
+8138,Türkisfarbenes Buschi-Kostüm (unbegrenzt),0
+8139,Gelbes Buschi-Kostüm (unbegrenzt),0
+8140,Schwarzer Buschi-Hut (unbegrenzt),0
+8141,Blauer Buschi-Hut (unbegrenzt),0
+8142,Grüner Buschi-Hut (unbegrenzt),0
+8143,Roter Buschi-Hut (unbegrenzt),0
+8144,Pinkfarbener Buschi-Hut (unbegrenzt),0
+8145,Türkisfarbener Buschi-Hut (unbegrenzt),0
+8146,Gelber Buschi-Hut (unbegrenzt),0
+8147,Kürbishut (1 Tag),0
+8148,Kürbishut (7 Tage),0
+8149,Kürbishut (30 Tage),0
+8150,Kürbishut (unbegrenzt),0
+8151,Shogun Buschi,0
+8152,Centurio Buschi,0
+4127,Rudolf Buschi,0
+4128,Junges Rudolf Buschi,0
+8153,Elkaim,0
+8154,Ladine,0
+8155,Rumial,0
+8156,Varik,0
+4151,Mysteriöses Ei,0
+4134,Seraphim-Ei,0
+4135,Flauschige Hasenohren für Männer (1 Tag),0
+4136,Flauschige Hasenohren für Männer (7 Tage),0
+4137,Flauschige Hasenohren für Männer (30 Tage),0
+4138,Flauschige Hasenohren für Männer (unbegrenzt),0
+4139,Flauschige Hasenohren für Frauen (1 Tag),0
+4140,Flauschige Hasenohren für Frauen (7 Tage),0
+4141,Flauschige Hasenohren für Frauen (30 Tage),0
+4142,Flauschige Hasenohren für Frauen (unbegrenzt),0
+4143,Flauschiges Hasenkostüm für Männer (1 Tag),0
+4144,Flauschiges Hasenkostüm für Männer (7 Tage),0
+4145,Flauschiges Hasenkostüm für Männer (30 Tage),0
+4146,Flauschiges Hasenkostüm für Männer (unbegrenzt),0
+4147,Flauschiges Hasenkostüm für Frauen (1 Tag),0
+4148,Flauschiges Hasenkostüm für Frauen (7 Tage),0
+4149,Flauschiges Hasenkostüm für Frauen (30 Tage),0
+4150,Flauschiges Hasenkostüm für Frauen (unbegrenzt),0
+4152,Deutsches Fußball Buschi,0
+4153,Französisches Fußball Buschi,0
+4154,Englisches Fußball Buschi,0
+4155,Italienisches Fußball Buschi,0
+4156,Spanisches Fußball Buschi,0
+4157,Polnisches Fußball Buschi,0
+4158,Russisches Fußball Buschi,0
+4159,Tschechisches Fußball Buschi,0
+4160,Türkisches Fußball Buschi,0
+8157,Strohhut (1 Tag),0
+8158,Strohhut (7 Tage),0
+8159,Strohhut (30 Tage),0
+8160,Strohhut (unbegrenzt),0
+4165,Mini Kangpen,0
+8161,Leona,0
+8162,"Darko, der Höllenwelpe",0
+8163,Fibi Frostig,0
+8164,Glühender Kürbishut (1 Tag),0
+8165,Glühender Kürbishut (7 Tage),0
+8166,Glühender Kürbishut (30 Tage),0
+8167,Glühender Kürbishut (unbegrenzt),0
+4173,Gruselige Tarotkarte [Geist],0
+4174,Gruselige Tarotkarte [Dracula],0
+4175,Gruselige Tarotkarte [Vogelscheuche],0
+8168,Otofuchskostüm (30 Tage),0
+8169,Otofuchskostüm (unbegrenzt),0
+8170,Otofuchshut (30 Tage),0
+8171,Otofuchshut (unbegrenzt),0
+8172,Zauberhut des Lichtes (30 Tage),0
+8173,Zauberhut des Lichtes (unbegrenzt),0
+8174,Zauberhut des Schattens (30 Tage),0
+8175,Zauberhut des Schattens (unbegrenzt),0
+8176,Zaubergewand des Lichtes (30 Tage),0
+8177,Zaubergewand des Lichtes (unbegrenzt),0
+8178,Zauberrobe des Schattens (30 Tage),0
+8179,Zauberrobe des Schattens (unbegrenzt),0
+8180,Navy Buschi,0
+4194,Feenperle,0
+8181,Fußballcap (unbegrenzt),0
+8182,Fußballtrikot (unbegrenzt),0
+4197,Rudi Rabauke,0
+4198,Junger Rudi Rabauke,0
+8183,Keinarmhase,0
+8184,Inferno,0
+8185,Navy-Mütze (1 Tag),0
+8186,Navy-Mütze (7 Tage),0
+8187,Navy-Mütze (30 Tage),0
+8188,Navy-Mütze (unbegrenzt),0
+8189,Navy-Kostüm (1 Tag),0
+8190,Navy-Kostüm (7 Tage),0
+8191,Navy-Kostüm (30 Tage),0
+8192,Navy-Kostüm (unbegrenzt),0
+8193,Aqua Buschi-Hut (7 Tage),0
+8194,Aqua Buschi-Hut (30 Tage),0
+8196,Aqua Buschi-Kostüm (7 Tage),0
+8197,Aqua Buschi-Kostüm (30 Tage),0
+4216,Rosarotes Partydiadem (30 Tage),0
+4217,Gelbes Partydiadem (30 Tage),0
+4218,Blaues Partydiadem (30 Tage),0
+4219,Rosarotes Partydiadem (unbegrenzt),0
+4220,Gelbes Partydiadem (unbegrenzt),0
+4221,Blaues Partydiadem (unbegrenzt),0
+4222,Rosarotes Partykleid (30 Tage),0
+4223,Gelbes Partykleid (30 Tage),0
+4224,Blaues Partykleid (30 Tage),0
+4225,Rosarotes Partykleid (unbegrenzt),0
+4226,Gelbes Partykleid (unbegrenzt),0
+4227,Blaues Partykleid (unbegrenzt),0
+4228,Rote Schirmmütze (30 Tage),0
+4229,Goldene Schirmmütze (30 Tage),0
+4230,Braune Schirmmütze (30 Tage),0
+4231,Rote Schirmmütze (unbegrenzt),0
+4232,Goldene Schirmmütze (unbegrenzt),0
+4233,Braune Schirmmütze (unbegrenzt),0
+4234,Roter Detektivanzug (30 Tage),0
+4235,Goldener Detektivanzug (30 Tage),0
+4236,Brauner Detektivanzug (30 Tage),0
+4237,Roter Detektivanzug (unbegrenzt),0
+4238,Goldener Detektivanzug (unbegrenzt),0
+4239,Brauner Detektivanzug (unbegrenzt),0
+4240,Goldener Spezialistenkartenhalter,0
+8199,Niedliches Tigerkostüm (1 Tag),0
+8200,Niedliches Tigerkostüm (7 Tage),0
+8201,Niedliches Tigerkostüm (30 Tage),0
+8202,Niedliches Tigerkostüm (unbegrenzt),0
+8203,Schneeweißes Tigerkostüm (1 Tag),0
+8204,Schneeweißes Tigerkostüm (7 Tage),0
+8205,Schneeweißes Tigerkostüm (30 Tage),0
+8206,Schneeweißes Tigerkostüm (unbegrenzt),0
+8207,Niedlicher Tigerhut (1 Tag),0
+8208,Niedlicher Tigerhut (7 Tage),0
+8209,Niedlicher Tigerhut (30 Tage),0
+8210,Niedlicher Tigerhut (unbegrenzt),0
+8211,Schneeweißer Tigerhut (1 Tag),0
+8212,Schneeweißer Tigerhut (7 Tage),0
+8213,Schneeweißer Tigerhut (30 Tage),0
+8214,Schneeweißer Tigerhut (unbegrenzt),0
+8215,Illusionistenkostüm (30 Tage),0
+8216,Illusionistenkostüm (unbegrenzt),0
+8217,Illusionistenzylinder (30 Tage),0
+8218,Illusionistenzylinder (unbegrenzt),0
+4263,Heldenhaftes Amulett für den Aufstieg des seltenen Levels,0
+4262,Heldenhaftes Amulett des Segens (Zufall),0
+4264,Heldenhaftes Amulett des Segens,0
+8250,Cooler Strandhut (30 Tage),0
+8251,Cooler Strandhut (unbegrenzt),0
+8248,Cooles Strandkostüm (30 Tage),0
+8249,Cooles Strandkostüm (unbegrenzt),0
+8284,Leo der Feigling,0
+8252,Baseballschläger-Skin (30 Tage),0
+8253,Baseballschläger-Skin (unbegrenzt),0
+8254,Sportbogen-Skin (30 Tage),0
+8255,Sportbogen-Skin (unbegrenzt),0
+8256,Tennisschläger-Skin (30 Tage),0
+8257,Tennisschläger-Skin (unbegrenzt),0
+8258,Impschläger-Skin (30 Tage),0
+8259,Impschläger-Skin (unbegrenzt),0
+8260,Wildblütenbogen-Skin (30 Tage),0
+8261,Wildblütenbogen-Skin (unbegrenzt),0
+8262,Uchiwa-Skin (30 Tage),0
+8263,Uchiwa-Skin (unbegrenzt),0
+8266,Polizeimütze (30 Tage),0
+8267,Polizeimütze (unbegrenzt),0
+8264,Polizeiuniform (30 Tage),0
+8265,Polizeiuniform (unbegrenzt),0
+8268,Portier-Mütze (30 Tage),0
+8269,Portier-Mütze (unbegrenzt),0
+8270,Portier-Uniform (30 Tage),0
+8271,Portier-Uniform (unbegrenzt),0
+8273,Wikingerhelm (30 Tage),0
+8274,Wikingerhelm (unbegrenzt),0
+8275,Wikingerrüstung (30 Tage),0
+8276,Wikingerrüstung (unbegrenzt),0
+8281,Friggs Schlüssel,0
+8282,Ragnars Schlüssel,0
+8283,Erdimiens Schlüssel,0
+4307,Drachenflügel-Dekoration,0
+4308,Altes Wikingerkostüm (7 Tage),0
+8285,Steampunk-Gigantoklinge (unbegrenzt),0
+8286,Steampunk-Uhrwerkbogen (unbegrenzt),0
+8287,Steampunk-Sägezahnstab (unbegrenzt),0
+8288,Steampunk-Gigantoklinge (30 Tage),0
+8289,Steampunk-Uhrwerkbogen (30 Tage),0
+8290,Steampunk-Sägezahnstab (30 Tage),0
+8291,Jennifers Schlüssel,0
+8292,Wüstenturban (30 Tage),0
+8293,Wüstenturban (unbegrenzt),0
+8294,Blumenspange (30 Tage),0
+8295,Blumenspange (unbegrenzt),0
+8296,Wüstengewand (30 Tage),0
+8297,Wüstengewand (unbegrenzt),0
+8298,Bauchtanzkostüm (30 Tage),0
+8299,Bauchtanzkostüm (unbegrenzt),0
+8356,Wächter Luzifers Partnerspezialistenkarte,0
+8357,Sheriff Chloes Partnerspezialistenkarte,0
+8300,Knochenkrieger Ragnars Partnerspezialistenkarte,0
+4327,Yertirands Zauberstab,0
+4328,Zauberstab des verdorbenen Yertirand,0
+4329,Handschuhe des Drachenritters,0
+8301,Yertirands Schlüssel,0
+4331,Halskette mit der Energie des Lichs,0
+4332,Ring mit der Energie des Lichs,0
+4333,Armreif mit der Energie des Lichs,0
+4334,Helm des Drachenritters,0
+4335,Schuhe des Drachenritters,0
+8302,Sir Schnurr,0
+8303,Teufelsanwärter Kratz,0
+8304,Perle von Admiral Adlerauge,0
+8305,Perle von Piratenkönig Pussifer,0
+8306,Magischer Speedbooster (1 Tag),0
+8307,Magischer Speedbooster (3 Tage),0
+8308,Magischer Speedbooster (7 Tage),0
+8310,Versuchsobjekt des wahnsinnigen Dr. Maunz,0
+8309,Verkleidung der weißen Hexe Laurena,0
+8311,Wahnsinniger Dr. Maunz,0
+8341,Perle von Geisterbräutigam Buhmiau,0
+8342,Perle von Geisterbraut Buhmiau,0
+8351,Perle von Mechanikatz,0
+8358,Erzdämon Amons Partnerspezialistenkarte,0
+4350,Kuchenmesser-Skin zum 10. Jahrestag (10 Tage),0
+4351,Kuchen-Skin zum 10. Jahrestag (10 Tage),0
+4352,Böller-Skin zum 10. Jahrestag (10 Tage),0
+4353,Kuchenmesser-Skin zum 10. Jahrestag (unbegrenzt),0
+4354,Kuchen-Skin zum 10. Jahrestag (unbegrenzt),0
+4355,Böller-Skin zum 10. Jahrestag (unbegrenzt),0
+8312,Blitzrune [Mutter Natur],0
+8313,Baumrune [Mutter Natur],0
+8314,Wolkenrune [Mutter Natur],0
+8315,Feuerrune [Mutter Natur],0
+8316,Seltene Blitzrune [Mutter Natur],0
+8317,Seltene Baumrune [Mutter Natur],0
+8318,Seltene Wolkenrune [Mutter Natur],0
+8319,Seltene Feuerrune [Mutter Natur],0
+8320,Rentiermütze (30 Tage),0
+8321,Rentiermütze (unbegrenzt),0
+8322,Rentier-Overall (30 Tage),0
+8323,Rentier-Overall (unbegrenzt),0
+8324,Weihnachtsbaum (30 Tage),0
+8325,Zuckerstangenbogen (30 Tage),0
+8326,Weihnachtsglöckchen (30 Tage),0
+8327,Weihnachtsbaum (unbegrenzt),0
+8328,Zuckerstangenbogen (unbegrenzt),0
+8329,Weihnachtsglöckchen (unbegrenzt),0
+8330,Wintermütze (30 Tage),0
+8331,Wintermütze (unbegrenzt),0
+8332,Langer Wintermantel (30 Tage),0
+8333,Langer Wintermantel (unbegrenzt),0
+8334,Drachenritterkostüm (30 Tage),0
+8335,Drachenritterkostüm (unbegrenzt),0
+8337,Helm des Frostkriegers (30 Tage),0
+8338,Helm des Frostkriegers (unbegrenzt),0
+8339,Rüstung des Frostkriegers (30 Tage),0
+8340,Rüstung des Frostkriegers (unbegrenzt),0
+8343,Haarnadel der Puppenspielerin (30 Tage),0
+8344,Haarnadel der Puppenspielerin (unbegrenzt),0
+8345,Kleid der Puppenspielerin (30 Tage),0
+8346,Kleid der Puppenspielerin (unbegrenzt),0
+8347,Bärenhut der Puppenspielerin (30 Tage),0
+8348,Bärenhut der Puppenspielerin (unbegrenzt),0
+8349,Bärenkostüm der Puppenspielerin (30 Tage),0
+8350,Bärenkostüm der Puppenspielerin (unbegrenzt),0
+8352,Karateka-Frisur (30 Tage),0
+8353,Karateka-Frisur (unbegrenzt),0
+8354,Karate-Gi (30 Tage),0
+8355,Karate-Gi (unbegrenzt),0
+8365,Mini-Feuerteufel,0
+8366,Schwarzflügel-Imp,0
+8363,Dracula-Hut (30 Tage),0
+8359,Dracula-Kostüm (30 Tage),0
+8364,Dracula-Hut (unbegrenzt),0
+8360,Dracula-Kostüm (unbegrenzt),0
+8361,Kostüm zum 11. Jahrestag (30 Tage),0
+8362,Kostüm zum 11. Jahrestag (unbegrenzt),0
+8367,Zauberlehrling Yunas Partnerspezialistenkarte,0
+8369,Perle des Rotnasen-Rentiers,0
+8374,Perle von Polarbär Fauch,0
+8370,Feuerteufel-Kostüm (30 Tage),0
+8371,Feuerteufel-Kostüm (unbegrenzt),0
+8372,Feuerteufel-Maske (30 Tage),0
+8373,Feuerteufel-Maske (unbegrenzt),0
+4412,Flügellose Amora,0
+8375,Amora-Partnerspezialistenkarte,0
+8376,Glücks-Buschi,0
+8377,Superglücks-Buschi,0
+8378,Hochzeitskostüm-Spezialistenkarte,0
+8379,Partnerspezialistenkarte des verrückten Osterhasen,0
+4418,Osterhasen-Partyhütchen (3 Tage),0
+4419,Osterhasen-Partyhütchen (7 Tage),0
+8382,Osterhasen-Partyhütchen (30 Tage),0
+8383,Osterhasen-Partyhütchen (unbegrenzt),0
+4422,Osterhasen-Partykostüm (3 Tage),0
+4423,Osterhasen-Partykostüm (7 Tage),0
+8386,Osterhasen-Partykostüm (30 Tage),0
+8387,Osterhasen-Partykostüm (unbegrenzt),0
+4426,Osterhasenhut (3 Tage),0
+4427,Osterhasenhut (7 Tage),0
+8384,Osterhasenhut (30 Tage),0
+8385,Osterhasenhut (unbegrenzt),0
+4430,Osterhasenkostüm (3 Tage),0
+4431,Osterhasenkostüm (7 Tage),0
+8388,Osterhasenkostüm (30 Tage),0
+8389,Osterhasenkostüm (unbegrenzt),0
+8380,Feuerteufel-Kostümflügel (30 Tage),0
+8381,Feuerteufel-Kostümflügel (unbegrenzt),0
+8390,Perle von Goldwolke,0
+4437,Spezialistenkarte von Meister Wolf,0
+8393,Feen-Kostümkopfbedeckung (30 Tage),0
+8394,Feen-Kostümkopfbedeckung (unbegrenzt),0
+8391,Feen-Kostümgewand (30 Tage),0
+8392,Feen-Kostümgewand (unbegrenzt),0
+8395,Feen-Kostümflügel (30 Tage),0
+8396,Feen-Kostümflügel (unbegrenzt),0
+8397,Kleine Frosthexe,0
+4445,Regenbogen-Pegasus,0
+8398,Partnerspezialistenkarte von Ein-Schwinge Perti,0
+4447,Schwert des orkischen Kriegshäuptlings,0
+4448,Schwert des Löwen-Loa,0
+4449,Belials magisches Schwert,0
+4450,Bogen des orkischen Meisterschützen,0
+4451,Bogen des Adler-Loa,0
+4452,Belials verfluchter Bogen,0
+4453,Göttlicher Stab des Hexenmeisters,0
+4454,Stab des Schlangen-Loa,0
+4455,Stab des Geisterkönigs,0
+4456,Orkische Sekrass-Panzerhandschuhe,0
+4457,Panzerhandschuhe des Bären-Loa,0
+4458,Panzerhandschuhe des Bestienkönigs,0
+4459,Armbrust des orkischen Kriegshäuptlings,0
+4460,Armbrust des Löwen-Loa,0
+4461,Raidbox des Bestienkönigs,0
+4462,Raidbox des Geisterkönigs,0
+4463,Belials Raidbox,0
+8401,Otter,0
+4465,Armbrust des Bestienkönigs,0
+4466,Orkischer Assassinen-Dolch,0
+4467,Dolch des Fledermaus-Loa,0
+4468,Belials Messer,0
+4469,Orkische Zauberwaffe,0
+4470,Zauberwaffe des Schlangen-Loa,0
+4471,Ewige Flamme des Geisterkönigs,0
+4472,Sekrass-Jademarke,0
+4473,Gesegnete Sekrass-Jademarke,0
+4474,Marke des Bären-Loa,0
+4475,Sekrass-Steinrüstung,0
+4476,Sekrass-Steinrüstung des Löwen-Loa,0
+4477,Knochenrüstung des Ork-Kriegers,0
+4478,Lederrüstung des Ork-Meisterjägers,0
+4479,Lederrüstung des Adler-Loa,0
+4480,Drachenschuppen-Lederrüstung,0
+4481,Kampfmontur des Ork-Magiers,0
+4482,Kampfmontur des Schlangen-Loa,0
+4483,Robe der Könige,0
+4484,Leichte Sekrass-Rüstung,0
+4485,Spezialistenkarte von Mystische Künste,0
+4486,Drachenfaust-Spezialistenkarte,0
+4487,Erzmagier-Spezialistenkarte,0
+4488,Racheengel-Spezialistenkarte,0
+4489,Abtrünniger-Spezialistenkarte,0
+4490,Caligors goldenes Horn,0
+4491,Seher-Spezialistenkarte,0
+4492,Dämonenjäger-Spezialistenkarte,0
+4493,Todesbringer-Spezialistenkarte,0
+4494,Kampfmönch-Spezialistenkarte (Timespace),0
+4495,Späher-Spezialistenkarte (Timespace),0
+4496,Gezeitenbändiger-Spezialistenkarte (Timespace),0
+4497,Kampfmönch-Spezialistenkarte,0
+4498,Späher-Spezialistenkarte,0
+4499,Gezeitenbändiger-Spezialistenkarte,0
+4500,Gladiator-Spezialistenkarte,0
+4501,Feuerkanonier-Spezialistenkarte,0
+4502,Vulkano-Spezialistenkarte,0
+4503,Heldenamulett des Feuers,0
+4504,Mystischer Gletscherstein,0
+4505,Leichte Rüstung des Bären-Loa,0
+4506,Carlios Zornrüstung,0
+4507,Helm der uralten Bestien,0
+4508,Zeremonienhelm,0
+4509,Handschuhe der uralten Bestien,0
+4510,Handschuhe des Geisterkönigs,0
+4511,Schuhe der uralten Bestien,0
+4512,Schuhe des Geisterkönigs,0
+4513,Armreif des Schlangen-Loa,0
+4514,Armreif des Geisterkönigs,0
+4515,Jadearmreif,0
+4516,Sekrass-Steinarmreif,0
+4517,Jadering der Geister,0
+4518,Ring der Ork-Helden,0
+4519,Jadering,0
+4520,Obsidianring,0
+4521,Okkulte Halskette,0
+4522,Bestienherz-Halskette,0
+4523,Jadehalskette,0
+4524,Obsidian-Halskette,0
+4525,Pikanya-Perle,0
+8402,Tropenhut (30 Tage),0
+8403,Tropenhut (unbegrenzt),0
+8404,Tropen-Kostüm (30 Tage),0
+8405,Tropen-Kostüm (unbegrenzt),0
+8406,Tropen-Kostümflügel (30 Tage),0
+8407,Tropen-Kostümflügel (unbegrenzt),0
+4532,Dämonenkrieger-Spezialistenkarte,0
+8408,Frosthexenhut (30 Tage),0
+8409,Frosthexenhut (unbegrenzt),0
+8410,Frosthexenkostüm (30 Tage),0
+8411,Frosthexenkostüm (unbegrenzt),0
+8412,Frosthexen-Kostümflügel (30 Tage),0
+8413,Frosthexen-Kostümflügel (unbegrenzt),0
+8368,Laurenas Hexenhut,0
+8219,Cowboy Buschi,0
+8220,Ninja Buschi,0
+8221,Indianer Buschi,0
+8222,Wikinger Buschi,0
+8223,Sammy Samtpfote,0
+4705,Zenas (Feuer),0
+4706,Zenas (Wasser),0
+4707,Zenas (Licht),0
+4708,Zenas (Finsternis),0
+4709,Erenia (Feuer),0
+4710,Erenia (Wasser),0
+4711,Erenia (Licht),0
+4712,Erenia (Finsternis),0
+4713,Fernon (Feuer),0
+4714,Fernon (Wasser),0
+4715,Fernon (Licht),0
+4716,Fernon (Finsternis),0
+4717,Schatztruhe der Schöpferin Ancelloan,0
+4718,Schatztruhe der Zerstörerin Fernon,0
+4756,Stahlfaust,0
+4720,Kurzer Reiterhandschuh,0
+4721,Kampfkunst-Handschuh,0
+4722,Schwarze Hand,0
+4723,Verstärkter Lederhandschuh,0
+4724,Kampfkunst-Lederhandschuh,0
+4725,Mächtiger Handschuh,0
+4726,Handschuh des Assassinenlehrlings,0
+4727,Sicarios Handschuh,0
+4728,Schwarze Faust,0
+4729,Handschuh aus kaltem Stahl,0
+4730,Ladines Träne,0
+4731,Fenris' Klaue,0
+4732,Feuergolem-Handschuh,0
+4733,Chaosschuppen-Handschuh,0
+4734,Flamme des Ifrits,0
+4735,Faust der versiegelten Göttin,0
+4736,Gottesfaust,0
+4757,Uniform des Kampfkunst-Lehrlings,0
+4738,Schäbige Reiter-Rüstung,0
+4739,Reiter-Rüstung,0
+4740,Blacks Anzug,0
+4741,Lederkleidung,0
+4742,Verstärkte Lederkleidung,0
+4743,Mächtige Rüstung,0
+4744,Rüstung des Assassinenlehrlings,0
+4745,Sicarios Rüstung,0
+4746,Rüstung der Schwarzen Faust,0
+4747,Wüstenräuber-Rüstung,0
+4748,Rüstung der Akamur,0
+4749,Rüstung des mysteriösen Reisenden,0
+4750,Felice-Uniform,0
+4751,Lord Cuarrys Rüstung,0
+4752,Rüstung des Herausforderers,0
+4753,Rumials Heiligkeit,0
+4754,Rüstung des Champions,0
+4755,Zenas Himmelsring,0
+4758,Bronzemarke mit einem Pferd,0
+4759,Bronzemarke mit zwei Pferden,0
+4760,Bronzemarke mit drei Pferden,0
+4761,Silbermarke mit einem Pferd,0
+4762,Silbermarke mit zwei Pferden,0
+4763,Silbermarke mit drei Pferden,0
+4764,Goldmarke mit einem Pferd,0
+4765,Goldmarke mit zwei Pferden,0
+4766,Goldmarke mit drei Pferden,0
+4767,Marke des magischen blauen Drachen,0
+4768,Marke des magischen weißen Tigers,0
+4769,Marke des magischen roten Phönix,0
+4770,Marke der magischen schwarzen Schildkröte,0
+8224,Aegirs Partnerspezialistenkarte,0
+4801,Partnerspezialistenkartenhalter,0
+8225,Barnis Partnerspezialistenkarte,0
+8226,Freyas Partnerspezialistenkarte,0
+8227,Shinobis Partnerspezialistenkarte,0
+8228,Lotus' Partnerspezialistenkarte,0
+8229,Orkanis Partnerspezialistenkarte,0
+8230,Foxys Partnerspezialistenkarte,0
+8231,Marus Partnerspezialistenkarte,0
+8232,Maru in Mamas Pelz (PSP),0
+8233,Hongbis Partnerspezialistenkarte,0
+8234,Cheongbis Partnerspezialistenkarte,0
+8235,Erzengel Luzifers Partnerspezialistenkarte,0
+8236,Laurenas Partnerspezialistenkarte,0
+8237,Amons Partnerspezialistenkarte,0
+8238,Lucy Löffels Partnerspezialistenkarte,0
+4816,Häschenhaarband,0
+8239,Cowgirl Chloe,0
+8240,Fionas Partnerspezialistenkarte,0
+8241,Dschinns Partnerspezialistenkarte,0
+8242,Eisprinzessin Eliza,0
+8243,Daniel Dukate,0
+8244,Palina Puppenspielers Partnerspezialistenkarte,0
+8245,Harlekins Partnerspezialistenkarte,0
+8246,Nelia Nymphe,0
+8247,Prinzesschen Venus,0
+4826,Nussknacker-Tschako (30 Tage),0
+8280,Nussknacker-Tschako (unbegrenzt),0
+4828,Nussknacker-Uniform (30 Tage),0
+8279,Nussknacker-Uniform (unbegrenzt),0
+4835,Laurenas Halskette,0
+4836,Laurenas Ring,0
+4837,Laurenas Armreif,0
+4838,Fernons Handschuhe,0
+4839,Fernons Schuhe,0
+4840,Azraels Maske,0
+4841,Shares' Stahlhelm,0
+4842,Glacernon-Lederhut,0
+4843,Mukrajus Diadem,0
+4844,Ehrenhaft: Handschuhe des Räubermeisters,0
+4845,Ehrenhaft: Schuhe des Räubermeisters,0
+4846,Maske des vergessenen Helden D,0
+4847,Haarreif des unbekannten Helden,0
+4848,Halskette des vergessenen Helden J,0
+4849,Ring des vergessenen Helden S,0
+4850,Armreif des vergessenen Helden M,0
+4851,Ehrenhaft: Goldrüstung der Räuberbande,0
+4852,Ehrenhaft: Goldtunika der Räuberbande,0
+4853,Ehrenhaft: Goldrobe der Räuberbande,0
+4854,Ehrenhaft: Schwere Rüstung des Kommandanten,0
+4855,Ehrenhaft: Robe des Kommandanten,0
+4856,Ehrenhaft: Lederrüstung des Kommandanten,0
+4857,Ehrenhaft: Calvinas' Blauzahndolch,0
+4858,Ehrenhaft: Calvinas' Wasserblumen-Zauberstab,0
+4859,Ehrenhaft: Calvinas' Blauhornzauberwaffe,0
+4860,Ehrenhaft: Calvinas' Meeressturmschwert,0
+4861,Ehrenhaft: Calvinas' Blaudornarmbrust,0
+4862,Ehrenhaft: Calvinas' Flutwellenbogen,0
+4863,Ehrenhaft: Armbrust des großen Anführers,0
+4864,Ehrenhaft: Zauberwaffe des großen Anführers,0
+4865,Ehrenhaft: Messer des großen Anführers,0
+4866,Ehrenhaft: Schneideschwert des großen Anführers,0
+4867,Ehrenhaft: Zauberstab des großen Anführers,0
+4868,Ehrenhaft: Keilbogen des großen Anführers,0
+4869,Ehrenhaft: Antike Feuermaske,0
+4871,Ehrenhaft: Flammenhelm,0
+4872,Ehrenhaft: Magmaros' Handschuh,0
+4873,Ehrenhaft: Valakus' Handschuh,0
+4874,Ehrenhaft: Stiefel des Flammengiganten,0
+4875,Ehrenhaft: Kertos' Stiefel,0
+4876,Ehrenhaft: Armreif des Flammengiganten,0
+4877,Ehrenhaft: Katols Armreif,0
+4878,Ehrenhaft: Ring des Phönix,0
+4879,Ehrenhaft: Ring des Gral,0
+4880,Ehrenhaft: Halsband des Gluthundes,0
+4881,Ehrenhaft: Halsband von Kertos,0
+4882,Ehrenhaft: Panzerrüstung des Flammengiganten,0
+4883,Ehrenhaft: Katols stählerner Brustpanzer,0
+4884,Ehrenhaft: Lederrüstung des Gluthundes,0
+4885,Ehrenhaft: Kertos' lederner Brustpanzer,0
+4886,Ehrenhaft: Gewand des feurigen Phönix,0
+4887,Ehrenhaft: Gewand des gleißenden Gral,0
+4888,Ehrenhaft: Magmaros' Feuerschwert,0
+4889,Ehrenhaft: Valakus' Feuerschwert,0
+4890,Ehrenhaft: Schwinge des Phönix,0
+4891,Ehrenhaft: Schwinge des Gral,0
+4892,Ehrenhaft: Stab des Lavagespenstes,0
+4893,Ehrenhaft: Katols Stab,0
+4894,Ehrenhaft: Kralle des Phönix,0
+4895,Ehrenhaft: Kralle des Gral,0
+4896,Ehrenhaft: Reißzahn des Gluthundes,0
+4897,Ehrenhaft: Reißzahn des Kertos,0
+4898,Ehrenhaft: Hauch des Valaket,0
+4899,Ehrenhaft: Valakus' Atem,0
+4900,Magmaros' Feuerschwert,0
+4901,Valakus' Feuerschwert,0
+4902,Schwert des vergessenen Helden,0
+4903,Schwinge des Phönix,0
+4904,Schwinge des Gral,0
+4905,Bogen des vergessenen Helden,0
+4906,Stab des Lavagespenstes,0
+4907,Katols Stab,0
+4908,Zauberstab des vergessenen Helden,0
+4909,Kralle des Phönix,0
+4910,Kralle des Gral,0
+4911,Armbrust des vergessenen Helden,0
+4912,Reißzahn des Gluthundes,0
+4913,Reißzahn des Kertos,0
+4914,Dolch des vergessenen Helden,0
+4915,Hauch des Valaket,0
+4916,Valakus' Atem,0
+4917,Zauberwaffe des vergessenen Helden,0
+4918,Panzerrüstung des Flammengiganten,0
+4919,Katols stählerner Brustpanzer,0
+4920,Rüstung des vergessenen Helden,0
+4921,Lederrüstung des Gluthundes,0
+4922,Kertos' Lederrüstung,0
+4923,Lederrüstung des vergessenen Helden,0
+4924,Gewand des feurigen Phönix,0
+4925,Gewand des gleißenden Gral,0
+4926,Gewand des vergessenen Helden,0
+4927,Antike Maske,0
+4928,Antike Feuermaske,0
+4929,Schutzhelm des Lavagespenstes,0
+4930,Schutzhelm des Flammengiganten,0
+4931,Magmaros' Handschuh,0
+4932,Valakus' Handschuh,0
+4933,Stiefel des Flammengiganten,0
+4934,Kertos' Stiefel,0
+4935,Armreif des Flammengiganten,0
+4936,Katols Armreif,0
+4937,Ring des Phönix,0
+4938,Ring des Gral,0
+4939,Halsband des Gluthundes,0
+4940,Halsband von Kertos,0
+4941,Versiegelter Himmelshelm,0
+4942,Erenias Halskette,0
+4943,Erenias Ring,0
+4944,Erenias Armreif,0
+4945,Versiegelter Höllenhelm,0
+4946,Zenas' Halskette,0
+4947,Zenas' Ring,0
+4948,Zenas' Armreif,0
+4949,Versiegelte schwere Himmelsrüstung,0
+4950,Versiegeltes Himmelsgewand,0
+4951,Versiegelte Himmelslederrüstung,0
+4952,Versiegelte schwere Höllenrüstung,0
+4953,Versiegeltes Höllengewand,0
+4954,Versiegelte Höllenlederrüstung,0
+4955,Versiegelte Himmelsarmbrust,0
+4956,Versiegelte Himmelszauberwaffe,0
+4957,Versiegelter Himmelsdolch,0
+4958,Versiegeltes Himmelsschwert,0
+4959,Versiegelter Himmelsstab,0
+4960,Versiegelter Himmelsbogen,0
+4961,Versiegelte Höllenarmbrust,0
+4962,Versiegelte Höllenzauberwaffe,0
+4963,Versiegelter Höllendolch,0
+4964,Versiegeltes Höllenschwert,0
+4965,Versiegelter Höllenstab,0
+4966,Versiegelter Höllenbogen,0
+4967,Versiegelte Himmelshandschuhe,0
+4968,Versiegelte Himmelsschuhe,0
+4969,Versiegelte Höllenhandschuhe,0
+4970,Versiegelte Höllenschuhe,0
+4971,Versiegelter Himmelslederhut,0
+4972,Versiegelter Höllenlederhut,0
+4973,Versiegelter Himmelshaarreif,0
+4974,Versiegelter Höllenhaarreif,0
+4975,Erenias handgefertigtes Horn,0
+4976,Zenas' Luxuriöse High Heels,0
+4977,Grahams Heiligenstein,0
+4978,Luminiels glänzende Armbrust,0
+4979,Zauberwaffe des unterirdischen Lorten,0
+4980,Die linke Klinge des zerbrochenen Krem,0
+4981,Die rechte Klinge des zerbrochenen Krem,0
+4982,Seli-Lushas Lichtzweig,0
+4983,Azraels Flügel,0
+4984,Die schwere Rüstung des tapferen Shares,0
+4985,Die Robe des Magiers Mukraju,0
+4986,Lederrüstung der Silberseele Glacernons,0
+4987,Engelsring,0
+4988,Jennifers Federhut,0
+4990,Rune des Blitzes,0
+4991,Rune der Welle,0
+4992,Rune der Wolke,0
+4993,Rune des Windes,0
+4994,Rune des Feuers,0
+5004,Sellaim-Zufallstruhe,0
+5005,Woondine-Zufallstruhe,0
+5006,Eperial-Zufallstruhe,0
+5007,Turik-Zufallstruhe,0
+9065,Magisches Cabrio,0
+5010,Stern (Event),0
+5011,Coupon (Event),0
+5012,1 (Event),0
+5013,Medaille des 1. Jahrestages,0
+5014,Große Sellaim-Zufallstruhe,0
+5015,Große Woondine-Zufallstruhe,0
+5016,Große Eperial-Zufallstruhe,0
+5017,Große Turik-Zufallstruhe,0
+5018,Hochzeitsbox,0
+5019,Aqua Buschi-Zufallstruhe,0
+5020,Kammerjäger Buschi-Zufallstruhe,0
+5021,Krankes Buschi-Zufallstruhe,0
+5022,Braunes Buschi-Zufallstruhe,0
+5023,Samurai Buschi-Zufallstruhe,0
+5024,Stier Buschi-Zufallstruhe,0
+5026,Rusty Robby Zufallstruhe,0
+5030,Zufallstruhe mit magischem Cabrio,0
+5035,Mondscheinpulver,0
+5036,Lehmige Erde,0
+5037,Magischer Dünger,0
+5038,Kartoffelmonster-Setzling,0
+5039,Schlammverschmiertes Säckchen,0
+5040,Erntedank-Geschenktruhe,0
+5041,Zufallstruhe des magischen Teppichs,0
+5042,Zufallstruhe des magischen Rollers,0
+5043,Zufallstruhe des magischen weißen Tigers,0
+5044,Gladiator Buschi-Zufallstruhe,0
+5045,Boxer Buschi-Zufallstruhe,0
+5046,Super Kürbis Buschi-Zufallstruhe,0
+5047,Santa Buschi-Zufallstruhe,0
+5048,Fußball Buschi-Zufallstruhe,0
+5049,Schiri Buschi-Zufallstruhe,0
+5050,Perle mit Aqua Buschi und Kostümset,0
+5052,Aqua Buschi-Kostümset,0
+9066,NosHändler-Medaille (30 Tage),0
+9067,NosHändler-Medaille (7 Tage),0
+9068,NosHändler-Medaille (1 Tag/Event),0
+5064,Versiegeltes Weihnachtsgefäß,0
+5065,Weihnachtsgeschenkbox (Event),0
+5066,Rolle der Fortbewegung (Event),0
+5067,Mystische Flamme (Event),0
+5068,Kleine Weihnachtsgeschenkbox,0
+5069,Mittlere Weihnachtsgeschenkbox,0
+5070,Große Weihnachtsgeschenkbox,0
+5310,Zufallstruhe mit Santa Buschi-Kostüm,0
+5080,Santa Buschi-Kostümset (unbegrenzt),0
+5083,Neujahrs-Geschenktruhe (Event),0
+5084,Schriftrolle des Buschi-Kostüms (Event),0
+5085,Gestohlener Geschenkbeutel (Event),0
+5086,Gestohlenes Glücksamulett (Event),0
+9069,Feuerflügel,0
+5091,12 (Event),0
+5099,Kleine Vollmondbox,0
+5100,Große Vollmondbox,0
+5101,Kleine Federtruhe,0
+5102,Große Federtruhe,0
+5105,Magische Lampe,0
+5106,Zufallstruhe des süßen Hasen,0
+5107,Upgraderolle für Huhnkostüm (Event),0
+5108,Osterwegweiser,0
+5109,Siegel der Huhnkönigin (Event),0
+5110,Magisches Ei (Event),0
+5111,Chick Norris-Zufallstruhe,0
+5115,Punkteinitialisierungstrank (zum Verschenken),0
+5116,Rusty Robby Zufallsbox,0
+9070,Fluffy McFly,0
+5118,Truhe des Fluffy McFly,0
+9071,Speedbooster,0
+5120,FXP-Belohnung,0
+5122,Zufallstruhe des Fluffy McFly,0
+9072,Petslot-Erweiterung,0
+5350,Kunterbunte Buschi-Box,0
+5132,Buschi Sammler-Box,0
+5140,Piratensiegel (Event),0
+5141,Ein Teil der Piraten SP (Event),0
+5142,Piratentuch (Event),0
+5143,Seemannszeichen (Event),0
+5144,O' Pengs Schatzkarte (Event),0
+5145,Limettensaft (Event),0
+5146,Wegweiser mit Piratenflagge,0
+9073,Hornfeger,0
+5153,Truhe des Hornfegers,0
+5154,Zufallstruhe des Hornfegers,0
+5172,Piraten Buschi-Zufallstruhe,0
+5173,Winnie Weißfeder,0
+5181,Winnies Schatztruhe,0
+5182,Zufallsbox mit kunterbunten Buschi-Kostümen,0
+5183,Schwarzes Buschi-Kostümset (unbegrenzt),0
+5184,Blaues Buschi-Kostümset (unbegrenzt),0
+5185,Grünes Buschi-Kostümset (unbegrenzt),0
+5186,Rotes Buschi-Kostümset (unbegrenzt),0
+5187,Pinkfarbenes Buschi-Kostümset (unbegrenzt),0
+5188,Türkisfarbenes Buschi-Kostümset (unbegrenzt),0
+5189,Gelbes Buschi-Kostümset (unbegrenzt),0
+5190,Klassisches Buschi-Kostümset (unbegrenzt),0
+5192,Kürbis (Event),0
+5193,Kürbissirup (Event),0
+5194,Feenverstärker (Event),0
+5195,Segen des Seelensteins (Event),0
+9076,"Nossi, der Drache",0
+5197,Nossis Drachentruhe,0
+5198,Nossis Zufallstruhe,0
+5202,Shogun Buschi-Zufallstruhe,0
+9077,Eisflügel,0
+5204,Elementare Vollmondbox,0
+5205,Elementare Federtruhe,0
+5307,Weihnachtsgeschenkbox,0
+5207,Pijama-Upgraderolle,0
+5208,Weihnachtswegweiser,0
+5209,Santas Segen,0
+5210,Rudolfs Segen,0
+5211,Weihnachtssegen,0
+5212,Mysteriöse Glockentasche,0
+5213,Weihnachtskostümbox,0
+5214,Rolle der Fortbewegung,0
+5215,Magische Wolle,0
+5216,Magische Stricknadel,0
+5217,Sorayas Schal,0
+5218,Eisblumenkristall,0
+5220,Magic dragon random box(TH),0
+5221,Snow box(TH),0
+5222,Magical pack(MY),0
+5223,Freezing pet pack(MY),0
+5224,Rudolf Buschi-Zufallstruhe,0
+5225,2011 Christmas random box(HK),0
+5226,Magische Ski (unsichtbar),0
+5227,Truhe mit magischen Ski (unsichtbar),0
+5228,Magisches Snowboard (unsichtbar),0
+5229,Truhe mit magischem Snowboard (unsichtbar),0
+5230,Zufallstruhe mit magischen Ski,0
+5231,Zufallstruhe mit magischem Snowboard,0
+9078,"Bike ""Billy Boneshaker""",0
+5233,"Bike-Truhe ""Billy Boneshaker""",0
+9079,"Inlineskates ""Blazing Blades""",0
+5235,"Inlineskates-Truhe ""Blazing Blades""",0
+9080,"Skateboard ""Doni Darkslide""",0
+5237,"Skateboard-Truhe ""Doni Darkslide""",0
+9081,"Magische Ski ""Icy Ike""",0
+5239,Truhe mit magischen Ski,0
+9082,"Magisches Snowboard ""Crazy Chris""",0
+5241,Truhe mit magischem Snowboard,0
+5246,Centurio Buschi-Zufallstruhe,0
+5254,"Bike-Zufallstruhe ""Billy Boneshaker""",0
+5255,"Inlineskates-Zufallstruhe ""Blazing Blades""",0
+5256,"Skateboard-Zufallstruhe ""Doni Darkslide""",0
+5258,Goldenes Osterei (Event),0
+5259,Feder der Huhnkönigin (Event),0
+5260,Calvins Ostergeschenk (Event),0
+5261,Osterbox,0
+5262,Wachstumsfrucht (Event),0
+5263,2012 Easter random box(HK),0
+5264,Seraphim box(TH),0
+5265,Zufallstruhe mit flauschigem Hasenkostüm für Männer,0
+5266,Zufallstruhe mit flauschigem Hasenkostüm für Frauen,0
+5267,Flauschiges Hasenkostümset für Männer (unbegrenzt),0
+5268,Flauschiges Hasenkostümset für Frauen (unbegrenzt),0
+5274,Fußball-EM 2012-Zufallstruhe,0
+5279,Zufallstruhe der göttlichen Feen,0
+5280,Pegasus-Truhe,0
+5283,Leonas schicksalhafte Schatztruhe,0
+5285,Darkos höllische Zufallstruhe,0
+5294,Fibis frostige Zufallstruhe,0
+5295,Evil dog random box(HK),0
+5296,Darkness box(TH),0
+5297,Magischer Roller-Zufallstruhe,0
+5298,Magischer Teppich-Zufallstruhe,0
+5299,Plüschige Buschi-Kostüm-Zufallsbox,0
+5300,Plüschige Buschi-Zufallsbox,0
+5301,Plüsch-Buschi-Gutschein,0
+5302,Otofuchskostümset,0
+5303,Zufallstruhe mit Otofuchskostüm,0
+5304,Zufallstruhe mit Aqua Buschi-Kostümset,0
+5308,Timespace: Die Rache der Wikinger,0
+5309,Zufallstruhe des Magischen weißen Tigers,0
+5311,Rudis Zufallstruhe,0
+5317,Zufallstruhe des Keinarmhasen,0
+9083,Weißes Einhorn,0
+9084,Rosarotes Einhorn,0
+9085,Schwarzes Einhorn,0
+5325,Zauberhafte Einhorn-Zufallstruhe,0
+5329,Zauberhafte Einhorn-Truhe,0
+9086,Sonderbares UFO,0
+9087,Marco Pollo,0
+5342,Kostümpaket 1 für Frauen,0
+5343,Kostümpaket 2 für Frauen,0
+5344,Kostümpaket 1 für Männer,0
+5345,Kostümpaket 2 für Männer,0
+5346,Kostümhüte für Frauen,0
+5347,Kostümhüte für Männer,0
+5348,Unisex-Hüte für alle,0
+5349,Farbtopf für Haare,0
+5351,Kunterbunte Buschi-Kostüm-Box,0
+5358,Zaubergewand-Set des Lichtes,0
+5359,Zauberroben-Set des Schattens,0
+9088,Windsurfer,0
+5361,Truhe mit Windsurfer,0
+5369,Goldene Ausrüstungsschutzrolle,0
+9116,Feen-Erfahrungstrank,0
+9089,Titanflügel,0
+5375,Beflügelnde Federtruhe,0
+5376,Beflügelnde Vollmondbox,0
+5379,Geheimnisvolles Skillticket für alle Partnerskills,0
+5380,Riesiges Warenhaus,0
+5392,Gelber Jeep,0
+9090,Blauer Jeep,0
+9091,Roter Jeep,0
+9092,Blaugrüner Jeep,0
+9093,Schwarzer Jeep,0
+9094,Pinkfarbener Jeep,0
+5409,Abgefahrene Jackpot-Box,0
+5410,Farbenfrohe Jeep-Truhe,0
+5412,Rosarotes Partyset (unbegrenzt),0
+5413,Gelbes Partyset (unbegrenzt),0
+5414,Blaues Partyset (unbegrenzt),0
+5415,Rotes Detektivset (unbegrenzt),0
+5416,Goldenes Detektivset (unbegrenzt),0
+5417,Braunes Detektivset (unbegrenzt),0
+5418,Jackpot-Box des Meisterdetektivs,0
+5419,Jackpot-Box der Partykönigin,0
+5424,Jackpot-Box à la Cowboy Buschi,0
+5425,Jackpot-Box à la Ninja Buschi,0
+9095,Erzengelflügel,0
+9096,Erzdämonenflügel,0
+5433,Flügel & mehr,0
+5439,Gewiefte Buschis & mehr,0
+5440,Die Truhe der Ballkünstler,0
+5441,Fußballfanset,0
+5445,Lässige Kostümkiste (w),0
+5446,Tierische Kostümkiste (w),0
+5447,Lockere Kostümkiste (m),0
+5448,Animalische Kostümkiste (m),0
+5449,Hutschachtel für Frauen,0
+5450,Hutschachtel für Männer,0
+5451,Unisex-Hutschachtel,0
+5452,Haarfarbenmix,0
+5453,Brillante Buschis & mehr,0
+5454,Zauberhafte Feen & mehr,0
+5455,Rasante Reittiere & mehr,0
+5456,Treue Haustiere & mehr,0
+5457,Uni-Kostümsets & mehr,0
+5462,Fabelhafte Flügel & mehr,0
+5463,Indianer Buschi & mehr,0
+5470,Halloween & mehr,0
+5471,Wikinger Buschi & mehr,0
+5477,Die Wikingerfamilie & mehr,0
+5478,Die Ninjaeinheit & mehr,0
+5479,Jahrtausendtiger Maru & mehr,0
+5483,Tolle Tigerkostüme & mehr,0
+5484,Bunte Buschi-Kostüme & mehr,0
+5486,Niedliches Tigerkostümset,0
+5487,Schneeweißes Tigerkostümset,0
+9097,Lodernde Feuerflügel,0
+9098,Frostige Eisflügel,0
+5500,Raidsiegel des Lord Draco,0
+5501,Timespace: Helden des Feuers,0
+5502,Spezialistenkarte der Erfahrung,0
+5503,Horn des Basilisken,0
+5504,Robertos Helm,0
+5505,Mysteriöser Sand,0
+5506,Irenes Brille,0
+5507,Haralds Handschuh,0
+5508,Robertos Halskette,0
+5509,Irenes Armreif,0
+5510,Haralds Ring,0
+5511,Ticket der elementaren Zeitreise,0
+5512,Raidsiegel des Glacerus,0
+5513,Timespace: Zerstöre Glacerus' Eissiegel!,0
+5514,Zangpos buddhistische Gebetskette,0
+5515,Falkons Trainingshandschuhe,0
+5516,Elisias Haarschmuck,0
+5517,Angriffsbefehl für Zone des Chaos,0
+5518,Schriftrolle der Eiseskälte,0
+5519,Piraten SP-Upgraderolle,0
+5522,Sammy Samtpfote & mehr,0
+5525,Teufelchens Höllenkiste,0
+5532,Luzifers Lichtbringertruhe,0
+5536,Laurenas Zaubertruhe,0
+9099,Goldschwingen,0
+9100,Onyxschwingen,0
+5572,Illusionistenkostümset (unbegrenzt),0
+9111,Feenflügel,0
+5592,Cooles Strandkostümset (unbegrenzt),0
+5598,Mithrilmedaillentruhe,0
+5599,Polizeiuniformset (unbegrenzt),0
+5604,Portier-Uniformset (unbegrenzt),0
+5610,Wikinger-Kostümset (unbegrenzt),0
+5638,Wüsten-Set (unbegrenzt),0
+5639,Tänzerinnen-Set (unbegrenzt),0
+5655,Medaille des 12. Jahrestages,0
+9123,Abenteurerrucksack (unbegrenzt),0
+9124,Partnerrucksack (unbegrenzt),0
+9125,Haustierkorb (unbegrenzt),0
+5682,Vorratskiste des Rückkehrers,0
+5683,Prächtige Vorratskiste des Rückkehrers,0
+9137,Windschwingen,0
+5711,Mal der alten Meister,0
+9138,Magischer Schlitten,0
+5713,Truhe mit magischem Schlitten,0
+9140,Magischer Schlitten mit Rotnasen-Rentier,0
+5716,Feuerteufel-Set,0
+5722,Gewöhnliche Schatztruhe (verschlossen),0
+5723,Seltene Schatztruhe (verschlossen),0
+5724,Legendäre Schatztruhe (verschlossen),0
+9139,Schatztruhen-Generalschlüssel,0
+5730,Raidsiegel des verrückten Osterhasen,0
+5731,Ostereiförmige Truhe,0
+5732,Osterhasen-Partykostüm-Truhe,0
+5733,Osterhasenkostüm-Set,0
+5734,Raidbox des verrückten Osterhasen,0
+5735,Versiegeltes heldenhaftes Amulett des Segens (Zufall),0
+5737,Feen-Kostümset,0
+5738,FXP-Booster (1 Tag),0
+5739,FXP-Booster (3 Tage),0
+5740,FXP-Booster (7 Tage),0
+5741,FXP-Booster (30 Tage),0
+9141,Magische Esel-Piñata,0
+5744,"""Magische Esel-Piñata""-Truhe",0
+5746,Regenbogen-Zufallstruhe,0
+5749,Engelsfeder-Zufallstruhe,0
+5750,"""Orkische Loa-Accessoires""-Produktionsschriftrolle",0
+5751,"""Orkische Loa-Waffen""-Produktionsschriftrolle",0
+5752,"""Orkische Loa-Zweitwaffen""-Produktionsschriftrolle",0
+5753,"""Orkische Loa-Rüstungen""-Produktionsschriftrolle",0
+5754,Gestohlener Fisch,0
+5755,Intakte Ork-Waffe,0
+5756,Kaputte Ork-Waffe,0
+5757,Brief des Häuptlings,0
+5758,Leichenschmaus-Truhe,0
+5759,Logtas' Testament,0
+5760,Alter Schatztruhenschlüssel,0
+5761,Reparierte Ork-Waffe,0
+5762,Gift des Rotaugen-Skorpions,0
+5763,Orkischer Moostrank,0
+5764,Veredelter Moostrank,0
+5765,Verdorbene Essenz der Reinheit,0
+5766,Verdorbene Essenz der Großmut,0
+5767,Verdorbene Essenz der Gleichmut,0
+5768,Makellose Essenz der Reinheit,0
+5769,Makellose Essenz der Großmut,0
+5770,Makellose Essenz der Gleichmut,0
+5771,Toffels Blut,0
+5772,Andenken des orkischen Wasserhelden,0
+5773,Andenken des orkischen Lichthelden,0
+5774,Andenken des orkischen Feuerhelden,0
+5775,Andenken des orkischen Schattenhelden,0
+5776,Traditionelle orkische Waffen und Rüstungen,0
+5777,Uralte orkische Lehmstatue,0
+5778,Uralte orkische Goldmünze,0
+5779,Morizios-Allheilmittel,0
+5780,Magisches Fernon-Pulver,0
+5781,Magisches Göttinnenpulver,0
+5782,Unbearbeiteter magischer Kristall,0
+5783,Brief von Orus,0
+5784,Kirollas' Raidsiegel,0
+5785,Carnos Raidsiegel,0
+5786,Belials Raidsiegel,0
+9142,Namensänderungskarte,0
+5789,Tropen-Kostümset,0
+5790,"Tattoo-Vorlage ""Bären-Loa""",0
+5791,"Tattoo-Vorlage ""Schlangen-Loa""",0
+5792,"Tattoo-Vorlage ""Löwen-Loa""",0
+5793,"Tattoo-Vorlage ""Adler-Loa""",0
+5795,Inventarerweiterungsticket (30 Tage),0
+5796,Inventarerweiterungsticket (60 Tage),0
+9143,Inventarerweiterungsticket (unbegrenzt),0
+5798,Glänzender Edelstein,0
+5799,Tattoo-Entferner,0
+9144,Blitzschwingen,0
+5801,Timespacestück (Dämonenheiligtum),0
+5802,Timespacestein (Dämonenheiligtum),0
+5803,Vorzüglicher Ring,0
+5804,Truhe mit Halskette,0
+9145,Alpaka des 12. Jahrestages,0
+9146,Rennalpaka des 12. Jahrestages,0
+5808,Alpaka-Truhe zum 12. Jahrestag,0
+5809,Rennalpaka-Truhe zum 12. Jahrestag,0
+5811,Reparatur-Runenamboss,0
+5812,Runenentfernungs-Hammer,0
+5813,Premium-Glücksrunen-Schriftrolle,0
+5814,Heldenerfahrung-Belohnung,0
+5815,Tattoo-Speicherschriftrolle,0
+5816,Frosthexen-Kostümset,0
+5817,Bericht der Agenten (1. Teil),0
+5818,Bericht der Agenten (2. Teil),0
+5819,Bericht der Agenten (3. Teil),0
+5820,Bericht der Agenten (4. Teil),0
+5821,Belials Befehle,0
+5822,Kompletter Bericht,0
+5823,Glücksrunen-Schriftrolle,0
+5825,Vollmondkristall-Zufallstruhe,0
+5832,Starterpaket für Kampfkünstler,0
+9132,Anzug für Frigg,0
+9133,Anzug für Ragnar,0
+9134,Anzug für Erdimien,0
+9135,Anzug für Yertirand,0
+9136,Anzug für Jennifer,0
+9128,Anfänger-Reittierschriftrolle,0
+9121,Magischer Jaguar,0
+5835,Truhe des magischen Jaguars,0
+5836,Sparbuch der Cuarry-Bank,0
+9120,Mega-Titanflügel,0
+9118,VIP-Medaille der Cuarry-Bank (10 Tage),0
+9119,VIP-Medaille der Cuarry-Bank (30 Tage),0
+5840,Ticket für den Raid des wahnsinnigen Dr. Maunz (Event),0
+9117,Mutter Naturs Runenpaket,0
+5842,Hübsche Hexenschatulle (Event),0
+5843,Schrottkiste des wahnsinnigen Dr. Maunz (Event),0
+5844,Vorratskiste des Widerstands (Event),0
+5845,Zauberstab der weißen Hexe Laurena (Event),0
+5846,Raidsiegel des wahnsinnigen Dr. Maunz,0
+5848,Rätseltruhe des Lichs,0
+5849,Alchemistentasche,0
+5850,Buschi-Truhe mit gestohlenen Waren,0
+5851,Alte Wikingertruhe,0
+5852,Alte Gotentruhe,0
+5853,Buschi-König-Verteidigung Raidsiegel,0
+5854,Schafsfarm Raidsiegel,0
+5855,"Raidsiegel für ""Meteor ausweichen""",0
+9113,Partnerslot-Erweiterung,0
+5857,Schlüssel zu Schloss Aria,0
+5867,Akashic-Chronik,0
+5859,Werkzeugkiste,0
+5860,Vorratspaket der Soldaten von Mystic Heaven,0
+5861,Vorratspaket der Soldaten von Hellord,0
+5862,Vorratsticket der Soldaten von Mystic Heaven,0
+5863,Vorratsticket der Soldaten von Hellord,0
+5864,Gebetszettel,0
+5865,Rosenkranz,0
+5866,Blutverschmiertes Testament,0
+5868,Fragment des Timespace,0
+5869,Essenz des Timespace-Fragments,0
+5870,Kristall des Timespace-Fragments,0
+5871,Natürliches Magiepapier,0
+5872,Teilweise zerfetztes Tagebuch,0
+5873,Teilweise zerfetzte Schriftrolle,0
+9112,Kostümfusion,0
+5875,Ei der erwachten Zenas,0
+5876,Ei der erwachten Erenia,0
+5877,Ei der erwachten Fernon,0
+5878,Nussknackerset (unbegrenzt),0
+5879,Instabile Energie,0
+5880,Heiliges Blut,0
+5881,Dunkler Energiestein,0
+5882,Raidsiegel: Audienz bei Erenia,0
+5883,Raidsiegel: Audienz bei Zenas,0
+5884,Ancelloans Accessoire-Produktionsschriftrolle,0
+5885,Ancelloans Waffen-Produktionsschriftrolle,0
+5886,Ancelloans Zweitwaffen-Produktionsschriftrolle,0
+5887,Ancelloans Rüstungs-Produktionsschriftrolle,0
+5888,Ehrenhafte Box,0
+5889,Goldmedaillentruhe,0
+5890,Silbermedaillentruhe,0
+5891,Arenabooster (Talente),0
+9101,Legendäre Ehrenmedaille,0
+9102,Mysteriöse Ehrenmedaille,0
+9103,Antike Ehrenmedaille,0
+9104,Exzellente Ehrenmedaille,0
+9105,Hochqualitative Ehrenmedaille,0
+9106,Gute Ehrenmedaille,0
+9107,Nützliche Ehrenmedaille,0
+9108,Ehrenmedaille,0
+5900,Verkohltes Maskenpergament,0
+5901,Grenigas' Accessoire-Produktionsschriftrolle,0
+5902,Altes Wikingerkostüm (7 Tage) – Skizze,0
+5903,Blaupausen von Fafnirs Jagdhorn,0
+5904,Fafnirs frittierte Mahlzeit,0
+5909,Geschenkbeutel der Akamurhändler,0
+5910,Akamurcoupon,0
+5911,Eisblume,0
+5912,Magischer Sand,0
+5913,Grenigas-Relikt,0
+5914,Magisches Kamel,0
+5915,Truhe mit magischem Kamel (Quest),0
+5916,Großes Eisblumenöl,0
+5917,Linkes Stück von Grenigas' Raidsiegel,0
+5918,Rechtes Stück von Grenigas' Raidsiegel,0
+5919,Runenstück,0
+5920,Kertos' Raidsiegel,0
+5921,Valakus' Raidsiegel,0
+5922,Grenigas' Raidsiegel,0
+5923,Pergamentrolle des magischen Kamels,0
+5924,Mysteriöser Anhänger,0
+5925,Valakets Ei,0
+5926,Herz des Flammengiganten,0
+5927,Großer Hitzewiderstandstrank,0
+5930,Hitzewiderstandstrank,0
+5929,Eisblumenöl,0
+9109,Partnerskillticket (einzeln),0
+9110,Partnerskillticket (alle),0
+5933,Arena der Talente-Ticket,0
+5934,Arena der Meister-Ticket,0
+5935,Erholungstrank (TA),0
+5936,Angriffstrank (TA),0
+5937,Verteidigungstrank (TA),0
+5938,Energietrank (TA),0
+5939,Tempotrank (TA),0
+5940,Entlarvungstrank (TA),0
+5941,Goldene Arenatruhe,0
+5943,Zenas' Segen,0
+5944,Astralenergie,0
+5945,Tarnkappe,0
+5946,Revanche,0
+5947,Eichel,0
+5948,Bronzene Eichel,0
+5949,Silberne Eichel,0
+5950,Goldene Eichel,0
+5951,"Geschenkbox ""Wolf im Schafspelz""",0
+5952,Pegasus herbeirufen,0
+5953,Kangpen herbeirufen,0
+5954,Grimmiges Chicky herbeirufen,0
+5955,Yeti herbeirufen,0
+5956,Rudi herbeirufen,0
+5957,Buschi-König Geschenkbox,0
+5958,Caligors Schatztruhe,0
+5959,Caligors Geist,0
+5960,Caligors leuchtende Schatztruhe,0
+5961,Caligors einfache Schatztruhe,0
+5962,Foxys Raidsiegel,0
+5963,Foxys Wundertruhe,0
+5964,Frische Leber,0
+5965,Blaues Fläschchen,0
+5966,Gelbes Fläschchen,0
+5967,Rotes Fläschchen,0
+5968,Halloween-Schatztruhe,0
+5969,Riesenreiskuchen,0
+5970,Marus Raidsiegel,0
+5971,Marus Tigertruhe,0
+5972,Sesamöl,0
+5974,Truhe des Wanderers,0
+5975,Roter Bohnenreiskuchen,0
+5976,Messingmünze,0
+5977,Hexe Laurenas Raidsiegel,0
+5978,Rote Bohnensuppe,0
+5979,Hongbi-Cheongbi-Raidsiegel,0
+5980,Hungbus Samenkorn,0
+5981,Nolbus Samenkorn,0
+5982,Teufelchens Raidbox,0
+5983,Laurenas Edelstein,0
+5984,Pulver der Reinigung,0
+5985,Laurenas antike Hexentruhe,0
+5986,Seelensplitter,0
+5987,Saat der Verdammnis,0
+5988,Laurenas rätselhafte Hexentruhe,0
+5989,Laurenas sagenumwobene Hexentruhe,0
+5990,Lola Löffels Raidsiegel,0
+5991,Raidbox des Drachenkönigs,0
+5992,Schildkrötengeschenk,0
+5993,Belohnungsbox: Highscore der Beliebten,0
+5994,Belohnungsbox: Rufrangliste,0
+5995,Belohnungsbox: Punkterangliste,0
+5996,Ancelloanessenz,0
+9115,Magischer Knochendrache,0
+5998,Truhe des magischen Knochendrachen,0
+5999,Raidsiegel des uralten Slade-Turms,0
+8399,Cooles Strandkostüm (7 Tage),0
+8400,Cooler Strandhut (7 Tage),0
+9300,Abenteurer,0
+9301,Tierfreund,0
+9302,Rebell,0
+9303,Idealist,0
+9304,Friedensstifter,0
+9305,Diplomat,0
+9306,Unkrautvernichter,0
+9307,Retter von NosVille,0
+9308,Unermüdlich,0
+9309,Einsame Spitze,0
+9310,Zauberkünstler,0
+9311,Hochmagier,0
+9312,Hexenmeister,0
+9313,Silberbogen,0
+9314,Robin Hood,0
+9315,Meisterschütze,0
+9316,Söldner,0
+9317,Tempelritter,0
+9318,Schwertmeister,0
+9319,Schwarzgurt,0
+9320,Sensei,0
+9321,mit der Todeskralle,0
+9322,Totengräber,0
+9323,Nekromant,0
+9324,Influencer,0
+9325,Erleuchteter,0
+9326,Lebende Legende,0
+9327,Reine Seele,0
+9328,Sterndeuter,0
+9329,Strippenzieher,0
+9330,Auserwählter,0
+9331,Held der Vorsehung,0
+9332,Kometenfaust,0
+9333,Erhabener,0
+9334,Naturgewalt,0
+9335,Herkules,0
+9336,PvP-Todesengel,0
+9337,PvP-Champion,0
+9338,PvP-Legende,0
+9339,PvP-Titan,0
+9340,Onyxdrache,0
+9341,Befreier,0
+9342,Glückskind,0
+9343,Scharfsinnig,0
+9344,Bollwerk,0
+9345,Hellseher,0
+9346,Strahlender Held,0
+9347,Göttlich,0
+9348,Horror,0
+9349,Schlitzohr,0
+9350,Versuchsobjekt,0
+9351,Duellant,0
+9352,Einhorn,0
+9353,Neureicher,0
+9354,Feuerteufel,0
+9355,Buschi,0
+9356,Spielkind,0
+9357,Schleckermaul,0
+9358,Gärtner,0
+9359,Ritualhelfer,0
+9360,Verängstigt,0
+9361,Urgestein,0
+9362,Nugget,0
+9363,Sakuras Held,0
+9364,ist satt,0
+9365,Schlafmütze,0
+9366,Meisterdieb,0
+9367,Grillmeister,0
+9368,Arrrrr!,0
+9369,Feuerwelpe,0
+9370,Flammenwerfer,0
+9371,Phönix,0
+9372,Drachentöter,0
+9373,Eiskalt,0
+9374,Doppelgänger,0
+9375,Kleine Hexe,0
+9376,Böser Zwilling,0
+9377,Schlappohr,0
+9378,Engelchen,0
+9379,Teufelchen,0
+9380,Ancelloans Bote,0
+9381,Schatzjäger,0
+9382,Verdorben,0
+9383,Durchgeknallt,0
+9384,Feuerschlucker,0
+9385,Schattenherz,0
+9386,Wasserbändiger,0
+9387,Lichtbringer,0
+9388,Unterwürfig,0
+9389,Künstler,0
+9390,mag Kekse,0
+9391,Naturtalent,0
+9392,Allergrößter Fan,0
+9393,Quizmaster,0
+9394,Model,0
+9395,Filmstar,0
+9396,Wortschöpfer,0
+9397,überlebt!,0
+9398,Samtpfote,0
+9399,Warmes Herz,0
+9400,Retter der Orks,0
+9600,[Monatlich] Ranglistenerfolg – 1. Platz auf der monatlichen FXP-Rangliste,0
+9601,[Monatlich] Ranglistenerfolg – 1. Platz auf der monatlichen Regenbogenschlacht-Rangliste,0
+9602,[Monatlich] Ranglistenerfolg – 1. Platz auf der monatlichen Familienrangliste (Engel),0
+9603,[Monatlich] Ranglistenerfolg – 1. Platz auf der monatlichen Familienrangliste (Dämonen),0
+9604,[Täglich] Die Regenbogenschlacht 10-mal abschließen,0
+9605,[Täglich] Die Regenbogenschlacht 5-mal gewinnen,0
+9606,[Täglich] Familienraid-Bossmonster 1-mal besiegen,0
+9607,[Täglich] Den Huhnkönig-Raid 5-mal abschließen,0
+9608,[Täglich] Den Cuby-Mutter-Raid 5-mal abschließen,0
+9609,[Täglich] Den Ginseng-Raid 5-mal abschließen,0
+9610,[Täglich] Den Dark-Castra-Raid 5-mal abschließen,0
+9611,[Täglich] Den Raid der schwarzen Riesenspinne 5-mal abschließen,0
+9612,[Täglich] Den Riesenslade-Raid 5-mal abschließen,0
+9613,[Täglich] Den Räuberbanden-Raid 5-mal abschließen,0
+9614,[Täglich] Den Kertos-Raid 5-mal abschließen,0
+9615,[Täglich] Den Valakus-Raid 5-mal abschließen,0
+9616,[Täglich] Den Grenigas-Raid 5-mal abschließen,0
+9617,[Täglich] 10-mal Instant Combat abschließen,0
+9618,Familienlevel 2 erreichen,0
+9619,Familienlevel 3 erreichen,0
+9620,Familienlevel 4 erreichen,0
+9621,Familienlevel 5 erreichen,0
+9622,Familienlevel 6 erreichen,0
+9623,Familienlevel 7 erreichen,0
+9624,Familienlevel 8 erreichen,0
+9625,Familienlevel 9 erreichen,0
+9626,Familienlevel 10 erreichen,0
+9627,Familienlevel 11 erreichen,0
+9628,Familienlevel 12 erreichen,0
+9629,Familienlevel 13 erreichen,0
+9630,Familienlevel 14 erreichen,0
+9631,Familienlevel 15 erreichen,0
+9632,Familienlevel 16 erreichen,0
+9633,Familienlevel 17 erreichen,0
+9634,Familienlevel 18 erreichen,0
+9635,Familienlevel 19 erreichen,0
+9636,Familienlevel 20 erreichen,0
+9637,20-mal den Spruch des Tages verfassen,0
+9638,100-mal den Spruch des Tages verfassen,0
+9639,300-mal den Spruch des Tages verfassen,0
+9640,1.000-mal den Spruch des Tages verfassen,0
+9641,3000-mal den Spruch des Tages verfassen,0
+9642,Die Regenbogenschlacht 10-mal abschließen,0
+9643,Die Regenbogenschlacht 100-mal abschließen,0
+9644,Die Regenbogenschlacht 300-mal abschließen,0
+9645,Die Regenbogenschlacht 1.000-mal abschließen,0
+9646,Die Regenbogenschlacht 3.000-mal abschließen,0
+9647,Die Regenbogenschlacht 5-mal gewinnen,0
+9648,Die Regenbogenschlacht 50-mal gewinnen,0
+9649,Die Regenbogenschlacht 150-mal gewinnen,0
+9650,Die Regenbogenschlacht 500-mal gewinnen,0
+9651,Die Regenbogenschlacht 1.500-mal gewinnen,0
+9652,10 Bossmonster im Familienraid in Glacernon besiegen,0
+9653,100 Bossmonster im Familienraid in Glacernon besiegen,0
+9654,1.000 Bossmonster im Familienraid in Glacernon besiegen,0
+9655,Meister Morcos 1-mal besiegen,0
+9656,Meister Morcos 10-mal besiegen,0
+9657,Meister Morcos 30-mal besiegen,0
+9658,Meister Morcos 100-mal besiegen,0
+9659,Meister Morcos 300-mal besiegen,0
+9660,Meister Hatus 1-mal besiegen,0
+9661,Meister Hatus 10-mal besiegen,0
+9662,Meister Hatus 30-mal besiegen,0
+9663,Meister Hatus 100-mal besiegen,0
+9664,Meister Hatus 300-mal besiegen,0
+9665,Lady Calvinas 1-mal besiegen,0
+9666,Lady Calvinas 10-mal besiegen,0
+9667,Lady Calvinas 30-mal besiegen,0
+9668,Lady Calvinas 100-mal besiegen,0
+9669,Lady Calvinas 300-mal besiegen,0
+9670,Baron Berios 1-mal besiegen,0
+9671,Baron Berios 10-mal besiegen,0
+9672,Baron Berios 30-mal besiegen,0
+9673,Baron Berios 100-mal besiegen,0
+9674,Baron Berios 300-mal besiegen,0
+9675,Erhöhter Erfahrungsgewinn,0
+9676,Erhöhter Goldgewinn,0
+9677,"Effekt ""Große Ausdauer""",0
+9678,Raidleiste in Glacernon füllen,0
+9679,Angriffs- und Verteidigungskraft erhöhen (Stufe 1),0
+9680,Angriffs- und Verteidigungskraft erhöhen (Stufe 2),0
+9681,Angriffs- und Verteidigungskraft erhöhen (Stufe 3),0
+9682,Angriffs- und Verteidigungskraft erhöhen (Stufe 4),0
+9683,Angriffs- und Verteidigungskraft erhöhen (Stufe 5),0
+9684,Angriffs- und Verteidigungskraft erhöhen (Stufe 6),0
+9685,Verbesserte Wirkung von Essen und Snacks (Stufe 1),0
+9686,Verbesserte Wirkung von Essen und Snacks (Stufe 2),0
+9687,Verbesserte Wirkung von Essen und Snacks (Stufe 3),0
+9688,Reduzierte Kosten von Teleportationen und Schiffsreisen (Stufe 1),0
+9689,Reduzierte Kosten von Teleportationen und Schiffsreisen (Stufe 2),0
+9690,Reduzierte Kosten von Teleportationen und Schiffsreisen (Stufe 3),0
+9691,Verbesserte Wirkung von Tränken (Stufe 1),0
+9692,Verbesserte Wirkung von Tränken (Stufe 2),0
+9693,Verbesserte Wirkung von Tränken (Stufe 3),0
+9694,Warenhaus der Familie (Stufe 1),0
+9695,Warenhaus der Familie (Stufe 2),0
+9696,Max. Anzahl Familienmitglieder erhöhen (Stufe 1),0
+9697,Max. Anzahl Familienmitglieder erhöhen (Stufe 2),0
+9698,Angriffs- und Verteidigungskraft erhöhen (Stufe 1) – Verfügbar,0
+9699,Angriffs- und Verteidigungskraft erhöhen (Stufe 2) – Verfügbar,0
+9700,Angriffs- und Verteidigungskraft erhöhen (Stufe 3) – Verfügbar,0
+9701,Angriffs- und Verteidigungskraft erhöhen (Stufe 4) – Verfügbar,0
+9702,Angriffs- und Verteidigungskraft erhöhen (Stufe 5) – Verfügbar,0
+9703,Angriffs- und Verteidigungskraft erhöhen (Stufe 6) – Verfügbar,0
+9704,Verbesserte Wirkung von Essen und Snacks (Stufe 1) – Verfügbar,0
+9705,Verbesserte Wirkung von Essen und Snacks (Stufe 2) – Verfügbar,0
+9706,Verbesserte Wirkung von Essen und Snacks (Stufe 3) – Verfügbar,0
+9707,Reduzierte Kosten von Teleportationen und Schiffsreisen (Stufe 1) – Verfügbar,0
+9708,Reduzierte Kosten von Teleportationen und Schiffsreisen (Stufe 2) – Verfügbar,0
+9709,Reduzierte Kosten von Teleportationen und Schiffsreisen (Stufe 3) – Verfügbar,0
+9710,Verbesserte Wirkung von Tränken (Stufe 1) – Verfügbar,0
+9711,Verbesserte Wirkung von Tränken (Stufe 2) – Verfügbar,0
+9712,Verbesserte Wirkung von Tränken (Stufe 3) – Verfügbar,0
+9713,Warenhaus der Familie (Stufe 1) – Verfügbar,0
+9714,Warenhaus der Familie (Stufe 2) – Verfügbar,0
+9715,Max. Anzahl Familienmitglieder erhöhen (Stufe 1) – Verfügbar,0
+9716,Max. Anzahl Familienmitglieder erhöhen (Stufe 2) – Verfügbar,0
+9717,1.000 FXP,0
+9718,1.500 FXP,0
+9719,2.000 FXP,0
+9720,2.500 FXP,0
+9721,3.000 FXP,0
+9722,5.000 FXP,0
+9723,10.000 FXP,0
+9724,25.000 FXP,0
+9725,30.000 FXP,0
+9726,50.000 FXP,0
+9727,100.000 FXP,0
+9728,150.000 FXP,0
+9729,200.000 FXP,0
+9730,300.000 FXP,0
+9731,500.000 FXP,0
+9732,Erhöhte Feuerresistenz (Stufe 1),0
+9733,Erhöhte Feuerresistenz (Stufe 2),0
+9734,Erhöhte Feuerresistenz (Stufe 3),0
+9735,Erhöhte Feuerresistenz (Stufe 4),0
+9736,Erhöhte Feuerresistenz (Stufe 5),0
+9737,Erhöhte Schattenresistenz (Stufe 1),0
+9738,Erhöhte Schattenresistenz (Stufe 2),0
+9739,Erhöhte Schattenresistenz (Stufe 3),0
+9740,Erhöhte Schattenresistenz (Stufe 4),0
+9741,Erhöhte Schattenresistenz (Stufe 5),0
+9742,Erhöhte Wasserresistenz (Stufe 1),0
+9743,Erhöhte Wasserresistenz (Stufe 2),0
+9744,Erhöhte Wasserresistenz (Stufe 3),0
+9745,Erhöhte Wasserresistenz (Stufe 4),0
+9746,Erhöhte Wasserresistenz (Stufe 5),0
+9747,Erhöhte Lichtresistenz (Stufe 1),0
+9748,Erhöhte Lichtresistenz (Stufe 2),0
+9749,Erhöhte Lichtresistenz (Stufe 3),0
+9750,Erhöhte Lichtresistenz (Stufe 4),0
+9751,Erhöhte Lichtresistenz (Stufe 5),0
+9752,[Täglich] Familienraid-Bossmonster in 10 Minuten besiegen,0
+9753,[Täglich] Familienraid-Bossmonster ohne Verluste besiegen,0
+9754,[Täglich] 10-mal Raidhelfer,0
+9755,[Täglich] 10 Gegner in Glacernon besiegen,0
+9756,[Täglich] Den Namaju-Raid 5-mal abschließen,0
+9757,Erhöht den FXP-Gewinn um 100%.,0

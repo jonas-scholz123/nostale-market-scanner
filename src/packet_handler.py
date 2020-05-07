@@ -30,6 +30,7 @@ class Packet_handler():
 
         # read csv to find which items to scan:
         self.get_scannables()
+        print(self.scannables)
 
         # init database handler
         self.DB = DB_handler()
@@ -71,7 +72,7 @@ class Packet_handler():
         injector.unload()
 
 
-    def get_scannables(self, fpath = "../nostale_packet_IDs.csv"):
+    def get_scannables(self, fpath = "../name_to_id.csv"):
         packetIDs = pd.read_csv(fpath)
         scannables = packetIDs[packetIDs["toScan"] == 1].copy()
         self.scannables = scannables.drop("toScan", axis = 1)
@@ -109,7 +110,9 @@ class Packet_handler():
         time.sleep(3)
 
         while True:
-            for item_name, itemID, packet in self.scannables.values:
+            for itemID, item_name in self.scannables.values:
+
+                packet = "c_blist  0 0 0 0 0 0 0 0 1 " + str(itemID)
                 self.search_bazaar(packet, item_name)
                 time.sleep(1.5)
             time.sleep(60)

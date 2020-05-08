@@ -54,6 +54,8 @@ name_and_id = [(k, v) for k, v in name2id.items()]
 df = pd.DataFrame(name_and_id, columns = ["itemName", "itemID"])
 df.set_index("itemID", inplace = True)
 df.insert(1, "toScan", 0)
+df.insert(2, "packetWorks", 1)
+df.insert(2, "replacementPacket", 0)
 
 df.to_csv("../name_to_id.csv")
 #%%

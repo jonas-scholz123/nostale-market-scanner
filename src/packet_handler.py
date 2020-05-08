@@ -29,6 +29,7 @@ class Packet_handler():
         self.inject_dlls()
 
         # read csv to find which items to scan:
+        self.ID_csv_path = "../name_to_id.csv"
         self.get_scannables()
         print(self.scannables)
 
@@ -72,11 +73,16 @@ class Packet_handler():
         injector.unload()
 
 
-    def get_scannables(self, fpath = "../name_to_id.csv"):
-        packetIDs = pd.read_csv(fpath)
+    def get_scannables(self):
+        packetIDs = pd.read_csv(self.ID_csv_path)
         scannables = packetIDs[packetIDs["toScan"] == 1].copy()
         self.scannables = scannables.drop("toScan", axis = 1)
         return
+
+    def set_packet_not_working(self, itemID):
+        packetIDs = pd.read_csv(self.ID_csv_path)
+        packetIDs.loc[packetIDs["itemID"] == itemID, "packetWorks"] = 0
+        packetIDs.to_csv(self.ID_csv_path, index=False)
 
     def parser(self, packet):
         """Reads packet, seperates commands, args """
@@ -92,6 +98,7 @@ class Packet_handler():
         """Encodes packet command, args into nostale-readable packet """
         p_args_str = [str(arg) for arg in p_args] #make str
         return " ".join([p_command] + p_args_str)
+
 
     def run(self):
         while not (self.SS.connected and self.RS.connected):
@@ -110,12 +117,24 @@ class Packet_handler():
         time.sleep(3)
 
         while True:
-            for itemID, item_name in self.scannables.values:
+            for itemID, item_name, replacement_packet, packet_works in self.scannables.values:
 
-                packet = "c_blist  0 0 0 0 0 0 0 0 1 " + str(itemID)
-                self.search_bazaar(packet, item_name)
+                if not packet_works:
+                    if replacement_packet:
+                        packet = replacement_packet
+                    else:
+                        print("packet for ", item_name, "doesn't work, moving on...")
+                        continue
+                else:
+                    packet = "c_blist  0 0 0 0 0 0 0 0 1 " + str(int(itemID))
+
+                print("sending packet ", packet, " to search for ", item_name)
+                success = self.search_bazaar(packet, item_name)
+                if not success:
+                    self.set_packet_not_working(itemID)
                 time.sleep(1.5)
-            time.sleep(60)
+            time.sleep(1200)
+            self.get_scannables() #refreshes csv
 
         return
 
@@ -164,18 +183,23 @@ class Packet_handler():
         self.SS.send_packet(packet)
         received, r_command, r_args = self.wait_for_response("rc_blist")
         if received:
-            entry_df = self.parse_basar_search(r_args)
+            success, entry_df = self.parse_basar_search(r_args)
+            if not success: return False
             entry_df.insert(1, "itemName", [item_name for i in range(len(entry_df.index))])
             self.DB.insert_entry(entry_df)
         else:
             print("No response was received. Moving on to next packet.")
 
+        return True
+
     def parse_basar_search(self, search_args):
         '''search_args = list of packet arguments returned by search_bazaar package.
                          Each packet is one bazaar entry'''
-
         entries = search_args[1:]
         entry_df = pd.DataFrame([e.split("|") for e in entries])
+        if len(entry_df.columns) < 14:
+            print("Basar search failed.")
+            return False, 0
         entry_df.columns = ["basarID", "sellerID", "sellerName", "itemID", "quantity", #_id = basarID
                             "unknown3", "price", "expiryTime", "unknown4", "unknown5",
                             "unknown6", "unknown7", "unknown8", "unknown9", "unknown10"]
@@ -186,7 +210,7 @@ class Packet_handler():
         entry_df.drop(labels = to_drop, axis = 1, inplace = True)
         entry_df.dropna(inplace = True)
 
-        return entry_df
+        return True, entry_df
 
 
 
